@@ -1,4 +1,5 @@
 ---
+permalink: /latex/
 title: "Getting Started with Latex"
 ---
 
