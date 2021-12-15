@@ -41,7 +41,7 @@
      inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     inkscape:snap-global="true" />
+     inkscape:snap-global="false" />
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -268,29 +268,29 @@
        style="font-size:70.1944px;line-height:1.25;font-family:sans-serif;word-spacing:0px;white-space:pre;shape-inside:url(#rect3130);fill:#00c3ff;fill-opacity:1"><tspan
          x="156.05078"
          y="765.3595"
-         id="tspan317497"><tspan
+         id="tspan317661"><tspan
            style="font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
-           id="tspan317495">ect</tspan></tspan></text>
+           id="tspan317659">ect</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.33370286,0,0,0.37087998,93.973755,-141.30841)"
+       transform="matrix(0.33370286,0,0,0.37087998,97.146211,-157.87928)"
        id="text3128-44"
        style="font-size:70.1944px;line-height:1.25;font-family:sans-serif;word-spacing:0px;white-space:pre;shape-inside:url(#rect3130-0);fill:#00c3ff;fill-opacity:1"><tspan
          x="156.05078"
          y="765.3595"
-         id="tspan317501"><tspan
+         id="tspan317665"><tspan
            style="font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
-           id="tspan317499">e</tspan></tspan></text>
+           id="tspan317663">e</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.33370286,0,0,0.37087998,82.203255,-140.63948)"
+       transform="matrix(0.33370286,0,0,0.37087998,86.211246,-157.27292)"
        id="text3128-4"
        style="font-size:70.1944px;line-height:1.25;font-family:sans-serif;word-spacing:0px;white-space:pre;shape-inside:url(#rect3130-8);fill:#00c3ff;fill-opacity:1"><tspan
          x="156.05078"
          y="765.3595"
-         id="tspan317505"><tspan
+         id="tspan317669"><tspan
            style="font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable'"
-           id="tspan317503">l</tspan></tspan></text>
+           id="tspan317667">l</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.33370286,0,0,0.37087998,9.1189676,-164.27377)"
@@ -298,11 +298,11 @@
        style="font-size:60.1666px;line-height:1.25;font-family:sans-serif;word-spacing:0px;white-space:pre;shape-inside:url(#rect3130-6);fill:#00c3ff;fill-opacity:1"><tspan
          x="156.05078"
          y="769.79562"
-         id="tspan317511"><tspan
+         id="tspan317675"><tspan
            style="font-size:75.2083px"
-           id="tspan317507">r</tspan><tspan
+           id="tspan317671">r</tspan><tspan
            style="font-size:75.2083px"
-           id="tspan317509">o</tspan></tspan></text>
+           id="tspan317673">o</tspan></tspan></text>
     <g
        id="g101363"
        transform="translate(6.7646783,-0.68377927)">
@@ -330,9 +330,9 @@
        style="font-size:266.667px;line-height:1.25;font-family:sans-serif;word-spacing:0px;white-space:pre;shape-inside:url(#rect125273);fill:#ffec00;fill-opacity:1"><tspan
          x="237.29883"
          y="848.95927"
-         id="tspan317515"><tspan
+         id="tspan317679"><tspan
            style="font-size:200px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
-           id="tspan317513">P</tspan></tspan></text>
+           id="tspan317677">P</tspan></tspan></text>
     <path
        style="fill:none;stroke:#ffffff;stroke-width:2.14403;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 135.6834,128.84856 c 0,14.53645 0,14.53645 0,14.53645"
