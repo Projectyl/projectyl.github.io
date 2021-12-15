@@ -117,7 +117,7 @@ sidebar:
 #     image: http://placehold.it/350x250
 #     image_alt: "image"
 #     text: "Some text here."
-  - title: "Welcome to InternPro!"
+  - title: "Welcome to Projectile!"
 #     text: "More text here."
     url: /about/
 header:
