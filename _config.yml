@@ -112,5 +112,10 @@ tag_archive:
   path: /tags/
   
 sidebar:
-  - title: "What is this about?"
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
 #     url: /_posts/2021-12-15-Welcome-to-InternPro.md
