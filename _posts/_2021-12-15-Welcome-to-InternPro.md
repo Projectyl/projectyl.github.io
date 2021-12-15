@@ -1,5 +1,4 @@
 ---
-permalink: /about/
 title: "Welcome to InternPro!"
 ---
 
