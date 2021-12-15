@@ -57,7 +57,7 @@ plugins:
 
 author:
 #   name   : "First Lastname"
-  avatar : "/assets/images/logo.png"
+  avatar : "/assets/images/logo.svg"
   bio    : "An internship with the correct scientist can be of immense help in starting your career in research."
 #   links:
 #     - label: "Website"
