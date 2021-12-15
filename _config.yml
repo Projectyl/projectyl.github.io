@@ -120,3 +120,5 @@ sidebar:
   - title: "Welcome to InternPro!"
 #     text: "More text here."
     url: /about/
+header:
+  image: /assets/images/logo.png
