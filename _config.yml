@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Projectile
+title: Projectyl
 email: mukherjeeabhirup44@gmail.com
 description: "An internship with the correct scientist can be of immense help in starting your career in research."
 twitter_username: username
