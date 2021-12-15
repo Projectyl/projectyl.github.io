@@ -10,9 +10,11 @@ main:
     
 docs:
   - title: Getting Started
-    url: /_posts/2012-12-16-Latex-Resources.md/
-  - title: Getting Started
-    url: /_posts/2012-12-16-Latex-Resources.md/
+    children:
+      - title: "1"
+#     url: /_posts/2012-12-16-Latex-Resources.md/
+#   - title: Getting Started
+#     url: /_posts/2012-12-16-Latex-Resources.md/
 #     children:
 #       - title: "Quick-Start Guide"
 #         url: /docs/quick-start-guide/
