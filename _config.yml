@@ -59,9 +59,6 @@ author:
 #   name   : "First Lastname"
   avatar : "/assets/images/logo.png"
   bio    : "An internship with the correct scientist can be of immense help in starting your career in research."
-  links:
-      - label: "For the newcomers"
-        url: "https://searyblue.github.io/Welcome-to-InternPro/"
 #   links:
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
@@ -115,11 +112,11 @@ tag_archive:
   type: liquid
   path: /tags/
   
-# sidebar:
+sidebar:
 #   - title: "Title"
 #     image: http://placehold.it/350x250
 #     image_alt: "image"
 #     text: "Some text here."
-#   - title: "Another Title"
+  - title: "Welcome to InternPro!"
 #     text: "More text here."
-#     url: /_posts/2021-12-15-Welcome-to-InternPro.md
+    url: /about/
