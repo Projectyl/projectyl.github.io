@@ -1,8 +1,14 @@
 ---
-permalink: /about_old/
-title: "About"
+permalink: /about/
+title: "Welcome to InternPro!"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## What is this about?
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Education in undergraduate institutes is usually inadequate in preparing students for research. There is almost no exposure to actual research methods or cutting-edge topics, making it harder for the students to jump into research. Summer projects, summer schools, workshops, and online courses bridge this gap to a great extent, and this website intends to make this process easier by providing exhaustive information regarding these methods.
+
+## What can you find here?
+
+* We will provide regular and up-to-date information regarding summer projects and internships that are available in various institutes in India.
+* We will provide resources that will help interested students while applying for these positions.
+* We will maintain list of supplementary material that we feel might help undergraduate students in honing their numerical or programming skills.
