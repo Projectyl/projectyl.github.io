@@ -110,3 +110,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+sidebar:
+  - title: "What is this about?"
+    url: /_posts/2021-12-15-Welcome-to-InternPro.md
