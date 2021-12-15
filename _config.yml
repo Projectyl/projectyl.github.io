@@ -60,7 +60,7 @@ author:
   avatar : "/assets/images/logo.png"
   bio    : "An internship with the correct scientist can be of immense help in starting your career in research."
   links:
-      - label: "What is this about?"
+      - label: "For the newcomers"
         url: /_posts/2021-12-15-Welcome-to-InternPro.md
 #   links:
 #     - label: "Website"
