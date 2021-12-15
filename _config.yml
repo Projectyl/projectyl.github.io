@@ -17,8 +17,8 @@
 title: Projectile
 email: mukherjeeabhirup44@gmail.com
 description: "An internship with the correct scientist can be of immense help in starting your career in research."
-twitter_username: username
-github_username: username
+# twitter_username: username
+# github_username: username
 search: true
 minimal_mistakes_skin: "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -75,15 +75,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -111,14 +111,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-  
-sidebar:
-#   - title: "Title"
-#     image: http://placehold.it/350x250
-#     image_alt: "image"
-#     text: "Some text here."
-  - title: "Welcome to Projectile!"
-#     text: "More text here."
-    url: /about/
-header:
-  image: /assets/images/logo.png
