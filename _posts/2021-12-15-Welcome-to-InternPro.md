@@ -9,5 +9,7 @@ Education in undergraduate institutes is usually inadequate in preparing student
 ## What should you expect?
 
 -We will provide regular and up-to-date information regarding summer projects and internships that are available in various institutes in India.
+
 -We will provide resources that will help interested students while applying for these positions.
+
 -We will maintain list of supplementary material that we feel might help undergraduate students in honing their numerical or programming skills.
