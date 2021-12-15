@@ -10,11 +10,14 @@ main:
     
 docs:
   - title: Learn Latex
+    url: /latex/
+  - title: Try Python
+    url: /python/
+
 #     children:
 #       - title: "1"
 #     url: /_posts/2012-12-16-Latex-Resources.md/
 #   - title: Getting Started
-    url: /latex/
 #     children:
 #       - title: "Quick-Start Guide"
 #         url: /docs/quick-start-guide/
