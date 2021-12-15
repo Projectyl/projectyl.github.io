@@ -1,5 +1,6 @@
 ---
 title: "Resources for Learning Python"
+permalink: /python/
 ---
 
 This is a curated list of sources for getting acquainted with the Python programming language and the useful tools it offers.
