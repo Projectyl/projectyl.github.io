@@ -11,6 +11,7 @@ main:
 docs:
   - title: Learn Latex
     url: /latex/
+    
   - title: Try Python
     url: /python/
 
