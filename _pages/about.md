@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Welcome to Projectile!"
+title: "Welcome to Projectyl!"
 ---
 
 ## What is this about?
