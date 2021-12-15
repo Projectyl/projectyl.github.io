@@ -1,6 +1,6 @@
 ---
-permalink: /latex/
 title: "Getting Started with Latex"
+permalink: /latex/
 ---
 
 Below are some useful links for getting acquainted with the latex text-processing system.
