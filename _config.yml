@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Projectile
+# title: Projectile
 email: mukherjeeabhirup44@gmail.com
-# subtitle: "An internship with the correct scientist can be of immense help in starting your career in research."
+subtitle: "An internship with the correct scientist can be of immense help in starting your career in research."
 description: "An internship with the correct scientist can be of immense help in starting your career in research!"
 # twitter_username: username
 # github_username: username
@@ -106,9 +106,9 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# category_archive:
+#   type: liquid
+#   path: /categories/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
