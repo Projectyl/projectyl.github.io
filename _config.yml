@@ -61,7 +61,7 @@ author:
   bio    : "An internship with the correct scientist can be of immense help in starting your career in research."
   links:
       - label: "For the newcomers"
-        url: /_posts/2021-12-15-Welcome-to-InternPro.md
+        url: "https://searyblue.github.io/Welcome-to-InternPro/"
 #   links:
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
