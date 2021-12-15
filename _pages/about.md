@@ -1,10 +1,7 @@
 ---
-image: /assets/images/logo.svg
 permalink: /about/
 title: "Welcome to Projectile!"
 ---
-
-<!-- ![This is the logo.](/assets/images/logo.svg) -->
 
 ## What is this about?
 
