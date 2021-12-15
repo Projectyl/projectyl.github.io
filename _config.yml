@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: InternPro
-email:
-description: An interesting summer project with the correct scientist can lift you from a lack-lustre undergraduate degree to a state-of-the art research program. Want to know more? Keep reading!
+email: mukherjeeabhirup44@gmail.com
+description: "An internship with the correct scientist can be of immense help in starting your career in research."
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -57,7 +57,7 @@ plugins:
 author:
 #   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "An internship with the correct scientist can be of immense help in starting your career in research."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
