@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Welcome to InternPro!"
+title: "Welcome to Projectile!"
 ---
 
 ## What is this about?
