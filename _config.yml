@@ -26,6 +26,7 @@ minimal_mistakes_skin: "sunrise" # "default", "air", "aqua", "contrast", "dark",
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+# theme: minimal-mistakes-jekyll
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -49,11 +50,11 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
+  # - jekyll-paginate
+  # - jekyll-sitemap
+  # - jekyll-gist
 #   - jekyll-feed
-  - jemoji
+  # - jemoji
   - jekyll-include-cache
 logo: "/assets/images/logo.png"
 # author:
@@ -115,3 +116,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+github: [metadata]
