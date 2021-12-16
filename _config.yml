@@ -52,7 +52,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+#   - jekyll-feed
   - jemoji
   - jekyll-include-cache
 # logo: "/assets/images/logo.png"
@@ -82,9 +82,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Projectyl/projectyl.github.io"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "projectylindia@gmail.com"
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "projectylindia@gmail.com"
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
@@ -115,7 +115,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-  
-after_footer_scripts:
-  - https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js
-  - assets/js/clipboardrouge.js
