@@ -56,7 +56,7 @@ plugins:
 #   - jekyll-feed
   # - jemoji
   - jekyll-include-cache
-logo: "/assets/images/logo.png"
+# logo: "/assets/images/logo.png"
 # author:
 #   name   : "First Lastname"
 #   avatar : "/assets/images/logo.png"
