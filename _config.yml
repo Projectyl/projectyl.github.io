@@ -118,4 +118,4 @@ tag_archive:
   path: /tags/
 
 comments:
-  provider: "staticman" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
