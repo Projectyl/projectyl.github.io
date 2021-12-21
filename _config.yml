@@ -117,4 +117,5 @@ tag_archive:
   type: liquid
   path: /tags/
 
-github: [metadata]
+comments:
+  provider: "staticman" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
