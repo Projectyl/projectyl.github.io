@@ -119,3 +119,5 @@ tag_archive:
 
 comments:
   provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  disqus:
+    shortname: "searyblue"
