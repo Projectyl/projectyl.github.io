@@ -128,4 +128,4 @@ comments:
     issue_term: "pathname"
 #     label: "comment" # Optional - must be existing label.
 
-repository: apps/utterances
+repository: "apps/utterances"
