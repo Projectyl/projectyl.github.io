@@ -118,6 +118,8 @@ tag_archive:
   path: /tags/
 
 comments:
-  provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
-  disqus:
-    shortname: "searyblue"
+  provider: "facebook" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  facebook:
+    appid: # optional
+    num_posts: # 5 (default)
+    colorscheme: "dark" # "light" (default), "dark"
