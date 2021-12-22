@@ -118,6 +118,9 @@ tag_archive:
   path: /tags/
 
 comments:
-  provider               : "disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
-  disqus:
-    shortname            : cross-validated
+#   provider               : "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+provider: "facebook"
+  facebook:
+    appid: # optional
+    num_posts: 10 # 5 (default)
+    colorscheme: "dark" # "light" (default), "dark"
