@@ -119,7 +119,7 @@ tag_archive:
 
 comments:
 #   provider               : "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
-provider: "facebook"
+  provider: "facebook"
   facebook:
     appid: # optional
     num_posts: 10 # 5 (default)
