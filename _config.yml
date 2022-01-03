@@ -21,7 +21,9 @@ description: "An internship with the correct scientist can be of immense help in
 # twitter_username: username
 # github_username: username
 search: true
-minimal_mistakes_skin: "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+github: [metadata]
 
 # Build settings
 markdown: kramdown
@@ -119,8 +121,8 @@ tag_archive:
 
 comments:
 #   provider               : "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
-  provider: "facebook"
-  facebook:
-    appid: # optional
-    num_posts: 10 # 5 (default)
-    colorscheme: "dark" # "light" (default), "dark"
+  provider: "custom"
+  # provider: "facebook"
+  # facebook:
+  #   num_posts: 10
+  #   colorscheme: "dark"
