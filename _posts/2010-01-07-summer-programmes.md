@@ -1,5 +1,5 @@
 ---
-title: "Summer Programs with upcoming deadlines and more to be declared soon: ICTS and others"
+title: "Summer programs with upcoming deadlines, ICTS and others, More to be declared soon"
 permalink: /sp2022/
 excerpt_separator: "<!--more-->"
 categories:
