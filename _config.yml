@@ -124,3 +124,9 @@ comments:
     appid: # optional
     num_posts: 10 # 5 (default)
     colorscheme: "dark" # "light" (default), "dark"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-PTENXHF228"
+    anonymize_ip: false # default
