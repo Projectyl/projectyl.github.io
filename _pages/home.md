@@ -23,7 +23,7 @@ feature_row:
     title: "A Guide to Applying for Internships"
   - image_path: /assets/images/people.jpg
     alt: "alt"
-    title: "Recent Posts"
+    title: Recent Posts
 ---
 
 {% include feature_row %}
