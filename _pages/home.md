@@ -24,6 +24,7 @@ feature_row:
   - image_path: /assets/images/people.jpg
     alt: "alt"
     title: Recent Posts
+    url: /index/
 ---
 
 {% include feature_row %}
