@@ -97,7 +97,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: false
       comments: true
       share: false
@@ -111,6 +111,10 @@ defaults:
       layout: single
       author_profile: false
       classes: wide
+      comments: true
+      share: false
+      related: false
+
 
 category_archive:
   type: liquid
