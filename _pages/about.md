@@ -5,10 +5,10 @@ title: "Welcome to Projectyl!"
 
 ## What is this about?
 
-Education in undergraduate institutes is usually inadequate in preparing students for research. There is almost no exposure to actual research methods or cutting-edge topics, making it harder for the students to jump into research. Summer projects, summer schools, workshops, and online courses bridge this gap to a great extent, and this website intends to make this process easier by providing exhaustive information regarding these methods.
+Physics education in undergraduate institutes is often inadequate in preparing students for research. Lack of exposure to actual methods and cutting-edge topics makes it harder for the students to jump into doctoral work. Summer projects, summer schools, workshops, and online courses bridge this gap to a great extent, and this page intends to make this process easier by providing exhaustive information regarding these avenues.
 
 ## What can you find here?
 
-* We will provide regular and up-to-date information regarding summer projects and internships that are available in various institutes in India.
-* We will provide resources that will help interested students while applying for these positions.
-* We will maintain list of supplementary material that we feel might help undergraduate students in honing their numerical or programming skills.
+* We will provide regular and up-to-date information regarding summer/winter projects and internships on physics and other related fields, at various institutes in India.
+* We will provide resources that will guide interested students in applying for these programs. These include help in writing up statements of purpose, approaching professors and creating a curriculum vitae.
+* We also intend, at some point, to create a database of scientitst categorised into topics; students will be able to search through the topics in order to find research groups that match their interests.
