@@ -5,7 +5,7 @@ permalink: /
 header:
   # overlay_color: "#00000"
   # overlay_filter: "0.6"
-  overlay_image: /assets/images/calm.jpg
+  overlay_image: /assets/images/banner_resized.jpg
   actions:
     - label: "Learn More"
       url: /about/
@@ -15,13 +15,13 @@ excerpt: <large>Starting research straight out of college can be daunting - we a
 #<br /><small>We help students in finding the internship of their choice and applying there.</small>
 author_profile: false
 feature_row:
-  - image_path: /assets/images/research.jpg
+  - image_path: /assets/images/research_.jpg
     alt: "alt"
     title: "Active Programs"
-  - image_path: /assets/images/write.jpg
+  - image_path: /assets/images/write_.jpg
     alt: "alt"
     title: "A Guide to Applying for Internships"
-  - image_path: /assets/images/people.jpg
+  - image_path: /assets/images/people_.jpg
     alt: "alt"
     title: Recent Posts
     url: /index/
