@@ -3,9 +3,9 @@ title: "Welcome to Projectyl!"
 layout: splash
 permalink: /
 header:
-  # overlay_color: "#00000"
-  # overlay_filter: "0.6"
-  overlay_image: /assets/images/calm.jpg
+  overlay_color: "#00000"
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/banner.jpg
   actions:
     - label: "Learn More"
       url: /about/
