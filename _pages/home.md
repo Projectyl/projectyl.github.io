@@ -12,13 +12,10 @@ excerpt: <large>Starting research straight out of college can be daunting - we a
 author_profile: false
 feature_row:
   - image_path: /assets/images/research.jpg
-    alt: "alt"
     title: "Active Programs"
   - image_path: /assets/images/write.jpg
-    alt: "alt"
     title: "A Guide to Applying for Internships"
   - image_path: /assets/images/people.jpg
-    alt: "alt"
     title: Recent Posts
     url: /index/
 ---
