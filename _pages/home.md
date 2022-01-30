@@ -13,6 +13,7 @@ author_profile: false
 feature_row:
   - image_path: /assets/images/research.jpg
     title: "Active Programs"
+    url: /summer/
   - image_path: /assets/images/write.jpg
     title: "A Guide to Applying for Internships"
   - image_path: /assets/images/people.jpg
