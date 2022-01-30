@@ -1,7 +1,7 @@
 ---
 title: "ICTS and other Institutes Declare Summer Programs"
 subtitle: "More to be declared soon"
-permalink: /sp2022/
+permalink: /post1/
 excerpt_separator: "<!--more-->"
 categories:
   - Program Notification
