@@ -11,7 +11,7 @@ Following are the currently active summer programs.
 | Institute | Deadline | Website |
 | :--- | :---: | :--- |
 | Open Quantum Initiative | Feb 11, 2022 | [https://bit.ly/3g959TO](https://bit.ly/3g959TO){: link} | 
-| Racah Institute of Physics, Israel | Feb 15, 2022 | [https://bit.ly/3IPFfRg](https://bit.ly/3IPFfRg){: link} | 
+| Racah Institute of Physics Israel | Feb 15, 2022 | [https://bit.ly/3IPFfRg](https://bit.ly/3IPFfRg){: link} | 
 | NCRA Pune | Feb 21, 2022 | [https://bit.ly/3G1ylXw](https://bit.ly/3G1ylXw){: link} | 
 | Phasecraft Quantum Software | Mar 15, 2022 | [https://bit.ly/3Hf9dxG](https://bit.ly/3Hf9dxG){: link} | 
 | SatSure Quantum ML internship |  | [https://bit.ly/3r3neJa](https://bit.ly/3r3neJa){: link} | 
@@ -21,11 +21,11 @@ Following are the currently active summer programs.
 | IISC Bangalore  | Jan 15, 2022 | [https://bit.ly/32FUmgS](https://bit.ly/32FUmgS){: link} |
 | HRI Prayagraj (Allahabad) |  | [https://bit.ly/3G54BsM](https://bit.ly/3G54BsM){: link} | 
 
-# Yet To Be Declared
+## Yet To Be Declared
 Several other institutes will soon declare summer programs of their own. We will provide updates as soon as they become available.
 
 | Institute | Last Deadline | Website |
-| :--- | :---: | ---: |
+| :--- | :---: | :--- |
 | JNSCAR Bangalore |  | [https://bit.ly/3G54BsM](https://bit.ly/3G54BsM){: link} |
 | IISER Kolkata | May 5, 2021 | [https://bit.ly/3o9jPXr](https://bit.ly/3o9jPXr){: link} |
 | SN Bose Institute Kolkata | May 15, 2021 | [https://bit.ly/3g99shX ](https://bit.ly/3g99shX){: link} |

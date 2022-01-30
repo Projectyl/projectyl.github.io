@@ -25,26 +25,25 @@ thead {
 }
 
 th {
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
+	padding-top: 0.4em;
+	padding-bottom: 0.4em;
 
-  // added some horizontal padding
-  padding-left: 5em;
-  padding-right: 5em;
+	padding-left: 2em;
+	padding-right: 2em;
 
-  font-weight: bold;
-  text-align: left;
+	font-weight: bold;
+	font-size: 23px;
+	text-align: left;
 }
 
 td {
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
+	padding-top: 0.4em;
+	padding-bottom: 0.4em;
 
-  // added some horizontal padding
-  padding-left: 5em;
-  padding-right: 5em;
+	padding-left: 3em;
+	padding-right: 3em;
 
-  border-bottom: 1px solid mix(#000, $border-color, 25%);
+	border-bottom: 1px solid mix(#000, $border-color, 25%);
 }
 
 tr,
