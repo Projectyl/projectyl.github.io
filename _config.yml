@@ -38,60 +38,9 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
 # Plugins (previously gems:)
 plugins:
-  # - jekyll-paginate
-  # - jekyll-sitemap
-  # - jekyll-gist
-#   - jekyll-feed
-  # - jemoji
   - jekyll-include-cache
-
-# logo: "/assets/images/logo.png"
-# author:
-#   name   : "First Lastname"
-#   avatar : "/assets/images/logo.png"
-#   bio    : "An internship with the correct scientist can be of immense help in starting your career in research."
-#   links:
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       url: "https://"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/"
-
-footer:
-  links:
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Projectyl/projectyl.github.io"
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       url: "projectylindia@gmail.com"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/"
 
 defaults:
   # _posts

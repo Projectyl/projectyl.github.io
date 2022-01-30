@@ -6,7 +6,7 @@ title: "Summer Programs 2022"
 
 {:link: target="_blank" style="text-decoration: none"}
 
-Following are the currently active summer programs.
+Following are the currently active summer programs. It is available for download as a [pdf](https://bit.ly/34oEdNg){: link}.
 
 | Institute | Deadline | Website |
 | :--- | :---: | :--- |
