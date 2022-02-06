@@ -25,6 +25,9 @@ thead {
 }
 
 th {
+
+	background-color: $border-color;
+	border-bottom: 2px solid mix(#000, $border-color, 25%);
 	padding-top: 0.4em;
 	padding-bottom: 0.4em;
 
