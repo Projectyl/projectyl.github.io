@@ -60,7 +60,7 @@ Several other institutes will soon declare summer programs of their own. We will
 
 These programs have either stopped accepting applications due to closing of deadlines, or have not declared any program this session.
 <table>
-{% for row in site.data.closed %}
+{% for row in site.data.inactive %}
 	{% if forloop.first %}
 	<tr>
 	{% for pair in row %}
