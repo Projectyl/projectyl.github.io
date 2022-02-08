@@ -18,8 +18,7 @@ title: Projectyl
 email: mukherjeeabhirup44@gmail.com
 subtitle: "Online resource aggregator for students"
 description: "An internship with the correct scientist can be of immense help in starting your career in research!"
-# twitter_username: username
-# github_username: username
+url: "https://projectyl.github.io/"
 search: true
 minimal_mistakes_skin: "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -28,12 +27,9 @@ github: [metadata]
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# theme: minimal-mistakes-jekyll
-# Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /_posts/page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -43,7 +39,6 @@ plugins:
   - jekyll-include-cache
 
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -52,10 +47,9 @@ defaults:
       author_profile: false
       read_time: false
       comments: true
-      share: false
+      share: true
       related: false
       classes: wide
-  # _pages
   - scope:
       path: "_pages"
       type: pages
@@ -64,7 +58,7 @@ defaults:
       author_profile: false
       classes: wide
       comments: true
-      share: false
+      share: true
       related: false
 
 
