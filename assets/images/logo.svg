@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="171.27118mm"
+   height="171.27118mm"
+   viewBox="0 0 171.27117 171.27117"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/kirito/storage/projectyl.github.io/assets/images/logo_fb.png"
+   inkscape:export-xdpi="301.79614"
+   inkscape:export-ydpi="301.79614"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-global="true"
+     inkscape:zoom="1.111916"
+     inkscape:cx="396.61271"
+     inkscape:cy="302.63079"
+     inkscape:window-width="1916"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7350"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect17724"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect17720"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect17716"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect17712"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect17708"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11992"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11582"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11578"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5761"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5757"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5753"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5749"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5591"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5587"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5583"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3333"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3329"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3325"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2102"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1660"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1075"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect859"
+       is_visible="true"
+       lpeversion="1" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter9287"
+       x="-0.060226552"
+       y="-0.063484535"
+       width="1.0702643"
+       height="1.0634845">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood9277" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite9279" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur9281" />
+      <feOffset
+         dx="-3"
+         dy="-3"
+         result="offset"
+         id="feOffset9283" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite9285" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix9307" />
+      <feFlood
+         id="feFlood9309"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite9311"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur9313"
+         in="composite1"
+         stdDeviation="0"
+         result="blur" />
+      <feOffset
+         id="feOffset9315"
+         dx="-3"
+         dy="-3"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite9317"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter11051"
+       x="-0.10037759"
+       y="-0.063484535"
+       width="1.1104153"
+       height="1.0634845">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood11041" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite11043" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur11045" />
+      <feOffset
+         dx="-5"
+         dy="-3"
+         result="offset"
+         id="feOffset11047" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite11049" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11071" />
+      <feFlood
+         id="feFlood11073"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite11075"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur11077"
+         in="composite1"
+         stdDeviation="0"
+         result="blur" />
+      <feOffset
+         id="feOffset11079"
+         dx="-5"
+         dy="-3"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite11081"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(3.2483368,-62.54921)">
+    <circle
+       style="opacity:1;fill:#303030;fill-opacity:1;stroke:none;stroke-width:5.39973;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path963"
+       cx="82.387253"
+       cy="148.1848"
+       r="85.63559" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:8.28823;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d=""
+       id="path7357"
+       transform="matrix(0.26458333,0,0,0.26458333,-114.92352,3.1614108)" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:8.28823;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d=""
+       id="path7396"
+       transform="matrix(0.26458333,0,0,0.26458333,-114.92352,3.1614108)" />
+    <g
+       id="g7837">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 65.075656,206.55383 V 123.2247"
+         id="path17706"
+         inkscape:path-effect="#path-effect17708"
+         inkscape:original-d="m 65.075656,206.55383 c 2.65e-4,-27.77611 2.65e-4,-55.55249 0,-83.32913" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:10.7546;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 70.082861,123.2247 H 33.104018"
+         id="path17710"
+         inkscape:path-effect="#path-effect17712"
+         inkscape:original-d="m 70.082861,123.2247 c -12.325976,2.7e-4 -24.652256,2.7e-4 -36.978843,0" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 33.104018,123.2247 80.897843,85.554302"
+         id="path17714"
+         inkscape:path-effect="#path-effect17716"
+         inkscape:original-d="M 33.104018,123.2247 C 49.035556,110.66817 64.966833,98.111366 80.897843,85.554302" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 80.897843,85.554302 141.914,126.82826"
+         id="path17718"
+         inkscape:path-effect="#path-effect17720"
+         inkscape:original-d="M 80.897843,85.554302 C 101.23683,99.312551 121.57555,113.07054 141.914,126.82826" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 141.914,126.82826 -76.838344,38.061"
+         id="path17722"
+         inkscape:path-effect="#path-effect17724"
+         inkscape:original-d="m 141.914,126.82826 c -25.61252,12.68726 -51.225299,25.37427 -76.838344,38.061" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 55.550656,206.55383 V 123.2247"
+         id="path7346"
+         inkscape:path-effect="#path-effect7350"
+         inkscape:original-d="m 55.550656,206.55383 c 2.65e-4,-27.77611 2.65e-4,-55.55249 0,-83.32913" />
+    </g>
+  </g>
+</svg>

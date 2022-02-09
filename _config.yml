@@ -20,6 +20,7 @@ subtitle: "Online resource aggregator for students"
 description: "An internship with the correct scientist can be of immense help in starting your career in research!"
 url: "https://projectyl.github.io/"
 search: true
+logo: "/assets/images/logo.svg"
 minimal_mistakes_skin: "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 github: [metadata]
