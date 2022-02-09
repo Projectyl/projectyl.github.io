@@ -30,7 +30,7 @@ Following are the currently active summer programs. It is available for download
 {% endfor %}
 </table>
 
-### Yet To Be Declared
+# Yet To Be Declared
 
 Several other institutes will soon declare summer programs of their own. We will provide updates as soon as they become available.
 
@@ -56,7 +56,7 @@ Several other institutes will soon declare summer programs of their own. We will
 {% endfor %}
 </table>
 
-### Closed or Inactive
+# Closed or Inactive
 
 These programs have either stopped accepting applications due to closing of deadlines, or have not declared any program this session.
 <table>
