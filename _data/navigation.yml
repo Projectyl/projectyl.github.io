@@ -5,28 +5,5 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
-    
-docs:
-  - title: Learn Latex
-    url: /latex/
-    
-  - title: Try Python
-    url: /python/
-
-#     children:
-#       - title: "1"
-#     url: /_posts/2012-12-16-Latex-Resources.md/
-#   - title: Getting Started
-#     children:
-#       - title: "Quick-Start Guide"
-#         url: /docs/quick-start-guide/
-#       - title: "Structure"
-#         url: /docs/structure/
-#       - title: "Installation"
-#         url: /docs/installation/
-#       - title: "Upgrading"
-#         url: /docs/upgrading/
-#       - title: "Utility Classes"
-#         url: /docs/utility-classes/
+  - title: "Contact Us"
+    url: /contact/
