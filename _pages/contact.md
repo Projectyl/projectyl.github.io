@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: <br>Contact Us<br><br>
+title: Contact Us<br>
 header:
   overlay_image: /assets/images/contact.svg
 
