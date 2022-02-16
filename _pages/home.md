@@ -7,8 +7,8 @@ header:
   actions:
     - label: "Learn More"
       url: /about/
-  
-excerpt: <large>Starting research straight out of college can be daunting - we are here to make it easier.</large>
+ 
+excerpt: _<large>Starting research straight out of college can be daunting - we are here to make it easier.</large>_
 author_profile: false
 feature_row:
   - image_path: /assets/images/research.jpg

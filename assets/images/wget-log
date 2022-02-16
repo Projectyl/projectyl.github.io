@@ -1,12 +1,0 @@
---2022-02-15 09:25:50--  https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vbWVkaWEucmJsLm1zL2ltYWdlP3U9JTJGZmlsZXMlMkYyMDE2JTJGMTIlMkYwNSUyRjYzNjE2NTU4NDc0OTA2MDkzNjE3MzIzMjI5OTFfSGVybWlvbmUtZ3Jhbmdlci1yb24td2Vhc2xleS1oYXJyeS1wb3R0ZXItaHA0LXN0dWR5LTZ4NC5qcGcmaG89aHR0cHMlM0ElMkYlMkZhejYxNjU3OC52by5tc2VjbmQubmV0JnM9NjEmaD00NWNlMTliNmI1YWE5ZWM2YzU1MjY0MjdkZmU1MzhlOGRmYTg0Y2I0NzBjZDk0ZWM0YThiYzEzMzcyYzc1NzljJnNpemU9OTgweCZjPTM5ODk1MDIxNTAiLCJleHBpcmVzX2F0IjoxNjYzMTAxNTUwfQ._OJ9JzWEa7Qx1FrYn_31gPDbXPKHzbq7AX1ocyPJX7k/img.jpg?width=1200
-Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
-Resolving assets.rebelmouse.io (assets.rebelmouse.io)... 199.232.253.68
-Connecting to assets.rebelmouse.io (assets.rebelmouse.io)|199.232.253.68|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 146856 (143K) [image/jpeg]
-Saving to: ‘hp_head.jpg’
-
-hp_head.jpg           0%[                    ]       0  --.-KB/s               hp_head.jpg         100%[===================>] 143.41K  --.-KB/s    in 0.09s   
-
-2022-02-15 09:25:51 (1.59 MB/s) - ‘hp_head.jpg’ saved [146856/146856]
-
