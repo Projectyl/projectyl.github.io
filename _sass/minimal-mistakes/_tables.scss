@@ -4,7 +4,6 @@
 
 table {
   margin-bottom: 1em;
-
   // added these to center the table
   margin-left:auto; 
   margin-right:auto; 
@@ -21,13 +20,13 @@ table {
 
 thead {
   background-color: $border-color;
-  border-bottom: 2px solid mix(#000, $border-color, 25%);
+  // border-bottom: 2px solid mix(#000, $border-color, 25%);
 }
 
 th {
 
 	background-color: $border-color;
-	border-bottom: 2px solid mix(#000, $border-color, 25%);
+	// border-bottom: 2px solid mix(#000, $border-color, 25%);
 	padding-top: 0.4em;
 	padding-bottom: 0.4em;
 
@@ -43,10 +42,10 @@ td {
 	padding-top: 0.4em;
 	padding-bottom: 0.4em;
 
-	padding-left: 3em;
-	padding-right: 3em;
+	padding-left: 2em;
+	padding-right: 2em;
 
-	border-bottom: 1px solid mix(#000, $border-color, 25%);
+	// border-bottom: 1px solid mix(#000, $border-color, 25%);
 }
 
 tr,
