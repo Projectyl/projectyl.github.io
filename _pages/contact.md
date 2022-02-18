@@ -23,7 +23,7 @@ feature_row3:
     excerpt: 'Data scientist,<br>Univ.AI,Bangalore'
 
 feature_row4:
-  - image_path: /assets/images/suvranila.png
+  - image_path: /assets/images/suvranil.png
     alt: "placeholder image 2"
     title: "Suvranil Ghosh"
     excerpt: 'Graduate Trainee,<br>Simons Center for the<br>Study of Living Machines,<br>NCBS-TIFR, Bangalore'
