@@ -1,7 +1,7 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Programs"
+  - title: "Internships"
     url: /summer/
   - title: "Notifications"
     url: /notifications/

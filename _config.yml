@@ -81,5 +81,5 @@ comments:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-PTENXHF228"
+    tracking_id: "G-MYJJD2WVS1"
     anonymize_ip: false # default
