@@ -51,3 +51,19 @@
     margin-right: span(1.7 of 12);
   }
 }
+
+details > summary {
+    list-style-type: "";
+}
+
+details[open] > summary {
+    list-style-type: "";
+}
+
+details {
+    padding: 0.5rem;
+}
+
+// details[open] > summary {
+//     margin-bottom: 0.5rem;
+// }
