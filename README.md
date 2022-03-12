@@ -27,3 +27,5 @@ Physics education in undergraduate institutes is often inadequate in preparing s
 - [ ] Create a post that lays out the ways in which high school students can get exposure to advanced  science and research
 - [ ] Create a curated database of scientists who are prepared to undertake project students
 - [ ] Separate internships into seasonal (summer/winter) and throughout-the-year types
+- [ ] Add ability to filter database according to institution
+- [ ] Improve the appearance of tables in the database
