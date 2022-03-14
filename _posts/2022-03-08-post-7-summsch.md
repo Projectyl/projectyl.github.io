@@ -1,6 +1,6 @@
 ---
-title: <br>Summer Schools and Workshops<br>
-excerpt: _Learn physics while the sun shines_
+title: <br>Summer Schools and Workshops
+excerpt: _Learn physics while the sun shines_<br>
 permalink: /post7/
 categories:
   - Program Notification
@@ -8,8 +8,8 @@ tags:
   - "summer school"
   - "workshop"
 header:
-  overlay_image: assets/images/grasses.jpg
-  overlay_filter: 0.5
+  overlay_image: assets/images/grasses.svg
+  overlay_filter: 0.2
   caption: "[Photo credit](https://pixabay.com/photos/seagull-beach-summer-sea-sand-3232350/)"
 ---
 
@@ -19,7 +19,7 @@ Various institutes organise summer schools and workshops to help students get ex
 
 ## Domestic
 
-- [**Future Flavours: Prospects for Beauty, Charm and Tau Physics**](https://www.icts.res.in/program/ff2022){:link} (online)
+- [**Future Flavours: Prospects for Beauty, Charm and Tau Physics**](https://www.icts.res.in/program/ff2022){:link}
  
   **Institute**: ICTS
 
