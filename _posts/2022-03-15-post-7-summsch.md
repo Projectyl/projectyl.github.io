@@ -1,5 +1,5 @@
 ---
-title: <br>Summer Schools and Workshops
+title: <br>Upcoming Summer Schools and Workshops
 excerpt: _Learn physics while the sun shines_<br>
 permalink: /post7/
 categories:
