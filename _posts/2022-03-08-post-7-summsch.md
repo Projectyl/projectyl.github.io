@@ -25,10 +25,15 @@ Various institutes organise summer schools and workshops to help students get ex
 
   **Deadline**: April 18, 2022
 
-  **Summary**: "The programme will offer a pedagogical introduction to experimental and phenomenological flavour physics through seven brief lecture courses, followed by a three-day topical conference. The lecture courses will introduce flavour phenomenology within the standard model and beyond, as well as explaining the role of quantum chromodynamics. In addition, there will be lectures about the experimental techniques employed at the LHC and in electron-positron collisions. The concluding topical conference will review the latest results and prospects in the field of flavour physics."
+  **Topic**: Pedagogical Introduction to Experimental and Phenomenological Flavour Physics
+
+  **Target Audience**: Ph.D students in particle physics and above. Final year M.Sc. students may apply if they have done courses and/or project work in particle physics
+
 
 - [**Oxford Summer Courses in India**](https://oxfordsummercourses.com/india/){:link}
- 
+
+  **Institute**: Oakridge International School
+
   **Summary**: "Summer courses in India offer you world-renowned small group learning, taught by expert Oxford tutors – and all in the exceptional surroundings of Oakridge International School, in Bangalore. Meet like-minded students your own age, tackle challenging academic work and improve your critical thinking through lively workshops. Then end your summer course by receiving your certificate and letter of recommendation. It’s challenging, exciting and fun."
 
 ## International
@@ -39,13 +44,17 @@ Various institutes organise summer schools and workshops to help students get ex
 
   **Deadline**: July 1, 2022
 
-  **Summary**: "The purpose of this summer school is to encourage the next generation of researchers into quantum-based research. The aim of the school is to bring participants up to the cutting edge of research in some aspects of quantum information and computation, and to make it easier to get to that cutting edge in other aspects of the field."
+  **Topic**:  Cutting edge of research in some aspects of quantum information and computation
+
+  **Target audience**: Advanced bachelor, masters or PhD students
 
 - [**20th Annual Wolfram Summer School**](https://education.wolfram.com/summer-school/programs/physics/){:link}
  
   **Organiser**: Wolfram
 
-  **Summary**: "Offering an unprecedented opportunity to contribute to Wolfram’s search for the fundamental theory of physics, the Wolfram Physics track is primarily intended for advanced research-oriented students in mathematics and physics, as well as those with strong backgrounds in algorithmic programming. These projects will leverage key ideas from Stephen Wolfram’s book A New Kind of Science, along with more recent innovations made by the Wolfram Physics Project, to study Wolfram models—a new class of discrete models for the fundamental structure of spacetime—and use them to make cutting-edge contributions to our understanding of general relativity, quantum field theory and mathematical physics. A project in the Physics track has the potential to form the basis of an academic publication or thesis, and particularly successful projects may be featured as part of the Wolfram Physics Project itself."
+  **Topic**: These projects will leverage key ideas from Stephen Wolfram’s book _A New Kind of Science_, along with more recent innovations made by the Wolfram Physics Project, to study Wolfram models.
+
+  **Target audience**: advanced research-oriented students in mathematics and physics, as well as those with strong backgrounds in algorithmic programming
 
 - [**Queen Mary Summer School**](https://www.qmul.ac.uk/summer-school/){:link}
  
@@ -61,4 +70,6 @@ Various institutes organise summer schools and workshops to help students get ex
 
   **Deadline**: March 31, 2022
 
-  **Summary**: "The School is oriented to PhD students, master students and young researchers, and aims to provide a privileged vision of quantum optical technologies, from quantum imaging and metrology to quantum communication, computing, and simulation, with both a theoretical and an experimental perspective."
+  **Topic**: quantum optical technologies, from quantum imaging and metrology to quantum communication, computing, and simulation, with both a theoretical and an experimental perspective
+
+  **Target audience**: PhD students, master students and young researchers
