@@ -6,23 +6,36 @@ title: "Summer Programs 2022"
 
 {:link: target="_blank" style="text-decoration: none"}
 
-Following are the currently active summer programs. It is available for download as a [pdf](https://bit.ly/34oEdNg){: link}.
+Following are the currently active summer programs. It is available for download as a [pdf](https://bit.ly/34oEdNg){: link}. (Note that the institute names in the left columns are hyperlinks to the respective webpages.)
 
 <table>
 {% for row in site.data.active %}
 	{% if forloop.first %}
 	<tr>
 	{% for pair in row %}
-		<th>{{ pair[0] }}</th>
+	{% if forloop.first %}
+	<th align="left">{{ pair[0] }}</th>
+	{% else %}
+	{% unless forloop.last %}
+	<th align="center">{{ pair[0] }}</th>
+	{% endunless %}
+	{% endif %}
 	{% endfor %}
 	</tr>
 	{% else %}
 	<tr>
 	{% for pair in row %}
 	{% if forloop.last %}
-	<td><a target="_blank" style="text-decoration: none" href="{{ pair[1] }}">{{ pair[1] }}</a></td>
+	{% assign link = pair[1] %}
+	{% endif %}
+	{% endfor %}
+	{% for pair in row %}
+	{% if forloop.first %}
+	<td align="left"><a target="_blank" style="text-decoration: none" href="{{ link }}">{{ pair[1] }}</a></td>
 	{% else %}
-	<td>{{ pair[1] }}</td>
+	{% unless forloop.last %}
+	<td align="center">{{ pair[1] }}</td>
+	{% endunless %}
 	{% endif %}
 	{% endfor %}
 	</tr>
@@ -39,16 +52,29 @@ Several other institutes will soon declare summer programs of their own. We will
 	{% if forloop.first %}
 	<tr>
 	{% for pair in row %}
-		<th>{{ pair[0] }}</th>
+	{% if forloop.first %}
+	<th align="left">{{ pair[0] }}</th>
+	{% else %}
+	{% unless forloop.last %}
+	<th align="center">{{ pair[0] }}</th>
+	{% endunless %}
+	{% endif %}
 	{% endfor %}
 	</tr>
 	{% else %}
 	<tr>
 	{% for pair in row %}
 	{% if forloop.last %}
-	<td><a target="_blank" style="text-decoration: none" href="{{ pair[1] }}">{{ pair[1] }}</a></td>
+	{% assign link = pair[1] %}
+	{% endif %}
+	{% endfor %}
+	{% for pair in row %}
+	{% if forloop.first %}
+	<td align="left"><a target="_blank" style="text-decoration: none" href="{{ link }}">{{ pair[1] }}</a></td>
 	{% else %}
-	<td>{{ pair[1] }}</td>
+	{% unless forloop.last %}
+	<td align="center">{{ pair[1] }}</td>
+	{% endunless %}
 	{% endif %}
 	{% endfor %}
 	</tr>
@@ -59,21 +85,35 @@ Several other institutes will soon declare summer programs of their own. We will
 # Closed or Inactive
 
 These programs have either stopped accepting applications due to closing of deadlines, or have not declared any program this session.
+
 <table>
 {% for row in site.data.inactive %}
 	{% if forloop.first %}
 	<tr>
 	{% for pair in row %}
-		<th>{{ pair[0] }}</th>
+	{% if forloop.first %}
+	<th align="left">{{ pair[0] }}</th>
+	{% else %}
+	{% unless forloop.last %}
+	<th align="center">{{ pair[0] }}</th>
+	{% endunless %}
+	{% endif %}
 	{% endfor %}
 	</tr>
 	{% else %}
 	<tr>
 	{% for pair in row %}
 	{% if forloop.last %}
-	<td><a target="_blank" style="text-decoration: none" href="{{ pair[1] }}">{{ pair[1] }}</a></td>
+	{% assign link = pair[1] %}
+	{% endif %}
+	{% endfor %}
+	{% for pair in row %}
+	{% if forloop.first %}
+	<td align="left"><a target="_blank" style="text-decoration: none" href="{{ link }}">{{ pair[1] }}</a></td>
 	{% else %}
-	<td>{{ pair[1] }}</td>
+	{% unless forloop.last %}
+	<td align="center">{{ pair[1] }}</td>
+	{% endunless %}
 	{% endif %}
 	{% endfor %}
 	</tr>
