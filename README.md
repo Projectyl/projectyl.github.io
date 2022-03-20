@@ -29,3 +29,6 @@ Physics education in undergraduate institutes is often inadequate in preparing s
 - [ ] Separate internships into seasonal (summer/winter) and throughout-the-year types
 - [ ] Add ability to filter database according to institution
 - [ ] Improve the appearance of tables in the database
+- [ ] Automate the generation of pdf from internship lists
+- [ ] Automate looking up webpages to see if new program announcements are available 
+- [ ] Expand the list of summer workshops and summer schools by incorporating the remaining items from the google sheet
