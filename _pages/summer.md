@@ -6,10 +6,10 @@ title: "Summer Programs 2022"
 
 {:link: target="_blank" style="text-decoration: none"}
 
-Following are the currently active summer programs. It is available for download as a [pdf](https://bit.ly/34oEdNg){: link}. (Note that the institute names in the left columns are hyperlinks to the respective webpages.)
+Following are the currently active summer programs. It is available for download as a [pdf](https://drive.google.com/file/d/1ACoZx-BdsIJ91rLAThYLnuRHnIXvwOBr/view?usp=sharing){: link}. (Note that the institute names in the left columns are hyperlinks to the respective webpages.)
 
 <table>
-{% for row in site.data.active %}
+{% for row in site.data.summer.active %}
 	{% if forloop.first %}
 	<tr>
 	{% for pair in row %}
@@ -48,7 +48,7 @@ Following are the currently active summer programs. It is available for download
 Several other institutes will soon declare summer programs of their own. We will provide updates as soon as they become available.
 
 <table>
-{% for row in site.data.yet %}
+{% for row in site.data.summer.yet %}
 	{% if forloop.first %}
 	<tr>
 	{% for pair in row %}
@@ -87,7 +87,7 @@ Several other institutes will soon declare summer programs of their own. We will
 These programs have either stopped accepting applications due to closing of deadlines, or have not declared any program this session.
 
 <table>
-{% for row in site.data.inactive %}
+{% for row in site.data.summer.inactive %}
 	{% if forloop.first %}
 	<tr>
 	{% for pair in row %}
