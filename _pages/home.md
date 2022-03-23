@@ -25,7 +25,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/iit-g.jpg
     title: "Summer Programs at IIT Gandhinagar and IIT Madras"
-    excerpt: "Research program at MCQST, Munich"
+    excerpt: "Research program at MCQST,Munich"
     url: /post6/
 
 ---
