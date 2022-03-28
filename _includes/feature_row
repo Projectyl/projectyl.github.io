@@ -11,11 +11,21 @@
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
-            <img src="{{ f.image_path | relative_url }}"
-                 alt="{% if f.alt %}{{ f.alt }}{% endif %}">
-            {% if f.image_caption %}
-              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
-            {% endif %}
+		{% if f.url %}
+		<a href="{{ f.url | relative_url }}" style="text-decoration:none">
+		<img src="{{ f.image_path | relative_url }}"
+                alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+		{% if f.image_caption %}
+		<span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+		{% endif %}
+		</a>
+		{% else %}
+		<img src="{{ f.image_path | relative_url }}"
+                alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+		{% if f.image_caption %}
+		<span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+		{% endif %}
+		{% endif %}
           </div>
         {% endif %}
 
@@ -28,8 +38,13 @@
 		  {% endif %}
 	  {% endif %}
           {% if f.excerpt %}
+	  {% if f.url %}
+            <div class="archive__item-excerpt">
+              <a href="{{ f.url | relative_url }}" style="text-decoration:none">{{ f.excerpt | markdownify }}</a>
+	  {% else %}
             <div class="archive__item-excerpt">
               {{ f.excerpt | markdownify }}
+	  {% endif %}
             </div>
           {% endif %}
         </div>
