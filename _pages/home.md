@@ -11,19 +11,19 @@ excerpt: _<large>Starting research straight out of college can be daunting - we 
 author_profile: false
 
 feature_row:
+  - image_path: /assets/images/palakkad.svg
+    title: Summer Programs at NISER, IISER Bhopal
+    url: /post10/
+
+feature_row2:
   - image_path: /assets/images/school.svg
     title: Science Programs for High School Students
     url: /post9/
 
-feature_row2:
+feature_row3:
   - image_path: /assets/images/ropar.svg
     title: Summer Programs at IIT Ropar, IIA and SINP
     url: /post8/
-
-feature_row3:
-  - image_path: /assets/images/grasses.svg
-    title: Upcoming Summer Schools and Workshops
-    url: /post7/
 
 
 ---

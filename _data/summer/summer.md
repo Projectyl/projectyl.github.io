@@ -25,29 +25,29 @@ The institute names in the left columns are hyperlinks to the respective webpage
 \rowcolor{darkgray}
 \textcolor{white}{\textbf{Institute}} & \textcolor{white}{\textbf{Deadline}}\\
 \rowcolor{lyellow}
+\href{https://www.niser.ac.in/sps/scholarship/summer-project-programme-2022}{NISER} & April 20, 2022 \\
+\rowcolor{lightgray}
+\href{https://www.iiserb.ac.in/doaa/internship}{IISER Bhopal} & April 20, 2022 \\
+\rowcolor{lyellow}
+\href{https://www.bose.res.in/AcademicProgrammes/SRP.jsp}{Bose Nat. Center} & April 20, 2022 \\
+\rowcolor{lightgray}
 \href{https://www.iitrpr.ac.in/summer-internship/Application-Form}{IIT Ropar} & April 15,2022 \\
-\rowcolor{lightgray}
+\rowcolor{lyellow}
 \href{http://www.saha.ac.in/web/summer-home}{SINP Kolkata} & April 15, 2022 \\
-\rowcolor{lyellow}
-\href{https://www.iiap.res.in/?q=degree}{IIA Bangalore} & April 10, 2022 \\
 \rowcolor{lightgray}
-\href{https://sfp.iitm.ac.in/}{IIT Madras} & April 4, 2022 \\
+\href{https://www.iopb.res.in/job/2022/SSVP-2022.pdf}{IIT Bhubhaneswar} & April 14, 2022 \\
 \rowcolor{lyellow}
-\href{https://srip.iitgn.ac.in/info/}{IIT Gandhinagar} & Mar 25, 2022 \\
+\href{https://sun.iitpkd.ac.in/}{IIT Palakkad} & April 10, 2022 \\
+\rowcolor{lightgray}
+\href{https://www.iiap.res.in/?q=degree}{IIA Bangalore} & April 10, 2022 \\
+\rowcolor{lyellow}
+\href{https://sfp.iitm.ac.in/}{IIT Madras} & April 4, 2022 \\
 \rowcolor{lightgray}
 \href{https://www.rri.res.in/careers/visiting-students}{RRI Bangalore} & Anytime \\
 \rowcolor{lyellow}
 \href{https://iiti.ac.in/page/online-internship-policy-of-iit-indore-for-the-undergraduate-students}{IIT Indore} & Anytime \\
 \rowcolor{lightgray}
-\href{https://www.rise.rutgers.edu/}{Rutgers University} &  \\
-\rowcolor{lyellow}
-\href{https://www.qulabs.ai/careers}{Qulabs Software India} &  \\
-\rowcolor{lightgray}
-\href{https://www.lanl.gov/careers/career-options/student-internships/undergraduate/index.php}{Los Alamos National Lab} &  \\
-\rowcolor{lyellow}
-\href{https://www.linkedin.com/posts/sweta-maitra-03841a118_internship-machinelearning-quantumcomputing-activity-6879678529445986304-XSUc/}{SatSure Quantum ML internship} &  \\
-\rowcolor{lightgray}
-\href{https://www.hri.res.in/academics/physics/phy-vsp/}{HRI Prayagraj (Allahabad)} &  \\
+\href{https://www.hri.res.in/academics/physics/phy-vsp/}{HRI} & Anytime \\
 \end{tabular}
 \end{center}
 \end{minipage}\
@@ -61,6 +61,10 @@ The institute names in the left columns are hyperlinks to the respective webpage
 \begin{tabular}{lc}
 \rowcolor{darkgray}
 \textcolor{white}{\textbf{Institute}} & \textcolor{white}{\textbf{Previous Deadline}}\\
+\rowcolor{lyellow}
+\href{https://srip.iitgn.ac.in/info/}{IIT Gandhinagar} & Mar 25, 2022 \\
+\rowcolor{lightgray}
+\href{https://www.rise.rutgers.edu/}{Rutgers University} &  \\
 \rowcolor{lyellow}
 \href{https://webjapps.ias.ac.in/fellowship2022/}{Science Academies Summer Research} & November 30, 2021 \\
 \rowcolor{lightgray}
@@ -117,15 +121,11 @@ The institute names in the left columns are hyperlinks to the respective webpage
 \rowcolor{lyellow}
 \href{https://www.iiserkol.ac.in/~summer.research/}{IISER Kolkata} & May 5, 2021 \\
 \rowcolor{lightgray}
-\href{https://www.bose.res.in/AcademicProgrammes/SRP.jsp}{SN Bose Institute, Kolkata} & May 15, 2021 \\
-\rowcolor{lyellow}
 \href{http://www.jcbose.ac.in/summer-training}{Bose Institue, Kolkata} & Mar 31, 2020 \\
-\rowcolor{lightgray}
-\href{http://www.cts.iitkgp.ac.in/?id=fellow}{Center for theoretical studies,  IIT KGP} & Feb 29, 2020 \\
 \rowcolor{lyellow}
-\href{http://sites.iiserpune.ac.in/~issp/}{IISER Pune} & Feb 29, 2020 \\
+\href{http://www.cts.iitkgp.ac.in/?id=fellow}{Center for theoretical studies,  IIT KGP} & Feb 29, 2020 \\
 \rowcolor{lightgray}
-\href{https://www.iiserb.ac.in/doaa/internship}{IISER Bhopal} & May 10, 2021 \\
+\href{http://sites.iiserpune.ac.in/~issp/}{IISER Pune} & Feb 29, 2020 \\
 \rowcolor{lyellow}
 \href{https://www.iiserbpr.ac.in/index.php?category=doaa&pid=internship}{IISER Berhampur} & Apr 20, 2021 \\
 \rowcolor{lightgray}
