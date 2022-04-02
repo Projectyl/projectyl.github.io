@@ -24,11 +24,12 @@ Physics education in undergraduate institutes is often inadequate in preparing s
 - [ ] Create a post on various sources of fellowship
 - [ ] Create a post that lays out the entire procedure of applying for internships, starting from the time-frames, various steps, the finer details and how to search for them
 - [ ] Make interview-type content where people that have participated in internships share their experience
-- [ ] Create a post that lays out the ways in which high school students can get exposure to advanced  science and research
+- [x] Create a post that lays out the ways in which high school students can get exposure to advanced  science and research
 - [ ] Create a curated database of scientists who are prepared to undertake project students
 - [ ] Separate internships into seasonal (summer/winter) and throughout-the-year types
 - [ ] Add ability to filter database according to institution
-- [ ] Improve the appearance of tables in the database
-- [ ] Automate the generation of pdf from internship lists
+- [x] Improve the appearance of tables in the database
+- [x] Automate the generation of pdf from internship lists
 - [ ] Automate looking up webpages to see if new program announcements are available 
 - [ ] Expand the list of summer workshops and summer schools by incorporating the remaining items from the google sheet
+- [ ] Create separate post/page for international internships
