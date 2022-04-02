@@ -5,9 +5,9 @@
 
 This is the repository for the [Projectyl website](https://projectyl.github.io/). It uses the [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) Jekyll theme. Most of the heavy-lifting has already been done by the theme. Make sure to check out our [website](https://projectyl.github.io/) for more information. Feel free to reach out to us with questions or suggestions via [email](mailto:projectylindia@gmail.com) or [Facebook](https://www.facebook.com/projectyl.in).
 
-## What's the point of this endeavour?
+## What is Projectyl?
 
-Physics education in undergraduate institutes is often inadequate in preparing students for research. Lack of exposure to actual methods and cutting-edge topics makes it harder for the students to jump into doctoral work. Summer projects, summer schools, workshops, and online courses bridge this gap to a great extent, and this page intends to make this process easier by providing exhaustive information regarding these avenues.
+Physics education in undergraduate institutes is often inadequate in preparing students for research. Lack of exposure to actual methods and cutting-edge topics makes it harder for the students to jump into doctoral work. Summer projects, summer schools, workshops, and online courses bridge this gap to a great extent. [Projectyl](https://projectyl.github.io) is an endeavour that intends to make this process easier by providing exhaustive information regarding these avenues.
 
 ## What can you find here?
 
