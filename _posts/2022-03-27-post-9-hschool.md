@@ -1,5 +1,5 @@
 ---
-title: <br>Science Programs for High School Students
+title: <br>Science Programs for High School Students<br>
 excerpt: _How school students can get exposure to research_<br>
 permalink: /post9/
 categories:

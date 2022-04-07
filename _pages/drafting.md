@@ -10,7 +10,7 @@ permalink: /drafting/
 {% if tag == 'Application Drafting' %}
 {% assign posts = group_items[forloop.index0] %}
 {% for post in posts %}
-<h2 class="archive__item-title"><a href='{{ site.baseurl }}{{ post.url }}' style="text-decoration:none">{{ post.title }}</a></h2>
+<h3 class="archive__item-title"><a href='{{ site.baseurl }}{{ post.url }}' style="text-decoration:none">{{ post.title }}</a></h3>
 {{ post.excerpt  | markdownify | remove: "<p>" | remove: "</p>" }}
 {% endfor %}
 {% endif %}

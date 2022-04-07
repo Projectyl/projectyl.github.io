@@ -1,5 +1,5 @@
 main:
-  - title: "Posts"
+  - title: "All Posts"
     url: /posts/
   - title: "Internships"
     url: /summer/

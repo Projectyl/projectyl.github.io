@@ -30,6 +30,8 @@ feature_row3:
 
 # Recent Posts
 
+---
+
 {% include feature_row type="center" %}
 {% include feature_row id="feature_row2" type="center" %}
 {% include feature_row id="feature_row3" type="center" %}
