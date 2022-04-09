@@ -3,7 +3,7 @@ title: "Welcome to Projectyl!"
 layout: splash
 permalink: /
 header:
-  overlay_image: /assets/images/banner.svg
+  overlay_image: /assets/images/general/banner.svg
   actions:
     - label: "Learn More"
       url: /about/
