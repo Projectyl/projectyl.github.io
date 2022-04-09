@@ -18,13 +18,15 @@ author_profile: false
 
 {:link: target="_blank" style="text-decoration: none"}
 
-<table align="center" style="margin: auto;">
-<tr><td><img src="/assets/images/palakkad.svg" width="50%" /></td>
-<td><img src="/assets/images/school.svg" width="50%" /></td></tr>
-<tr><td><a href="/post10/" style="font-size: 175%; text-decoration: none"><b>Summer Programs at NISER, IISER Bhopal</b></a></td>
-<td><a href="/post9/" style="font-size: 175%; text-decoration: none"><b>Science Programs for High School Students</b></a></td></tr>
-<tr><td><img src="/assets/images/ropar.svg" width="50%" /></td>
-<td><img src="/assets/images/grasses.svg" width="50%" /></td></tr>
-<tr><td><a href="/post8/" style="font-size: 175%; text-decoration: none"><b>Summer Programs at IIT Ropar, IIA and SINP</b></a></td>
-<td><a href="/post7/" style="font-size: 175%; text-decoration: none"><b>Upcoming Summer Schools and Workshops</b></a></td></tr>
-</table>
+{% assign post0 = site.posts[0] %}
+{% assign post1 = site.posts[1] %}
+{% assign post2 = site.posts[2] %}
+
+|<img src="{{ post0.header.image }}" width="50%"/>|
+|<a href="{{ post0.permalink }}" style="font-size: 175%; text-decoration: none"><b>{{ post0.title }}</b></a>|
+
+|<img src="{{ post1.header.image }}" width="50%" />|
+|<a href="{{ post1.permalink }}" style="font-size: 175%; text-decoration: none"><b>{{ post1.title }}</b></a>|
+
+|<img src="{{ post2.header.image }}" width="50%" />|
+|<a href="{{ post2.permalink }}" style="font-size: 175%; text-decoration: none"><b>{{ post2.title }}</b></a>|

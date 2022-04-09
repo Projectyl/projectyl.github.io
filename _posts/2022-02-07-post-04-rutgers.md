@@ -1,16 +1,19 @@
 ---
-title: <br>"Rutgers University, Qulabs Software India and More"<br>
-excerpt: _Internship Programme at Los Alamost National Lab_<br>
+title: <big>Rutgers University, Qulabs Software India and More</big>
+excerpt: Internship Programme at Los Alamost National Lab
 permalink: /post4/
 categories:
   - Program Notification
 tags:
   - "Summer Programs 2022"
 header:
-  overlay_image: /assets/images/rutgers.webp
-  overlay_filter: 0.6
-  caption: "[Photo credit](https://www.rise.rutgers.edu/)"
+  image: /assets/images/rutgers.webp
+
 ---
+
+<span class="excerpt">{{ page.excerpt }}</span>
+
+<br>
 
 {:link: target="_blank" style="text-decoration: none"}
 

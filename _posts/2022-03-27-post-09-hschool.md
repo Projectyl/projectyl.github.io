@@ -1,6 +1,6 @@
 ---
-title: <br>Science Programs for High School Students<br>
-excerpt: _How school students can get exposure to research_<br>
+title: <big>Science Programs for High School Students</big>
+excerpt: How school students can get exposure to research
 permalink: /post9/
 categories:
   - Program Notification
@@ -10,9 +10,13 @@ tags:
   - "high school"
   - "exposure"
 header:
-  overlay_image: assets/images/school.svg
+  image: /assets/images/school.svg
 
 ---
+
+<span class="excerpt">{{ page.excerpt }}</span>
+
+<br>
 
 {:link: target="_blank" style="text-decoration: none"}
 

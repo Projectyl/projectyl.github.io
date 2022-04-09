@@ -1,6 +1,6 @@
 ---
-title: <br>Upcoming Summer Schools and Workshops<br>
-excerpt: _Learn physics while the sun shines_<br>
+title: <big>Upcoming Summer Schools and Workshops</big>
+excerpt: Learn physics while the sun shines
 permalink: /post7/
 categories:
   - Program Notification
@@ -8,10 +8,13 @@ tags:
   - "summer school"
   - "workshop"
 header:
-  overlay_image: assets/images/grasses.svg
-  overlay_filter: 0.2
-  caption: "[Photo credit](https://pixabay.com/photos/seagull-beach-summer-sea-sand-3232350/)"
+  image: assets/images/grasses.svg
+
 ---
+
+<span class="excerpt">{{ page.excerpt }}</span>
+
+<br>
 
 {:link: target="_blank" style="text-decoration: none"}
 

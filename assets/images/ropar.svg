@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="225.679mm"
-   height="89.323616mm"
-   viewBox="0 0 225.679 89.323616"
+   width="264.58334mm"
+   height="108.47916mm"
+   viewBox="0 0 264.58334 108.47916"
    version="1.1"
    id="svg5"
    sodipodi:docname="ropar.svg"
@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.3607465"
-     inkscape:cx="421.82727"
-     inkscape:cy="63.568047"
+     inkscape:cx="542.34936"
+     inkscape:cy="194.01115"
      inkscape:window-width="1916"
-     inkscape:window-height="1051"
+     inkscape:window-height="1052"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -46,15 +46,26 @@
          x="-44.811569"
          y="138.43895" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3577">
+      <rect
+         style="opacity:0.650184;fill:#00ff00;fill-opacity:1;stroke-width:1.80403"
+         id="rect3579"
+         width="270.36368"
+         height="108.47916"
+         x="-52.99036"
+         y="80.105576" />
+    </clipPath>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(44.811569,-138.43895)">
+     transform="translate(49.153637,-80.105576)">
     <image
-       width="225.679"
-       height="127"
+       width="264.58334"
+       height="148.89326"
        preserveAspectRatio="none"
        style="image-rendering:optimizeQuality"
        xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
@@ -11942,9 +11953,9 @@ K91Ai8ssadgAKV6da8TjMAtBWiFRDALqlSrpAUQJGak7Gkax6VdSQkoKjkwFUJIBUGSAxXDSxLjy
 QwM6yhVCzoYKKq6L5hRQvqvRk5AremT584KB6fC5ywqQkGoksxVigsHkglh8io65WIlxEjOK1LRH
 BUUq0EEHEprhTCFRZKaVXqAcn//Z
 "
-       id="image990"
-       x="-44.811569"
-       y="100.76257"
-       clip-path="url(#clipPath1215)" />
+       id="image3469"
+       x="-49.153637"
+       y="59.772644"
+       clip-path="url(#clipPath3577)" />
   </g>
 </svg>
