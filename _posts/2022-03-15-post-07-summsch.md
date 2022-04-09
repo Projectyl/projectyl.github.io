@@ -8,7 +8,7 @@ tags:
   - "summer school"
   - "workshop"
 header:
-  image: assets/images/grasses.svg
+  image: /assets/images/post-7/grasses.svg
 
 ---
 

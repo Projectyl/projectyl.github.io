@@ -7,7 +7,7 @@ categories:
 tags:
   - "Summer Programs 2022"
 header:
-  image: /assets/images/rutgers.webp
+  image: /assets/images/post-4/rutgers.webp
 
 ---
 

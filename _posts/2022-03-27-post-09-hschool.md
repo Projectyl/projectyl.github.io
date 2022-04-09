@@ -10,7 +10,7 @@ tags:
   - "high school"
   - "exposure"
 header:
-  image: /assets/images/school.svg
+  image: /assets/images/post-9/school.svg
 
 ---
 
@@ -32,7 +32,7 @@ IUCAA (The Inter-University Centre for Astronomy and Astrophysics, Pune, India) 
  
 among others.
 
-![](/assets/images/iucaa.svg)
+![](/assets/images/post-9/iucaa.svg)
 
 ## [Prerna – Summer Schools in Science & Mathematics](https://spsti.org/summer-school-in-science-mathematics/){:link}
 
@@ -50,7 +50,7 @@ Every year, IISER Bhopal conducts a summer outreach program for a week to promot
 
 Under this initiative, IIT Delhi professors engaged in cutting edge research in science, technology and allied fields will deliver **lectures and conduct laboratory demonstrations** every month starting September 2021 in **virtual mode**. School students currently enrolled in **Grades 9 and above** can be nominated for Sci-Tech Spins by their respective schools. Each school may nominate up to four students. All registered students attending the lectures will be given e-certificates of participation at the end of each weekend session.
 
-![](/assets/images/iitd.svg)
+![](/assets/images/post-9/iitd.svg)
 
 ## [Summer School Students Workshop - IMSC Chennai](https://www.imsc.res.in/outreach/#:~:text=Summer%20School%20Students%20Workshop%202018%202019){:link}
 
@@ -74,7 +74,7 @@ Indian Space Research Organisation (ISRO) is organising a special programme for 
 
 - **Program duration**: May 16-28, 2022
 
-![](/assets/images/isro.svg)
+![](/assets/images/post-9/isro.svg)
 
 ## [VIJYOSHI - National Science Camp](http://kvpy.iisc.ac.in/vijyoshi2021/index.php){:link}
 
