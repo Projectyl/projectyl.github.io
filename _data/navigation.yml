@@ -1,6 +1,6 @@
 main:
   - title: "All Posts"
-    url: /posts/
+    url: /all/
   - title: "Internships"
     url: /summer/
   - title: "Notifications"
@@ -9,3 +9,11 @@ main:
     url: /drafting/
   - title: "Contact Us"
     url: /contact/
+categories:
+  - children:
+    - title: "All posts"
+      url: /all/
+    - title: "Notifications"
+      url: /notifs/
+    - title: "Application drafting"
+      url: /drafting/

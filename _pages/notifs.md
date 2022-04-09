@@ -1,6 +1,6 @@
 ---
-title: "Application Drafting"
-permalink: /drafting/
+title: "Notifications"
+permalink: /notifs/
 sidebar:
   nav: categories
 
@@ -9,7 +9,7 @@ sidebar:
 {:link: target="_blank" style="text-decoration: none"}
 
 {% for post in site.posts %}
-{% if post.categories[0] contains "Drafting" %}
+{% if post.categories[0] contains "Notification" %}
   [**{{ post.title }}**]({{ post.permalink }}){:link}
 <br>
   _{{ post.excerpt }}_
