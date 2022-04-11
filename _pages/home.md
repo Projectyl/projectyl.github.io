@@ -23,10 +23,10 @@ author_profile: false
 {% assign post2 = site.posts[2] %}
 
 |<img src="{{ post0.header.image }}" width="50%"/>|
-|<a href="{{ post0.permalink }}" style="font-size: 175%; text-decoration: none"><b>{{ post0.title }}</b></a>|
+|<a href="{{ post0.permalink }}" style="font-size: 140%; text-decoration: none"><b>{{ post0.title }}</b></a>|
 
 |<img src="{{ post1.header.image }}" width="50%" />|
-|<a href="{{ post1.permalink }}" style="font-size: 175%; text-decoration: none"><b>{{ post1.title }}</b></a>|
+|<a href="{{ post1.permalink }}" style="font-size: 140%; text-decoration: none"><b>{{ post1.title }}</b></a>|
 
 |<img src="{{ post2.header.image }}" width="50%" />|
-|<a href="{{ post2.permalink }}" style="font-size: 175%; text-decoration: none"><b>{{ post2.title }}</b></a>|
+|<a href="{{ post2.permalink }}" style="font-size: 140%; text-decoration: none"><b>{{ post2.title }}</b></a>|
