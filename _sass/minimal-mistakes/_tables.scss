@@ -7,13 +7,15 @@ table {
   margin-right:auto; 
 
   font-family: $global-font-family;
-  font-size: $type-size-6;
   overflow-x: auto;
 
   & + table {
     margin-top: 1em;
   }
-  border-bottom: 2px solid mix(#000, $border-color, 25%);
+
+  margin-bottom: 4em;
+  border-bottom: 3px solid mix(#000, $border-color, 25%);
+  width: 100%;
 }
 
 thead {

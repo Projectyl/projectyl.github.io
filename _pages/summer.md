@@ -14,7 +14,7 @@ Following are the currently active summer programs. (Note that the institute nam
 	<tr>
 	{% for pair in row %}
 	{% if forloop.first %}
-	<th align="left">{{ pair[0] }}</th>
+	<th align="center">{{ pair[0] }}</th>
 	{% else %}
 	{% unless forloop.last %}
 	<th align="center">{{ pair[0] }}</th>
@@ -31,10 +31,10 @@ Following are the currently active summer programs. (Note that the institute nam
 	{% endfor %}
 	{% for pair in row %}
 	{% if forloop.first %}
-	<td align="left"><a target="_blank" style="text-decoration: none" href="{{ link }}">{{ pair[1] }}</a></td>
+	<td><a target="_blank" style="text-decoration: none" href="{{ link }}">{{ pair[1] }}</a></td>
 	{% else %}
 	{% unless forloop.last %}
-	<td align="center">{{ pair[1] }}</td>
+	<td>{{ pair[1] }}</td>
 	{% endunless %}
 	{% endif %}
 	{% endfor %}
@@ -53,7 +53,7 @@ Several other institutes will soon declare summer programs of their own. We will
 	<tr>
 	{% for pair in row %}
 	{% if forloop.first %}
-	<th align="left">{{ pair[0] }}</th>
+	<th align="center">{{ pair[0] }}</th>
 	{% else %}
 	{% unless forloop.last %}
 	<th align="center">{{ pair[0] }}</th>
@@ -70,10 +70,10 @@ Several other institutes will soon declare summer programs of their own. We will
 	{% endfor %}
 	{% for pair in row %}
 	{% if forloop.first %}
-	<td align="left"><a target="_blank" style="text-decoration: none" href="{{ link }}">{{ pair[1] }}</a></td>
+	<td><a target="_blank" style="text-decoration: none" href="{{ link }}">{{ pair[1] }}</a></td>
 	{% else %}
 	{% unless forloop.last %}
-	<td align="center">{{ pair[1] }}</td>
+	<td>{{ pair[1] }}</td>
 	{% endunless %}
 	{% endif %}
 	{% endfor %}
@@ -92,7 +92,7 @@ These programs have either stopped accepting applications due to closing of dead
 	<tr>
 	{% for pair in row %}
 	{% if forloop.first %}
-	<th align="left">{{ pair[0] }}</th>
+	<th align="center">{{ pair[0] }}</th>
 	{% else %}
 	{% unless forloop.last %}
 	<th align="center">{{ pair[0] }}</th>
@@ -109,10 +109,10 @@ These programs have either stopped accepting applications due to closing of dead
 	{% endfor %}
 	{% for pair in row %}
 	{% if forloop.first %}
-	<td align="left"><a target="_blank" style="text-decoration: none" href="{{ link }}">{{ pair[1] }}</a></td>
+	<td><a target="_blank" style="text-decoration: none" href="{{ link }}">{{ pair[1] }}</a></td>
 	{% else %}
 	{% unless forloop.last %}
-	<td align="center">{{ pair[1] }}</td>
+	<td>{{ pair[1] }}</td>
 	{% endunless %}
 	{% endif %}
 	{% endfor %}
