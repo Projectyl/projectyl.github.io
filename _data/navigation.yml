@@ -1,14 +1,12 @@
 main:
   - title: "All Posts"
     url: /all/
-  - title: "Internships"
+  - title: "Internships & More"
     url: /summer/
   - title: "Notifications"
-    url: /notifications/
+    url: /notifs/
   - title: "Application Drafting"
     url: /drafting/
-  - title: "Contact Us"
-    url: /contact/
 categories:
   - children:
     - title: "All posts"
