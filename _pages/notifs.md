@@ -1,8 +1,6 @@
 ---
 title: "Notifications"
 permalink: /notifs/
-sidebar:
-  nav: categories
 
 ---
 

@@ -5,13 +5,20 @@ main:
     url: /summer/
   - title: "Notifications"
     url: /notifs/
-  - title: "Application Drafting"
+  - title: "How to Apply"
     url: /drafting/
 categories:
-  - children:
+  - title: Quick links
+    children:
     - title: "All posts"
       url: /all/
     - title: "Notifications"
       url: /notifs/
-    - title: "Application drafting"
+    - title: "How to Apply"
       url: /drafting/
+    - title: "List of Internships"
+      url: /summer/
+    - title: "List of Schools"
+      url: /schools/
+    - title: "International Programs"
+      url: /intl-progs/

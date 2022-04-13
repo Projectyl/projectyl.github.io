@@ -1,12 +1,10 @@
 ---
 permalink: /summer/
-title: "Summer Programs 2022"
+title: "Summer Internships"
 
 ---
 
-{:link: target="_blank" style="text-decoration: none"}
-
-Following are the currently active summer programs. (Note that the institute names in the left columns are hyperlinks to the respective webpages.) It is available for download as a [pdf](/_pages/summer.pdf){: link}.
+Following are the currently active summer programs. Note that the institute names in the left columns are **hyperlinks** to the respective webpages. It is available for download as a [pdf](/_pages/summer.pdf).
 
 <table>
 <tr>

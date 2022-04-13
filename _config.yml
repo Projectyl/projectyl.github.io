@@ -51,6 +51,8 @@ defaults:
       share: true
       related: false
       classes: wide
+      sidebar:
+        nav: categories
   - scope:
       path: "_pages"
       type: pages
@@ -61,6 +63,8 @@ defaults:
       comments: true
       share: true
       related: false
+      sidebar:
+        nav: categories
 
 
 category_archive:
