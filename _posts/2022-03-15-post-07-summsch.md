@@ -16,13 +16,11 @@ header:
 
 <br>
 
-{:link: target="_blank" style="text-decoration: none"}
-
 Various institutes organise summer schools and workshops to help students get exposed to specific topics at the front line of research. They may also address more general topics that are too advanced for college curricula.
 
 ## Domestic
 
-- [**Future Flavours: Prospects for Beauty, Charm and Tau Physics**](https://www.icts.res.in/program/ff2022){:link}
+- [**Future Flavours: Prospects for Beauty, Charm and Tau Physics**](https://www.icts.res.in/program/ff2022)
  
   **Institute**: ICTS
 
@@ -33,7 +31,7 @@ Various institutes organise summer schools and workshops to help students get ex
   **Target Audience**: Ph.D students in particle physics and above. Final year M.Sc. students may apply if they have done courses and/or project work in particle physics
 
 
-- [**Oxford Summer Courses in India**](https://oxfordsummercourses.com/india/){:link}
+- [**Oxford Summer Courses in India**](https://oxfordsummercourses.com/india/)
 
   **Institute**: Oakridge International School
 
@@ -41,7 +39,7 @@ Various institutes organise summer schools and workshops to help students get ex
 
 ## International
 
-- [**Quantum in the Summer**](https://www.ru.nl/radboudsummerschool/courses/2022/quantum-summer-introduction-theory-practice/){:link}
+- [**Quantum in the Summer**](https://www.ru.nl/radboudsummerschool/courses/2022/quantum-summer-introduction-theory-practice/)
  
   **Institute**: Radboud University
 
@@ -51,7 +49,7 @@ Various institutes organise summer schools and workshops to help students get ex
 
   **Target audience**: Advanced bachelor, masters or PhD students
 
-- [**20th Annual Wolfram Summer School**](https://education.wolfram.com/summer-school/programs/physics/){:link}
+- [**20th Annual Wolfram Summer School**](https://education.wolfram.com/summer-school/programs/physics/)
  
   **Organiser**: Wolfram
 
@@ -59,7 +57,7 @@ Various institutes organise summer schools and workshops to help students get ex
 
   **Target audience**: advanced research-oriented students in mathematics and physics, as well as those with strong backgrounds in algorithmic programming
 
-- [**Queen Mary Summer School**](https://www.qmul.ac.uk/summer-school/){:link}
+- [**Queen Mary Summer School**](https://www.qmul.ac.uk/summer-school/)
  
   **Institute**: Queen Mary University of London
 
@@ -67,7 +65,7 @@ Various institutes organise summer schools and workshops to help students get ex
 
   **Summary**: "The Queen Mary Summer School is a great opportunity to discover what it’s like to study at one of the UK’s top universities, while living in one of the coolest parts of London! Our Summer School programme features a broad range courses, put together by our world-class academics in a variety of disciplines. You can specialise according to your interests, knowing that each session will be thought-provoking, challenging and exciting in equal measure"
 
-- [**Quantum 2022 Summer School on Quantum Optical Technologies in Apulia**](https://agenda.infn.it/event/21449/){:link}
+- [**Quantum 2022 Summer School on Quantum Optical Technologies in Apulia**](https://agenda.infn.it/event/21449/)
  
   **Institute**: Università degli Studi di Bari Aldo Moro
 

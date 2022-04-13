@@ -17,9 +17,7 @@ header:
 
 <br>
 
-{:link: target="_blank" style="text-decoration: none"}
-
-### 1. [**ICTS Summer School on Gravitational-Wave Astronomy**](https://www.icts.res.in/program/gws2022){:link}
+### 1. [**ICTS Summer School on Gravitational-Wave Astronomy**](https://www.icts.res.in/program/gws2022)
  
   **Institute**: ICTS, Bangalore
 
@@ -34,7 +32,7 @@ header:
   - The school is primarily meant for graduate students and postdocs in GW astrophysics and related fields.
   - A small number of highly motivated senior undergraduates can also be considered
 
-### 2. [**Introductory Summer School in Astronomy and Astrophysics**](http://www.iucaa.in/Stu-Prog-ISSIA.html){:link}
+### 2. [**Introductory Summer School in Astronomy and Astrophysics**](http://www.iucaa.in/Stu-Prog-ISSIA.html)
  
   **Institute**: IUCAA, Pune
 
@@ -47,7 +45,7 @@ header:
   - Students in third year and onwards of B.Tech./B.E. (any branch)/Integrated M.Sc. (Physics/Applied Mathematics/Astronomy/Electronics)
   - Students pursuing M.Sc. (Physics/Applied Mathematics/Astronomy/Electronics)
 
-### 3. [**Summer School for Women in Mathematics and Statistics**](https://www.icts.res.in/program/swms2022){:link}
+### 3. [**Summer School for Women in Mathematics and Statistics**](https://www.icts.res.in/program/swms2022)
  
   **Institute**: ICTS, Bangalore
 
@@ -61,7 +59,7 @@ header:
 
   **Target Audience**: The summer school is intended for women students studying in first year B.A/B.Sc./B.E./B.Tech. or equivalent degree and having Mathematics as one of the major subjects/courses, during the academic year 2021-2022
 
-### 4. [**Computational Approaches to Memory and Plasticity**](https://camp.ncbs.res.in/){:link}
+### 4. [**Computational Approaches to Memory and Plasticity**](https://camp.ncbs.res.in/)
  
   **Institute**: NCBS, Bangalore
 
