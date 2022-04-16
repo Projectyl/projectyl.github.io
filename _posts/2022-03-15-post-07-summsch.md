@@ -74,3 +74,4 @@ Various institutes organise summer schools and workshops to help students get ex
   **Topic**: quantum optical technologies, from quantum imaging and metrology to quantum communication, computing, and simulation, with both a theoretical and an experimental perspective
 
   **Target audience**: PhD students, master students and young researchers
+
