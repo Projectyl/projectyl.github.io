@@ -12,19 +12,19 @@ This is a database of physicists working in faculty positions at various Indian 
 <details>
 <summary> 
 &nbsp;
-<b>{{ category_hash[0]}}</b>
+{% assign name = category_hash[0] | replace: ' ','_' | replace: ',','' | replace: '&','' %}
+<b>{{ category_hash[0] }}</b>
 </summary>
 <br>
-{% assign name = category_hash[0] | replace: " ","_" %}
 {% for file_hash in site.data.dbpi.category_data %}
 {% if file_hash[0] == name %}
 {% assign people = file_hash[1] %}
 <table>
-<tr><th>Name</th>
-<th>Institute</th>
-<th>Designation</th>
-<th>Research Area</th>
-<th>Email Id</th></tr>
+<tr><th align="center">Name</th>
+<th align="center">Institute</th>
+<th align="center">Designation</th>
+<th align="center">Research Area</th>
+<th align="center">Email Id</th></tr>
 {% for person in people %}
 	<tr>
 	<td>{{ person.Name }}</td>
