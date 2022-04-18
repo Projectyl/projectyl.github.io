@@ -1,8 +1,8 @@
 main:
-  - title: "All Posts"
-    url: /all/
   - title: "Internships & More"
     url: /summer/
+  - title: "Summer Schools"
+    url: /schools/
   - title: "Notifications"
     url: /notifs/
   - title: "How to Apply"
