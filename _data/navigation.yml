@@ -12,13 +12,7 @@ categories:
     children:
     - title: "All posts"
       url: /all/
-    - title: "Notifications"
-      url: /notifs/
-    - title: "How to Apply"
-      url: /drafting/
-    - title: "List of Internships"
-      url: /summer/
-    - title: "List of Summer Schools"
-      url: /schools/
     - title: "International Programs"
       url: /intl-progs/
+    - title: "Year-Wide Programs"
+      url: /year-wide/
