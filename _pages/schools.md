@@ -4,7 +4,7 @@ title: "Summer Schools"
 
 ---
 
-Various institutes organise summer schools and workshops to help students get exposed to specific topics at the front line of research. They may also address more general topics that are too advanced for college curricula. Here is a list of summer schools being organised in India. _Note that the headings are hyperlinks to the respective webpages_.
+Various institutes organise summer schools and workshops to help students get exposed to specific topics at the front line of research. They may also address more general topics that are too advanced for college curricula. Here is a list of summer schools being organised in India. _Note that the headings are hyperlinks to the respective webpages_. The list is available for download as [pdf](/_pages/summer.pdf/).
 
 {% for row in site.data.summer.schools %}
 {% assign name = row["Name"] %}

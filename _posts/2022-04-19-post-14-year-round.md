@@ -15,7 +15,7 @@ tags:
 
 <br>
 
-Many institutes offer year-round internships for interested students that are open throughout the year. UG/PG students are asked to send in their applications at any point of the year and participate in summer programs/research work for a certain amount of time. Below we have listed 10 institutes that offer such year-wide programs. _Note that the headings are hyperlinks to the respective webpages_.
+Many institutes offer year-round internships for interested students that are open throughout the year. UG/PG students are asked to send in their applications at any point of the year and participate in summer programs/research work for a certain amount of time. Below we have listed 10 institutes that offer such year-wide programs. _Note that the headings are hyperlinks to the respective webpages_. The list is available for download as [pdf](/_pages/summer.pdf/).
 
 {% for row in site.data.year-round %}
 {% assign name = row["Institute"] %}
