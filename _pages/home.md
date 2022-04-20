@@ -27,8 +27,8 @@ author_profile: false
 
 |<img src="{{ post0.header.image }}" width="900"/>|<img src="{{ post1.header.image }}" width="900" />|
 |[<big>{{ post0.title }}</big>]({{ post0.permalink }})|[<big>{{ post1.title }}</big>]({{ post1.permalink }})|
-|[<big>{{ post0.excerpt }}</big>]({{ post0.permalink }})|[<big>{{ post1.excerpt }}</big>]({{ post1.permalink }})|
+|[<big><span style="color:black">{{ post0.excerpt }}</span></big>]({{ post0.permalink }})|[<big><span style="color:black">{{ post1.excerpt }}</span></big>]({{ post1.permalink }})|
 
 |<img src="{{ post2.header.image }}" width="900"/>|<img src="{{ post3.header.image }}" width="900" />|
 |[<big>{{ post2.title }}</big>]({{ post2.permalink }})|[<big>{{ post3.title }}</big>]({{ post3.permalink }})|
-|[<big>{{ post2.excerpt }}</big>]({{ post2.permalink }})|[<big>{{ post3.excerpt }}</big>]({{ post3.permalink }})|
+|[<big><span style="color:black">{{ post2.excerpt }}</span></big>]({{ post2.permalink }})|[<big><span style="color:black">{{ post3.excerpt }}</span></big>]({{ post3.permalink }})|
