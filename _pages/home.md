@@ -16,19 +16,20 @@ author_profile: false
 
 ---
 
-# Recent Posts
+# [Recent Posts](/all/)
+---
 
-{:link: target="_blank" style="text-decoration: none"}
+{% assign styles = "float:right;,float:left;" | split: ',' %}
 
-{% assign post0 = site.posts[0] %}
-{% assign post1 = site.posts[1] %}
-{% assign post2 = site.posts[2] %}
-{% assign post3 = site.posts[3] %}
+{% for post in site.posts limit: 4 %}
 
-|<img src="{{ post0.header.image }}" width="900"/>|<img src="{{ post1.header.image }}" width="900" />|
-|[<big>{{ post0.title }}</big>]({{ post0.permalink }})|[<big>{{ post1.title }}</big>]({{ post1.permalink }})|
-|[<big><span style="color:black">{{ post0.excerpt }}</span></big>]({{ post0.permalink }})|[<big><span style="color:black">{{ post1.excerpt }}</span></big>]({{ post1.permalink }})|
+{% assign value = forloop.index | modulo:2 %}
+{% assign style = styles[value] %}
 
-|<img src="{{ post2.header.image }}" width="900"/>|<img src="{{ post3.header.image }}" width="900" />|
-|[<big>{{ post2.title }}</big>]({{ post2.permalink }})|[<big>{{ post3.title }}</big>]({{ post3.permalink }})|
-|[<big><span style="color:black">{{ post2.excerpt }}</span></big>]({{ post2.permalink }})|[<big><span style="color:black">{{ post3.excerpt }}</span></big>]({{ post3.permalink }})|
+<div style="{{ style }}">
+<a href="{{ post.permalink }}"><img src="{{ post.header.image }}" width="750"/>
+<p style="text-align:center;margin:0"><big>{{ post.title }}</big></p>
+<p style="text-align:center;color:black;margin-bottom:2em">{{ post.excerpt }}</p></a>
+</div>
+
+{% endfor %}
