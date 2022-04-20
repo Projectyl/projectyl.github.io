@@ -75,23 +75,11 @@ The institute names in the left columns are hyperlinks to the respective webpage
 \hlineB{4}
 \href{https://srip.iitgn.ac.in/info/}{IIT Gandhinagar} & Mar 25, 2022 &  \\
 \hlineB{4}
-\href{https://www.phasecraft.io/news/phasecrafts-2022-quantum-software-internship-programme}{Phasecraft Quantum Software} & Mar 15, 2022 &  \\
-\hlineB{4}
-\href{https://www.mcqst.de/support/summer-bachelor-program/}{MCQST Munich} & Mar 13, 2022 &  \\
-\hlineB{4}
 \href{https://spark.iitr.ac.in/175iitr}{IIT Roorkee} & Mar 5,2022 &  \\
 \hlineB{4}
 \href{http://vsrp.ncra.tifr.res.in/VSRP2022/candidate/welcome.ncra}{NCRA Pune} & Feb 21, 2022 &  \\
 \hlineB{4}
-\href{https://internships.fnal.gov/sqms-quantum-undergraduate-internship/}{SQMS Undergraduate Internship} & Feb 17, 2022 &  \\
-\hlineB{4}
-\href{https://phys.huji.ac.il/research-experience-undergraduates-reu-racah-institute}{Racah Institute of Physics Israel} & Feb 15, 2022 &  \\
-\hlineB{4}
-\href{https://chicagoquantum.org/oqi-undergraduate-fellowship}{Open Quantum Initiative} & Feb 11, 2022 &  \\
-\hlineB{4}
 \href{https://surge.iitk.ac.in/notification.html}{IIT Kanpur} & Feb 2, 2022 &  \\
-\hlineB{4}
-\href{https://summerstudent.web.cern.ch/}{CERN Summer Programme} & Jan 31, 2022 &  \\
 \hlineB{4}
 \href{https://www.icts.res.in/academic/summer-research-program}{ICTS Bangalore} & Jan 31, 2022 &  \\
 \hlineB{4}
@@ -107,8 +95,6 @@ The institute names in the left columns are hyperlinks to the respective webpage
 \hlineB{4}
 \href{https://www.iisertvm.ac.in/pages/svp}{IISER Thiruvananthapuram} &  &  \\
 \hlineB{4}
-\href{https://www.rise.rutgers.edu/}{Rutgers University} &  &  \\
-\hlineB{4}
 \href{http://www.jcbose.ac.in/summer-training}{Bose Institute Kolkata} & Mar 31, 2020 &  \\
 \hlineB{4}
 \href{http://www.cts.iitkgp.ac.in/?id=fellow}{IIT KGP} & Feb 29, 2020 &  \\
@@ -122,7 +108,33 @@ The institute names in the left columns are hyperlinks to the respective webpage
 \href{https://www.iist.ac.in/career/4}{IIST} &  &  \\
 \hlineB{4}
 \end{longtable}
-\clearpage\section*{\textcolor{blue}{Year-Round Programs}}
+\vspace{10pt}
+\section{\textcolor{purple}{International Programs}}
+
+\vspace{-15pt}
+\rule{\textwidth}{1.5pt}
+\begin{longtable}{V{4}lV{4}cV{4}cV{4}}
+\hlineB{4}
+\rowcolor{black}
+\textcolor{white}{\textbf{Institute}} & \textcolor{white}{\textbf{Deadline}} & \textcolor{white}{\textbf{Stipend (monthly)}}\\
+\hlineB{4}
+\hlineB{4}
+\href{https://www.phasecraft.io/news/phasecrafts-2022-quantum-software-internship-programme}{Phasecraft Quantum Software} & Mar 15, 2022 &  \\
+\hlineB{4}
+\href{https://www.mcqst.de/support/summer-bachelor-program/}{MCQST Munich} & Mar 13, 2022 &  \\
+\hlineB{4}
+\href{https://internships.fnal.gov/sqms-quantum-undergraduate-internship/}{SQMS Undergraduate Internship} & Feb 17, 2022 &  \\
+\hlineB{4}
+\href{https://phys.huji.ac.il/research-experience-undergraduates-reu-racah-institute}{Racah Institute of Physics Israel} & Feb 15, 2022 &  \\
+\hlineB{4}
+\href{https://chicagoquantum.org/oqi-undergraduate-fellowship}{Open Quantum Initiative} & Feb 11, 2022 &  \\
+\hlineB{4}
+\href{https://summerstudent.web.cern.ch/}{CERN Summer Programme} & Jan 31, 2022 &  \\
+\hlineB{4}
+\href{https://www.rise.rutgers.edu/}{Rutgers University} &  &  \\
+\hlineB{4}
+\end{longtable}
+\section*{\textcolor{blue}{Year-Round Programs}}
 
 \vspace{-15pt}
 \rule{\textwidth}{1.5pt}
@@ -245,7 +257,7 @@ Many institutes offer year-round internships for interested students that are op
 \item The applications from PG/UG students for summer training/internship of 6 to 8 weeks period will also be entertained as a special case only for the candidate having blood relation with ISRO/DOS employee or candidate(s) from reputed institutes.
 \end{itemize}
 
-\clearpage\section*{\textcolor{blue}{Summer Schools}}
+\section*{\textcolor{blue}{Summer Schools}}
 
 \vspace{-15pt}
 \rule{\textwidth}{1.5pt}

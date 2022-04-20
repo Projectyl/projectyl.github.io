@@ -1,7 +1,8 @@
 ---
 permalink: /summer/
 title: "Summer Internships"
-
+tags:
+ - Summer Programs 2022
 
 ---
 
