@@ -12,7 +12,11 @@ categories:
     children:
     - title: "All posts"
       url: /all/
+    - title: "Summer Internships"
+      url: /summer/
     - title: "International Programs"
       url: /intl-progs/
     - title: "Year-Round Programs"
       url: /year-round/
+    - title: "Downloadable list"
+      url: /_pages/summer.pdf

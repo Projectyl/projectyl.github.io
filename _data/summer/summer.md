@@ -15,8 +15,7 @@ The institute names in the left columns are hyperlinks to the respective webpage
 \vspace{10pt}
 \section{\textcolor{purple}{Active Programs}}
 
-\vspace{-15pt}
-\rule{\textwidth}{1.5pt}
+\vspace{-10pt}
 \begin{longtable}{V{4}lV{4}cV{4}cV{4}}
 \hlineB{4}
 \rowcolor{black}
@@ -39,6 +38,8 @@ The institute names in the left columns are hyperlinks to the respective webpage
 \hlineB{4}
 \href{https://www.prl.res.in/prl-eng/summer_internship}{PRL Ahmedabad} & Apr 26, 2022 & Rs. 10,000 \\
 \hlineB{4}
+\href{https://nitm.ac.in/p/advertisement-for-summer-internship-program-2022}{NIT Meghalaya} & Apr 29,2022 & none \\
+\hlineB{4}
 \href{https://webapps.iitbbs.ac.in/internship-application/}{IIT Bhubaneswar} & Apr 30, 2022 & none \\
 \hlineB{4}
 \href{https://www.jncasr.ac.in/academic/fandeprogrammes/srfp/}{JNCASR Bangalore} & Apr 30, 2022 & Rs. 10,000 \\
@@ -53,8 +54,7 @@ The institute names in the left columns are hyperlinks to the respective webpage
 \vspace{10pt}
 \section{\textcolor{purple}{Currently Inactive/Closed}}
 
-\vspace{-15pt}
-\rule{\textwidth}{1.5pt}
+\vspace{-10pt}
 \begin{longtable}{V{4}lV{4}cV{4}cV{4}}
 \hlineB{4}
 \rowcolor{black}
@@ -103,6 +103,8 @@ The institute names in the left columns are hyperlinks to the respective webpage
 \hlineB{4}
 \href{https://www.iiserbpr.ac.in/index.php?category=doaa&pid=internship}{IISER Berhampur} & Apr 20, 2021 &  \\
 \hlineB{4}
+\href{https://iitjammu.ac.in/post/rise-up}{IIT Jammu} & Apr 14, 2022 & Rs. 2,500 (weekly) \\
+\hlineB{4}
 \href{https://web.iisermohali.ac.in/dept/physics/summerprogram.html}{IISER Mohali} &  &  \\
 \hlineB{4}
 \href{https://www.iist.ac.in/career/4}{IIST} &  &  \\
@@ -111,8 +113,7 @@ The institute names in the left columns are hyperlinks to the respective webpage
 \vspace{10pt}
 \section{\textcolor{purple}{International Programs}}
 
-\vspace{-15pt}
-\rule{\textwidth}{1.5pt}
+\vspace{-10pt}
 \begin{longtable}{V{4}lV{4}cV{4}cV{4}}
 \hlineB{4}
 \rowcolor{black}
@@ -256,6 +257,14 @@ Many institutes offer year-round internships for interested students that are op
 \item students pursuing B.Tech./ B.E./ B.Sc.(Engg.)/ M.Sc./ M.Sc. (Tech.)/ M.E./ M.Tech/ MCA
 \item The applications from PG/UG students for summer training/internship of 6 to 8 weeks period will also be entertained as a special case only for the candidate having blood relation with ISRO/DOS employee or candidate(s) from reputed institutes.
 \end{itemize}
+
+\section*{\color{purple}{\textbf{\href{https://iasst.gov.in/regular/}{Institute of Advanced Study in Science and Technology, Guwahati}}}}
+
+\textbf{Duration}:  two (2) to six (6) months
+
+\textbf{Stipend}: none
+
+\textbf{Eligibility}: open
 
 \section*{\textcolor{blue}{Summer Schools}}
 
