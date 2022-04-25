@@ -18,14 +18,14 @@ Following are the currently active summer programs. Note that the institute name
 {% assign path = site.data.summer[file] %}
 <table>
 <tr>
-{% for pair in site.data.summer.active[0] %}
+{% for pair in path[0] %}
 {% unless forloop.last %}
 <th align="center">{{ pair[0] }}</th>
 {% endunless %}
 {% assign last_key = pair[0] %}
 {% endfor %}
 </tr>
-{% for row in site.data.summer.active offset: 1%}
+{% for row in path offset: 1%}
 <tr>
 {% for pair in row %}
 {% if forloop.first %}
