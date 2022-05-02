@@ -1,6 +1,8 @@
 ---
 permalink: /dbpi/
-title: "Database for Physicists in India"
+title: <big>Database for Physicists in India</big>
+tags:
+  - content
 
 ---
 

@@ -3,6 +3,8 @@ title: "Application Drafting"
 permalink: /drafting/
 sidebar:
   nav: categories
+tags:
+    - housekeeping
 
 ---
 

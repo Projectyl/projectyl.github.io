@@ -3,6 +3,8 @@ title: Contact Details<br>
 permalink: /contact/
 header:
   image: /assets/images/general/contact.svg
+tags:
+    - housekeeping
 
 feature_row:
   - image_path: /assets/images/general/abhirup.png

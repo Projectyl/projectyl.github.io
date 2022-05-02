@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Projectyl!"
+title: Welcome to Projectyl!
 layout: splash
 permalink: /
 header:
@@ -11,8 +11,12 @@ header:
       url: /contact/
     - label: "All Posts"
       url: /all/
+    - label: "All Pages"
+      url: /all-pages/
 excerpt: _<large>Starting research straight out of college can be daunting - we are here to make it easier.</large>_
 author_profile: false
+tags:
+    - housekeeping
 
 ---
 

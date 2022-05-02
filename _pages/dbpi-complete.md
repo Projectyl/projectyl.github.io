@@ -1,6 +1,8 @@
 ---
 permalink: /dbpi-complete/
 title: "Database for Physicists in India - Complete List"
+tags:
+    - housekeeping
 
 ---
 The first column (Name) has hyperlinks that redirect to the personal homepage of the corresponding professor.

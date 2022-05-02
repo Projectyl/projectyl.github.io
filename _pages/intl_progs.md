@@ -1,6 +1,8 @@
 ---
 permalink: /intl-progs/
-title: "International Summer Programs"
+title: <big>International Summer Programs</big>
+tags:
+  - content
 
 ---
 

@@ -12,11 +12,15 @@ categories:
     children:
     - title: "All posts"
       url: /all/
+    - title: "All pages"
+      url: /all-pages/
     - title: "Summer Internships"
       url: /summer/
     - title: "International Programs"
       url: /intl-progs/
     - title: "Year-Round Programs"
       url: /year-round/
+    - title: "Opportunities after MSc"
+      url: /post-msc/
     - title: "Downloadable list"
       url: /_pages/summer.pdf

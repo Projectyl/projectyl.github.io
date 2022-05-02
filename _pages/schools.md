@@ -1,6 +1,8 @@
 ---
 permalink: /schools/
-title: "Summer Schools"
+title: <big>Summer Schools</big>
+tags:
+  - content
 
 ---
 

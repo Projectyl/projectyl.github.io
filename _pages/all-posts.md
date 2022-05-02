@@ -3,16 +3,20 @@ title: "All Posts"
 permalink: /all/
 sidebar:
   nav: categories
+tags:
+    - housekeeping
 
 ---
 
 
+<ol>
 {% for post in site.posts %}
-  [**{{ post.title }}**]({{ post.permalink }}){:link}
+<li><a href="{{ post.permalink }}">{{ post.title }}</a></li>
+<i>{{ post.excerpt }}</i>
 <br>
-  _{{ post.excerpt }}_
-<br>
-  {{ post.date | date: "%B %d, %Y" }}, **{{ post.categories }}**
+{{ post.date | date: "%B %d, %Y" }}, <b>{{ post.categories }}</b>
 
-  ---
+<hr>
+
 {% endfor %}
+</ol>

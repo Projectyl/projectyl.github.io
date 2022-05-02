@@ -1,8 +1,9 @@
 ---
 permalink: /inter/
-title: "International Summer Internships"
+title: <big>International Summer Internships</big>
 tags:
  - Summer Programs 2022
+ - content
 
 ---
 

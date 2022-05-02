@@ -1,6 +1,8 @@
 ---
-title: "Notifications"
+title: <big>Notifications</big>
 permalink: /notifs/
+tags:
+    - housekeeping
 
 ---
 

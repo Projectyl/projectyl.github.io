@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: ""
+tags:
+    - housekeeping
 
 ---
 
