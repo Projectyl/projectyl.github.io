@@ -15,16 +15,16 @@ tags:
 
 Following are some international sources of internships. Note that the institute names in the left columns are **hyperlinks** to the respective webpages. It is available for download as a [pdf](/_pages/summer.pdf).
 
-<table>
+<table class="sortable">
 <tr>
-{% for pair in site.data.summer.inter[0] %}
+{% for pair in site.data.international[0] %}
 {% unless forloop.last %}
 <th align="center">{{ pair[0] }}</th>
 {% endunless %}
 {% assign last_key = pair[0] %}
 {% endfor %}
 </tr>
-{% for row in site.data.summer.inter offset: 1%}
+{% for row in site.data.international offset: 1%}
 <tr>
 {% for pair in row %}
 {% if forloop.first %}
