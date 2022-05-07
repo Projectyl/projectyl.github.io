@@ -7,7 +7,8 @@ header:
 categories:
   - Program Notification
 tags:
-  - Masters
+  - post-Msc
+  - internships
   - content
 
 ---

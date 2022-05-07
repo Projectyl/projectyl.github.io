@@ -1,13 +1,19 @@
 ---
 permalink: /inter/
-title: <big>International Summer Internships</big>
+title: <big>International Internships</big>
+excerpt: For those who want additional exposure
 tags:
- - Summer Programs 2022
+ - international
+ - internships
  - content
 
 ---
 
-Following are some international summer programs. Note that the institute names in the left columns are **hyperlinks** to the respective webpages. It is available for download as a [pdf](/_pages/summer.pdf).
+<span class="excerpt">{{ page.excerpt }}</span>
+
+<br>
+
+Following are some international sources of internships. Note that the institute names in the left columns are **hyperlinks** to the respective webpages. It is available for download as a [pdf](/_pages/summer.pdf).
 
 <table>
 <tr>

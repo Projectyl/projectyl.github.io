@@ -1,5 +1,7 @@
 main:
-  - title: "Internships & More"
+  - title: "All we have"
+    url: /all/
+  - title: "Summer Internships"
     url: /summer/
   - title: "Summer Schools"
     url: /schools/
@@ -10,14 +12,10 @@ main:
 categories:
   - title: Quick links
     children:
-    - title: "All posts"
+    - title: "All"
       url: /all/
-    - title: "All pages"
-      url: /all-pages/
-    - title: "Summer Internships"
-      url: /summer/
-    - title: "International Programs"
-      url: /intl-progs/
+    - title: "International Internships"
+      url: /inter/
     - title: "Year-Round Programs"
       url: /year-round/
     - title: "Opportunities after MSc"

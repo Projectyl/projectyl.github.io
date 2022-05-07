@@ -5,10 +5,10 @@ permalink: /post9/
 categories:
   - Program Notification
 tags:
-  - "summer camp"
-  - "workshop"
-  - "high school"
-  - "exposure"
+  - internships
+  - summer-schools
+  - high-school
+  - content
 header:
   image: /assets/images/post-9/school.svg
 

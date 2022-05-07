@@ -1,10 +1,16 @@
 ---
 permalink: /schools/
-title: <big>Summer Schools</big>
+title: <big>Summer Schools in India for UG/PG Students</big>
+excerpt: Learn physics while the sun shines
 tags:
+  - summer-schools
   - content
 
 ---
+
+<span class="excerpt">{{ page.excerpt }}</span>
+
+<br>
 
 Various institutes organise summer schools and workshops to help students get exposed to specific topics at the front line of research. They may also address more general topics that are too advanced for college curricula. Here is a list of summer schools being organised in India. _Note that the headings are hyperlinks to the respective webpages_. The list is available for download as [pdf](/_pages/summer.pdf/).
 

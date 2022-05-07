@@ -1,11 +1,17 @@
 ---
 permalink: /summer/
-title: <big>Summer Internships</big>
+title: <big>Summer Internships in India</big>
+excerpt: Comprehensive list of summer programs in India
 tags:
- - Summer Programs 2022
+ - summer
+ - internships
  - content
 
 ---
+
+<span class="excerpt">{{ page.excerpt }}</span>
+
+<br>
 
 Following are the currently active summer programs. Note that the institute names in the left columns are **hyperlinks** to the respective webpages. It is available for download as a [pdf](/_pages/summer.pdf).
 
@@ -39,7 +45,7 @@ Following are the currently active summer programs. Note that the institute name
 <td><a href="{{ url }}">{{ text }}</a></td>
 {% for pair in row offset: 1%}
 {% unless forloop.last %}
-<td>{{ pair[1] }}</td>
+<td align="center">{{ pair[1] }}</td>
 {% endunless %}
 {% endfor %}
 </tr>

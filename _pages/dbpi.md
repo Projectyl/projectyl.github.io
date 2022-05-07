@@ -1,10 +1,16 @@
 ---
 permalink: /dbpi/
 title: <big>Database for Physicists in India</big>
+excerpt: Category-wise list of Physicists in India
 tags:
+  - data
   - content
 
 ---
+
+<span class="excerpt">{{ page.excerpt }}</span>
+
+<br>
 
 This is a database of physicists working in faculty positions at various Indian institutes. This service is still in beta, and data for institutes are still being added. If you want to look for the people working in a specific field like high energy physics, take a look at the "Filter by Category" section and click on the "High Energy Physics" item.
 
