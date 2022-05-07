@@ -1,0 +1,30 @@
+<div class="feature__wrapper">
+
+  {% for post in site.posts limit:3 %}
+    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item">
+	<a href="{{ post.url | relative_url }}" style="text-decoration:none">
+        {% if post.header.image %}
+          <div class="archive__item-teaser">
+		<img src="{{ post.header.image | relative_url }}"
+                alt="{% if post.alt %}{{ post.alt }}{% endif %}">
+		{% if post.image_caption %}
+		<span class="archive__item-caption">{{ post.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+		{% endif %}
+          </div>
+        {% endif %}
+
+        <div class="archive__item-body">
+	    {{ post.title }}
+          {% if post.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ post.excerpt | markdownify }}
+            </div>
+          {% endif %}
+        </div>
+	</a>
+      </div>
+    </div>
+  {% endfor %}
+
+</div>

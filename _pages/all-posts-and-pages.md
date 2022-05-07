@@ -39,8 +39,6 @@ Jump to [all pages](/all/#all-pages)
 {% endunless %}
 {% endfor %}
 
-<!-- {{ page.tags  | join: ", " | remove: ", content" | remove: "content" }} -->
-
 <hr>
 
 {% endif %}
