@@ -23,7 +23,7 @@ Following are the currently active summer programs. Note that the institute name
 # {{ heads[head_index] }}
 
 {% assign path = site.data.summer[file] %}
-<table>
+<table class="sortable">
 <tr>
 {% for pair in path[0] %}
 {% unless forloop.last %}

@@ -13,11 +13,11 @@ tags:
 
 <br>
 
-Following are some international sources of internships. Note that the institute names in the left columns are **hyperlinks** to the respective webpages. It is available for download as a [pdf](/_pages/summer.pdf).
+Following are some international sources of internships. Note that the institute names in the left columns are **hyperlinks** to the respective webpages. Most of these travel allowances, check their websites to make sure. The table can be sorted by clicking on the column headings; use that to find internships from a specific country.
 
-<table>
+<table class="sortable">
 <tr>
-<th align="right">No.</th>
+<th align="center"></th>
 {% for pair in site.data.international[0] limit:2 %}
 <th>{{ pair[0] }}</th>
 {% endfor %}
@@ -30,7 +30,7 @@ Following are some international sources of internships. Note that the institute
 </tr>
 {% for row in site.data.international offset:1 %}
 <tr>
-<td align="right">{{ forloop.index }}</td>
+<td align="center">{{ forloop.index }}</td>
 {% for pair in row %}
 {% if forloop.first %}
 {% assign text = pair[1] %}
