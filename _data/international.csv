@@ -1,9 +1,53 @@
-Institute,Deadline,Stipend (monthly),Website
+Institute,Country,Stipend,Website
 
-Phasecraft Quantum Software,"Mar 15, 2022",,https://www.phasecraft.io/news/phasecrafts-2022-quantum-software-internship-programme
-MCQST Munich,"Mar 13, 2022",,https://www.mcqst.de/support/summer-bachelor-program/
-SQMS Undergraduate Internship,"Feb 17, 2022",,https://internships.fnal.gov/sqms-quantum-undergraduate-internship/
-Racah Institute of Physics Israel,"Feb 15, 2022",,https://phys.huji.ac.il/research-experience-undergraduates-reu-racah-institute
-Open Quantum Initiative,"Feb 11, 2022",,https://chicagoquantum.org/oqi-undergraduate-fellowship
-CERN Summer Programme,"Jan 31, 2022",,https://summerstudent.web.cern.ch/
-Rutgers University,,,https://www.rise.rutgers.edu/
+MCQST Munich,Germany,,https://www.mcqst.de/support/summer-bachelor-program/
+Racah Institute of Physics,Israel,$200/week,https://phys.huji.ac.il/research-experience-undergraduates-reu-racah-institute
+CERN,USA,,https://home.cern/summer-student-programme
+Rutgers University,USA,$5000 - $6000,https://www.rise.rutgers.edu/
+University of Tokyo,Japan,,https://www.ilo.k.u-tokyo.ac.jp/summer_en/program
+Okinawa Institute of Science and Technology,Japan,JPY 2400/day,https://admissions.oist.jp/oist-research-internship-program-description
+CERN,Switzerland,90 CHF/day,https://jobs.smartrecruiters.com/CERN/743999788164573-cern-summer-student-programme-2022-member-and-non-member-state-
+ETH Zurich,Switzerland,CHF 12000/sem.,https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html
+Woods Hole Oceanographic Institution,USA,,https://www.whoi.edu/what-we-do/educate/undergraduate-programs/summer-student-fellowship/ssf-admissions/
+"University of California, Los Angeles",USA,,https://grad.ucla.edu/admissions/diversity/summer-programs-for-undergraduate-research-spur/
+Lunar and Planetary Institute,USA,$7300,https://www.lpi.usra.edu/lpiintern/
+MPI for Astronomy,Germany,1000€/month,https://www.mpia.de/en/careers/internships/summer
+MPI for Gravitational Physics,Germany,,https://www.mpia.de/en/careers/internships/summer
+Deutsches Elektronen-Synchrotron (DESY),Germany,1200 Euro/month,https://summerstudents.desy.de/
+Institute of Science and Technology,Austria,amount unclear,https://phd.pages.ist.ac.at/isternship/
+"Royal Holloway, University of London",England,£170/week,https://intranet.royalholloway.ac.uk/physics/informationforcurrentstudents/internships/home.aspx
+Moscow Institute of Physics and Technology,Russia,,https://mipt.ru/english/edu/internships/
+Princeton University,USA,amount unclear,https://oip.princeton.edu/our-programs/international-internships
+Harvard University,USA,$3500 + $1500,https://gsas.harvard.edu/diversity/outreach-programs/summer-research-opportunities-harvard
+Department of Energy,USA,,https://science.osti.gov/wdts/scgsr
+Glenn T. Seaborg Institute,USA,``generous salary``,https://seaborg.llnl.gov/career-opportunities
+Los Alamos National Lab. (u-graduate),USA,,https://www.lanl.gov/careers/career-options/student-internships/undergraduate/index.php
+Los Alamos National Lab. (graduate),USA,,https://www.lanl.gov/careers/career-options/student-internships/graduate/index.php
+Santa Fe Institute,USA,$600/week,https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research
+Institute for Quantum Computing,Canada,amount unclear,https://uwaterloo.ca/institute-for-quantum-computing/ura
+Penn Engineering,USA,$6000,https://sunfest.seas.upenn.edu/program-overview/
+University of Florida,USA,,http://www.phys.ufl.edu/ireu/index.html
+Society of Physics Students,USA,$5850,https://www.spsnational.org/programs/internships
+Purdue University,USA,$500/week,https://www.physics.purdue.edu/research/reu/index.html
+LIGO-India - Caltech,USA,amount unclear,http://www.gw.iucaa.in/ligo-surf-program/
+PRISMA,Germany,none,https://www.prisma.uni-mainz.de/mainz-physics-academy/prisma-internship-program/
+Max Planck Institute for Gravitational Physics,Germany,,https://www.aei.mpg.de/43630/student-internships-in-gravitational-wave-searches-and-observations
+Dublin Institute for Advanced Studies,Ireland,€1,500/month,https://www.dias.ie/2020/04/16/dias-summer-studentships-2020/
+Nicolus Copernicus University,Poland,70 PLN/day,https://tssp.umk.pl/exsci/index.html#announcement
+Anton Pannekoek Institute,Netherlands,none,https://aspire.science.uva.nl/
+European Southern Observatory,Germany,amount unclear,https://eso.org/sci/meetings/2022/SummerResearch2022.html
+University of Liverpool,England,none,https://www.liverpool.ac.uk/particle-physics/summer-internships/
+ASML,Netherlands,€500/month,https://www.asml.com/en/careers/find-your-job/4/1/5/materials-science--physics-internship-non-thesis--metrology-development-for-particle-inspection-req4
+Lunar and Planetary Institute,USA,$6300,https://www.lpi.usra.edu/exploration_intern/
+Yale University,USA,$450/week,https://astronomy.yale.edu/undergraduate-program/research/dorrit-hoffleit-undergraduate-research-scholarship
+Academia Sinica Institute of A & A,China,NTD 20,000/month,http://events.asiaa.sinica.edu.tw/ssp/
+Max Planck Institute for Astronomy,Germany,1000€/month,http://www.mpia.de/en/careers/internships/summer
+The Royal Society of Edinburgh,Scotland,£266/week,https://rse.org.uk/funding-collaboration/award/rse-cormack-undergraduate-vacation-scholarships/
+Imperial College London,England,,https://www.imperial.ac.uk/urop/what-is-urop/
+Cardiff University,Wales,£275/week,https://www.cardiff.ac.uk/physics-astronomy/research/summer-research-internships
+University of Oxford,England,~£10.50/hour,https://www.physics.ox.ac.uk/research/summer-internships-undergraduates
+University of Hertfordshire,England,,https://www.herts.ac.uk/research/centres/car/ug-research-programme
+Shibaura Institute of Technology,Japan,JPY40000/month,https://www.shibaura-it.ac.jp/en/study/exchange_programs/research.html
+Kyoto University,Japan,180000 yen,http://www.opir.kyoto-u.ac.jp/study/en/curriculum/amgenscholars/
+New York University Shanghai,China,,https://srpp-nyush.org/
+International Atomic Energy Agency,Austria,,https://www.iaea.org/about/employment/internships
