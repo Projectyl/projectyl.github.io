@@ -2,6 +2,8 @@
 permalink: /inter/
 title: <big>International Internships</big>
 excerpt: For those who want additional exposure
+header:
+    image: /assets/images/inter/inter.svg
 tags:
  - international
  - internships
