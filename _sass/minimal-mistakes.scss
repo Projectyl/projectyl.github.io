@@ -53,11 +53,11 @@
 }
 
 details > summary {
-    list-style-type: "";
+    list-style-type: "Click to reveal";
 }
 
 details[open] > summary {
-    list-style-type: "";
+    list-style-type: "Click to hide";
 }
 
 details {

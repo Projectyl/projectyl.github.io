@@ -19,6 +19,8 @@ Following are some international sources of internships. Note that the institute
 {% for group in site.data.countries %}
 # {{ group[0] }}
 
+<details>
+
 <table class="sortable">
 <tr>
 <th align="center"></th>
@@ -58,4 +60,7 @@ Following are some international sources of internships. Note that the institute
 {% endif %}
 {% endfor %}
 </table>
+</details>
+<br>
+
 {% endfor %}
