@@ -47,7 +47,7 @@
 
   @include breakpoint($large) {
     float: left;
-    width: span(8.5 of 12);
+    width: span(9 of 12);
     margin-left: span(0.5 of 12);
   }
 }
