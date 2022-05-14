@@ -6,7 +6,7 @@
 	<a href="{{ post.url | relative_url }}" style="text-decoration:none">
         {% if post.header.image %}
           <div class="archive__item-teaser">
-		<img src="{{ post.header.image | relative_url }}"
+		<img src="{{ post.header.image | replace: ".svg", ".png" | relative_url }}"
                 alt="{% if post.alt %}{{ post.alt }}{% endif %}">
 		{% if post.image_caption %}
 		<span class="archive__item-caption">{{ post.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>

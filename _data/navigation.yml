@@ -1,5 +1,5 @@
 main:
-  - title: "All Posts & Pages"
+  - title: "Other Stuff"
     url: /all/
   - title: "Summer Internships"
     url: /summer/
@@ -12,7 +12,7 @@ main:
 categories:
   - title: Quick links
     children:
-    - title: "All Posts & Pages"
+    - title: "Other Stuff"
       url: /all/
     - title: "International Internships"
       url: /inter/
