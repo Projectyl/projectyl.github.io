@@ -9,26 +9,22 @@ tags:
 feature_row:
   - image_path: /assets/images/general/abhirup.png
     alt: "placeholder image 2"
-    title: "Abhirup Mukherjee"
-    excerpt: 'PhD Student,<br>Dpt. of Physical Sciences,<br>IISER Kolkata, Mohanpur'
+    excerpt: '<b>Abhirup Mukherjee</b><br>PhD Student,<br>IISER Kolkata, Mohanpur'
 
 feature_row2:
   - image_path: /assets/images/general/sahnawaz.png
     alt: "placeholder image 2"
-    title: "Sahnawaz Alam"
-    excerpt: 'PhD Student,<br>Dpt. of Theoretical Physics,<br>WUST, Poland'
+    excerpt: '<b>Sahnawaz Alam</b><br>PhD Student,<br>WUST, Poland'
 
 feature_row3:
   - image_path: /assets/images/general/surojit.png
     alt: "placeholder image 2"
-    title: "Surojit Bhattacharyya"
-    excerpt: 'Data scientist,<br>Univ.AI,Bangalore'
+    excerpt: '<b>Surojit Bhattacharyya</b><br>Data scientist,<br>Univ.AI,Bangalore'
 
 feature_row4:
   - image_path: /assets/images/general/suvranil.png
     alt: "placeholder image 2"
-    title: "Suvranil Ghosh"
-    excerpt: 'Graduate Trainee,<br>Simons Center for the<br>Study of Living Machines,<br>NCBS-TIFR, Bangalore'
+    excerpt: '<b>Suvranil Ghosh</b><br>Graduate Trainee,<br>NCBS-TIFR, Bangalore'
 
 ---
 
@@ -41,7 +37,7 @@ You can also reach out to us by sending emails to [projectylindia@gmail.com](mai
 
 ## The Team
 
-<p>{% include feature_row type="left" %}{% include feature_row id="feature_row2" type="right" %}</p>
+<p>{% include feature_row type="center" %}{% include feature_row id="feature_row2" type="center" %}</p>
 
-<p>{% include feature_row id="feature_row3" type="left" %}{% include feature_row id="feature_row4" type="right" %}</p>
+<p>{% include feature_row id="feature_row3" type="center" %}{% include feature_row id="feature_row4" type="center" %}</p>
 

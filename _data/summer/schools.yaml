@@ -1,51 +1,261 @@
-- Name: 'Future Flavours: Prospects for Beauty, Charm and Tau Physics'
-  Link: https://www.icts.res.in/program/ff2022
-  Institute: ICTS
-  Deadline: April 18, 2022
-  Topic: 
-    - Pedagogical Introduction to Experimental
-    - Phenomenological Flavour Physics
-  Target Audience: 
-    - Ph.D students in particle physics and above
-    - Final year M.Sc. students may apply if they have done courses and/or project work in particle physics
-- Name: 'ICTS Summer School on Gravitational-Wave Astronomy'
+- Name: ICTS Summer School on Gravitational-Wave Astronomy
   Link: https://www.icts.res.in/program/gws2022
   Institute: ICTS, Bangalore
-  Deadline: April 15, 2022
-  Topic:
-  - Stellar structure
-  - evolution, collapse and supernovae
-  - Compact binary evolution, rates and population modelling
+  Time: May - June
+  Topics:
+    - Stellar structure, evolution, collapse and supernovae
+    - Compact binary evolution, rates and population modelling
   Target Audience: 
-  - The school is primarily meant for graduate students and postdocs in GW astrophysics and related fields.
-  - A small number of highly motivated senior undergraduates can also be considered
+    - The school is primarily meant for graduate students and postdocs in GW astrophysics and related fields.
+    - A small number of highly motivated senior undergraduates can also be considered
 
-- Name: 'Introductory Summer School in Astronomy and Astrophysics'
+- Name: Bangalore School on Statistical Physics
+  Link: https://www.icts.res.in/program/bssp2022
+  Institute: ICTS, Bangalore
+  Time: June - July
+  Topics:
+    - Statistical physics of Turbulence
+    - Spin glasses
+    - Stochastic chemical reaction networks
+    - Pattern formation in Biology
+    - Stochastic Gradient Descent and Machine Learning
+    - Statistical physics of long-range systems
+  Target Audience: 
+    - Ph.D. students, post-doctoral fellows and interested faculty members
+
+- Name: Introductory Summer School in Astronomy and Astrophysics
   Link: http://www.iucaa.in/Stu-Prog-ISSIA.html
   Institute: IUCAA, Pune
-  Deadline: April 22, 2022
-  Topic: 
+  Time: May - June
+  Topics: 
     - Fundamentals of Astronomy and Astrophysics
     - Recent developments in the field
   Target Audience: 
-  - Students in the final year B.Sc. (Physics/Applied Mathematics/Astronomy/Electronics)
-  - Students in third year and onwards of B.Tech./B.E. (any branch)/Integrated M.Sc. (Physics/Applied Mathematics/Astronomy/Electronics)
-  - Students pursuing M.Sc. (Physics/Applied Mathematics/Astronomy/Electronics)
+    - Students in the final year B.Sc. (Physics/Applied Mathematics/Astronomy/Electronics)
+    - Students in third year and onwards of B.Tech./B.E. (any branch)/Integrated M.Sc. (Physics/Applied Mathematics/Astronomy/Electronics)
+    - Students pursuing M.Sc. (Physics/Applied Mathematics/Astronomy/Electronics)
 
-- Name: 'Summer School for Women in Mathematics and Statistics'
+- Name: Summer School for Women in Mathematics and Statistics
   Link: https://www.icts.res.in/program/swms2022
   Institute: ICTS, Bangalore
-  Deadline: April 29, 2022
-  Topic: 
-  - Advanced Calculus
-  - Linear Algebra
-  - Probability
-  - Statistics
-  Target Audience: Women students studying in first year B.A/B.Sc./B.E./B.Tech. or equivalent degree and having Mathematics as one of the major subjects/courses, during the academic year 2021-2022
+  Time: May
+  Topics: 
+    - Advanced Calculus
+    - Linear Algebra
+    - Probability
+    - Statistics
+  Target Audience: 
+    - Women students studying in first year B.A/B.Sc./B.E./B.Tech. or equivalent degree and having Mathematics as one of the major subjects/courses
 
-- Name: 'Computational Approaches to Memory and Plasticity'
-  Link: https://camp.ncbs.res.in/
-  Institute: NCBS, Bangalore
-  Deadline: April 25, 2022
-  Topic: theoretical and computational modeling, pertaining to memory and plasticity in the brain, spanning different scales of space, time and complexity
-  Target Audience: PhD students, Postdocs, and exceptional undergraduates worldwide from all backgrounds
+- Name: ACM India Summer Schools
+  Link: https://india.acm.org/education/acm-india-summer-schools-2022
+  Institute: ICTS, Bangalore
+  Time: July
+  Topics: 
+    - Data Science
+    - Shape Modelling
+  Target Audience: 
+    - students in the pre-final year of Bachelor's program or higher
+
+- Name: Vigyan Vidushi
+  Link: https://vv.hbcse.tifr.res.in/
+  Institute: HBCSE/TIFR, Mumbai
+  Time: July - August
+  Topics: 
+    - advanced physics topics and research opportunities
+  Target Audience: 
+    - women students in the first year of their two-year M.Sc. degree in physics
+    - fourth year of their Integrated B.Sc.-M.Sc. degree in physics
+
+- Name: Summer school on Quantum information and Quantum Technology
+  Link: https://www.iiserkol.ac.in/~qiqt19/
+  Institute: IISER Kolkata
+  Time: June - July
+  Topics: 
+    - Quantum Foundation, Information, and Applications
+    - Quantum optics & Quantum Metrology
+    - Symmetries & Quantum Theory
+    - Quantum Chemistry & Applications to Condensed Matter Physics
+
+- Name: Radio Astronomy School
+  Link: http://www.ncra.tifr.res.in/ncra/students/external-students/ras-2015
+  Institute: NCRA-TIFR
+  Time: August/September
+  Topics: 
+    - techniques and excitement of radio astronomy, especially in the context of the Giant Metrewave Radio Telescope (GMRT)
+    - radio interferometry theory and techniques, with an emphasis on their application at low radio frequencies
+    - analysis of GMRT data using standard software packages
+  Target Audience: 
+    - doctoral students, post-doctoral researchers and faculty members in astronomy or related subjects
+    - applications from Master's level students with sufficient background in radio astronomy will usually also be considered
+
+- Name: JTG/IEEE ITSoc Summer School
+  Link: http://www.ncra.tifr.res.in/ncra/students/external-students/ras-2015
+  Institute: IIT Mandi
+  Time: August/September
+  Topics: 
+    - techniques and excitement of radio astronomy, especially in the context of the Giant Metrewave Radio Telescope (GMRT)
+    - radio interferometry theory and techniques, with an emphasis on their application at low radio frequencies
+    - analysis of GMRT data using standard software packages
+  Target Audience: 
+    - doctoral students, post-doctoral researchers and faculty members in astronomy or related subjects
+    - applications from Master's level students with sufficient background in radio astronomy will usually also be considered
+
+- Name: ARIES Training School in Observational Astronomy
+  Link: https://www.aries.res.in/atsoa2022/
+  Institute: ARIES Nainital
+  Time: May
+  Topics: 
+    - telescopes
+    - optical data analysis techniques
+    - star formation and evolution
+    - galactic and extragalactic astronomy
+  Target Audience: 
+    - students who have passed M. Sc. (Physics/Astrophysics), or
+    - are appearing for M. Sc. final year exam with an interest and motivation to work in observational astronomy
+
+- Name: NASA Heliophysics Summer School
+  Link: https://cpaess.ucar.edu/heliophysics/summer-school
+  Institute: NASA
+  Time: August
+  Topics: 
+    - physics of core processes that describe the domains of the heliosphere
+    - solar interior and corona, solar wind, magnetospheres, ionospheres, and the heliosphere boundary
+    - unifying concepts between these domains
+  Target Audience:
+    - graduate student in any phase of training, or first or second year postdoctoral fellow
+    - Major in physics with an emphasis on astrophysics, geophysics, plasma physics, and space physics, or experienced in at least one of these areas.
+    - Pursuing a career in heliophysics or astrophysics
+
+- Name: NASA Heliophysics Summer School
+  Link: https://cpaess.ucar.edu/heliophysics/summer-school
+  Institute: NASA
+  Time: August
+  Topics: 
+    - physics of core processes that describe the domains of the heliosphere
+    - solar interior and corona, solar wind, magnetospheres, ionospheres, and the heliosphere boundary
+    - unifying concepts between these domains
+  Target Audience:
+    - graduate student in any phase of training, or first or second year postdoctoral fellow
+    - Major in physics with an emphasis on astrophysics, geophysics, plasma physics, and space physics, or experienced in at least one of these areas.
+    - Pursuing a career in heliophysics or astrophysics
+
+- Name: Plasma Physics Laboratory Graduate Summer School
+  Link: https://gss.pppl.gov/2021/
+  Institute: Princeton
+  Time: August
+  Topics: 
+    - Computational Methods in Plasma Physics
+    - Stellarators
+    - Plasma Diagnostics
+  Target Audience:
+    - students from a broad range of fields- magnetic fusion energy sciences, high energy density plasmas, astrophysics, low temperature plasmas, materials science, etc.
+
+- Name: Wolfram Summer School
+  Link: https://education.wolfram.com/summer-school
+  Institute: Champaign, Illinois (Wolfram Headquarters)
+  Time: July
+  Topics: 
+    - Wolfram models—a new class of discrete models for the fundamental structure of spacetime
+    - cutting-edge contributions to our understanding of general relativity, quantum field theory and mathematical physics
+  Target Audience:
+    - advanced research-oriented students in mathematics and physics
+    - those with strong backgrounds in algorithmic programming
+
+- Name: Boulder School in Condensed Matter and Materials Physics
+  Link: https://boulderschool.yale.edu/
+  Institute: University of Colorado
+  Time: July
+  Topics: 
+    - condensed matter physics
+    - materials science
+    - related fields
+  Target Audience:
+    - advanced graduate students
+    - postdoctoral fellows
+
+- Name: NSF/DOE Quantum Science Summer School
+  Link: https://qs3.mit.edu/index.php/summer-school-program
+  Institute: University of California
+  Time: July
+  Topics: 
+    - condensed matter physics
+    - materials science
+    - disciplines of quantum science in engineering, chemistry, and related fields
+  Target Audience:
+    - graduate students and postdocs
+
+- Name: Tri-Institute Summer School on Elementary Particles
+  Link: https://www.trisep.ca/
+  Institute: TRIUMF, Vancouver
+  Time: July
+  Topics: 
+    - Standard model
+    - Neutrino physics
+    - Dark matter
+    - Beyond the standard model
+    - Collider physics
+    - Fundamental physics at the precision frontier
+    - Statistics
+    - Machine learning for particle physics
+    - Particle detectors
+    - Ultralight new physics
+  Target Audience:
+    - graduate students of all levels who have taken an advanced quantum mechanics class and an introductory particle physics class.
+
+- Name: Canadian Astroparticle Physics Summer School
+  Link: https://mcdonaldinstitute.ca/capss/capss-info/
+  Institute: Queen’s University
+  Time: July
+  Topics: 
+    - Astrophysical evidence for dark Matter
+    - Dark matter astrophysics theory and cosmology
+    - Models and signals of dark matter
+    - Direction detection of dark mark matter
+    - Neutrino oscillations and the SNO experiment
+  Target Audience:
+    - strong 2nd year and 3rd year undergraduate students
+    - students in their 4th or more senior years of undergrad who will preferably not have graduated by the time they attend CAPSS
+
+- Name: Complex Systems Summer School
+  Link: https://www.santafe.edu/engage/learn/programs/sfi-complex-systems-summer-school
+  Institute:  Santa Fe Institute
+  Time: June - July
+  Topics: 
+    - theory and methods used to describe and predict the behavior of complex systems.
+    - latest applications of complex systems science to diverse research questions
+    - trans-disciplinary research projects in complex systems science
+  Target Audience:
+    - graduate students, postdoctoral fellows, and professionals
+
+- Name: Joint ICTP-SAIFR/MITP Summer School on Particle Physics
+  Link: https://www.ictp-saifr.org/bsmp2022/
+  Institute: Campus of IFT-UNESP - São Paulo
+  Time: September
+  Topics: 
+    - advanced topics in theoretical particle physics
+    - important areas where recent progress has been made in the field
+  Target Audience:
+    - advanced graduate students
+
+- Name: International School of Physics Enrico Fermi
+  Link: https://www.sif.it/corsi
+  Institute: Villa Monastero at Varenna
+  Time: June - July
+  Topics: 
+    - cultural impact
+    - the up-to-date scientific content
+    - a fair distribution and promotion among the different fields of physics.
+  Target Audience:
+    - PhD students and young post-docs
+
+- Name: AAPM Summer School
+  Link: https://www.sif.it/corsi
+  Institute: Villa Monastero at Varenna
+  Time: June - July
+  Topics: 
+    - rationale and physics behind small field dosimetry
+    - treatment planning, image guidance, quality assurance, radiobiology and clinical considerations
+  Target Audience:
+    - PhD students and young post-docs
+
