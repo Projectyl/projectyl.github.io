@@ -52,3 +52,5 @@ _Apart from these, institutes often invite people to work on funded projects for
 **Duration**: 6-weeks to 6-months
 <br>
 **Important links**: [main](https://www.iiap.res.in/?q=degree#:~:text=to%209%20months.-,Short%2Dterm%20projects,-Students%20who%20are)
+
+## [IIT Jodhpur](https://iitj.ac.in/uploaded_docs/Advertisement_01_Internship%20(Admn%20&%20Tech)_03092021.pdf)
