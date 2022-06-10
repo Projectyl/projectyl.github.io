@@ -1,14 +1,16 @@
 main:
-  - title: "Other Stuff"
-    url: /all/
+  - title: "Notifications"
+    url: /notifs/
   - title: "Summer Internships"
     url: /summer/
   - title: "Summer Schools"
     url: /schools/
-  - title: "Notifications"
-    url: /notifs/
+  - title: "Winter Schools"
+    url: /winter-schools/
   - title: "How to Apply"
     url: /drafting/
+  - title: "Other Stuff"
+    url: /all/
 categories:
   - title: Quick links
     children:

@@ -6,14 +6,16 @@ tags:
  - winter
  - schools
  - content
+header:
+  image: /assets/images/winter-schools/winter.svg
+  caption: "[Source](https://www.ready.gov/winter-weather-safety-social-media-toolkit)"
 
 ---
 
 <span class="excerpt">{{ page.excerpt }}</span>
-
 <br>
 
-Following are the currently active summer programs. Note that the institute names in the left columns are **hyperlinks** to the respective webpages. It is available for download as a [pdf](/_pages/summer.pdf).
+This is a list of winter schools held in India. They are mostly targeted at graduate students, although some also admit undergraduates. Most of them are held regularly.
 
 {% for row in site.data.winter.schools %}
 {% assign name = row["Name"] %}
