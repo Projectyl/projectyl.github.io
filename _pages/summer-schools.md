@@ -21,30 +21,24 @@ Various institutes organise summer schools and workshops to help students get ex
 {% assign name = row["Name"] %}
 {% assign link = row["Link"] %}
 
-<h3><a href="{{ link }}">{{ forloop.index }}. {{ name }}</a></h3>
-<div style="float: left;"><b>Institute</b>: {{ row["Institute"] }}</div><div style="float: right;"><b>Time</b>: {{ row["Time"] }}</div>
+<h3><a href="{{ link }}">{{ forloop.index }}.  {{ name }}</a></h3>
+
+<div style="float:left;"><b>Institute</b>: {{ row["Institute"] }}</div>
+<div style="float:right;margin-right:25%;"><b>Time</b>: {{ row["Time"] }}</div>
+
 <br>
-{% if row["Topics"].size == 1 %}
-<b>Topics:</b>
-{{ row["Topics"] }}
-{% else %}
+
 <b>Topics:</b>
 <ul>
 {% for t in row["Topics"] %}
 <li>{{ t }}</li>
 {% endfor %}
 </ul>
-{% endif %}
-{% if row["Target Audience"].size == 1 %}
-<b>Target Audience:</b>
-{{ row["Target Audience"] }}
-{% else %}
 <b>Target Audience:</b>
 <ul>
 {% for t in row["Target Audience"] %}
 <li>{{ t }}</li>
 {% endfor %}
 </ul>
-{% endif %}
 
 {% endfor %}
