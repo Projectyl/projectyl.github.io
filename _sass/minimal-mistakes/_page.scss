@@ -15,7 +15,7 @@
   animation-delay: 0.15s;
 
   @include breakpoint($x-large) {
-    max-width: $max-width;
+    max-width: 90%;
   }
 }
 
@@ -88,6 +88,7 @@ body {
 }
 
 .page__content {
+font-size:0.9em;
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
@@ -131,11 +132,11 @@ body {
 
   a:not(.btn) {
     &:hover {
-      text-decoration: underline;
-
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
+      text-decoration: none;
+	border-bottom: 0.2em solid black;
+      // img {
+      //   box-shadow: 0 0 10px rgba(#000, 0.25);
+      // }
     }
   }
 
@@ -566,6 +567,5 @@ body {
 .excerpt
 {
     color: brown;
-    font-size: large;
-    font-style: italic;
+    font-weight: bold;
 }
