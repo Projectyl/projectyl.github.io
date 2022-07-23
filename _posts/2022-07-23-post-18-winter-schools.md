@@ -1,27 +1,30 @@
 ---
-permalink: /winter-schools/
-title: <big>Winter Schools in Physics</big>
-excerpt: List of winter schools on various topics in physics held in India and abroad
+title: <big>Upcoming International Winter Schools</big>
+excerpt: Particle Physics and Statistical Physics
+permalink: /post18/
+categories:
+  - Program Notification
 tags:
- - winter
- - schools
- - content
+  - "Winter Schools"
+  - international
 header:
-  image: /assets/images/winter-schools/winter.svg
-  caption: "[Source](https://www.ready.gov/winter-weather-safety-social-media-toolkit)"
+  image: /assets/images/post-18/kias.jpg
 
 ---
 
 <span class="excerpt">{{ page.excerpt }}</span>
+
 <br>
 
-This is a list of winter schools held in India and abroad. They are mostly targeted at graduate students, although some also admit undergraduates. Most of them are held regularly.
+Here are some upcoming winter schools on various topics in physics. For the full list and more details, check [here](/winter-schools/). 
 
 {% for row in site.data.winter.schools %}
 {% assign name = row["Name"] %}
 {% assign link = row["Link"] %}
 
-<h3><a href="{{ link }}">{{ forloop.index }}. {{ name }}</a></h3>
+{% if name == "CHIPP Winter School of Particle Physics" or name == "ITAMP/B2 Winter School" or name == "KIAS-APCTP Winter School on Statistical Physics" %}
+
+<h3><a href="{{ link }}">{{ name }}</a></h3>
 
 <div style="float: left;"><b>Institute</b>: {{ row["Institute"] }}</div><div style="float: right;"><b>Time</b>: {{ row["Time"] }}</div>
 <br>
@@ -46,6 +49,8 @@ This is a list of winter schools held in India and abroad. They are mostly targe
 <li>{{ t }}</li>
 {% endfor %}
 </ul>
+{% endif %}
+
 {% endif %}
 
 {% endfor %}
