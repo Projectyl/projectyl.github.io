@@ -5,7 +5,7 @@ permalink: /post18/
 categories:
   - Program Notification
 tags:
-  - "Winter Schools"
+  - winter schools
   - international
 header:
   image: /assets/images/post-18/kias.jpg

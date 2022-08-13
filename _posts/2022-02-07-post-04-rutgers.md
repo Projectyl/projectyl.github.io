@@ -5,7 +5,7 @@ permalink: /post4/
 categories:
   - Program Notification
 tags:
-  - "Summer Programs 2022"
+  - "summer internship"
 header:
   image: /assets/images/post-4/rutgers.webp
 
