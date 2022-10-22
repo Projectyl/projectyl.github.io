@@ -3,7 +3,7 @@ title: Welcome to Projectyl!
 layout: splash
 permalink: /
 header:
-  overlay_image: /assets/images/general/banner.svg
+  overlay_image: /assets/images/general/layered-waves-haikei.svg
   actions:
     - label: "Learn More"
       url: /about/
