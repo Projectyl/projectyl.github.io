@@ -1,5 +1,5 @@
 ---
-title: <big>Winter schools and workshops at IISER-TVM, ICTS and IIST</big>
+title: <big>Winter schools & workshops at IISER-TVM, ICTS, IIST</big>
 excerpt: Topics include nano-engineered materials and astrophysics
 permalink: /post21/
 categories:
