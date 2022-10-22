@@ -1,5 +1,5 @@
 ---
-title: <big>Physics Schools at ICTS,ICTP</big>
+title: <big>Upcoming Physics Schools at ICTS,ICTP</big>
 excerpt: "Hands-on training of computational fluid dynamics"
 permalink: /post20/
 categories:
