@@ -1,47 +1,33 @@
 ---
 permalink: /summer/
 title: <big>Summer Internships in India</big>
-excerpt: Comprehensive list of summer programs in India
+excerpt: A comprehensive list of summer programs<br>at IITs, IISERs and other institutes
 tags:
  - summer
  - internships
  - content
+header:
+  overlay_image: /assets/images/general/layered-waves-haikei.svg
 
 ---
 
-<span class="excerpt">{{ page.excerpt }}</span>
-
-<br>
-
 Following is a list of physics summer internship programs in India. *Note that the institute names in the left columns are hyperlinks to the respective webpages*. It is available for download as a [pdf](/_pages/summer.pdf).
 
-{% assign path = site.data.summer.all %}
+{% assign path = site.data.summer.all | sort: "Institute" %}
 
 <table class="sortable">
 <tr>
-{% for pair in path[0] %}
-	{% unless forloop.last %}
-	<th align="center">{{ pair[0] }}</th>
-	{% endunless %}
-	{% assign last_key = pair[0] %}
-{% endfor %}
+<th style="text-align:left;">Institute</th>
+<th>Deadline</th>
+<th>Time-frame</th>
+<th style="text-align:right;">Stipend / month</th>
 </tr>
-{% for row in path offset: 1%}
-	<tr>
-	{% for pair in row %}
-	{% if forloop.first %}
-	{% assign text = pair[1] %}
-	{% endif %}
-	{% if forloop.last %}
-	{% assign url = pair[1] %}
-	{% endif %}
-	{% endfor %}
-	<td><a href="{{ url }}">{{ text }}</a></td>
-	{% for pair in row offset: 1%}
-	{% unless forloop.last %}
-	<td align="center">{{ pair[1] }}</td>
-	{% endunless %}
-	{% endfor %}
-	</tr>
+{% for row in path offset: 1 %}
+<tr>
+<td style="text-align:left;"><a href="{{ row["Website"] }}">{{ row["Institute"] }}</a></td>
+<td>{{ row["Deadline"] }}</td>
+<td>{{ row["Time-frame"] }}</td>
+<td style="text-align:right;">{{ row["Stipend"] }}</td>
+</tr>
 {% endfor %}
 </table>

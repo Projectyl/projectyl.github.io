@@ -36,17 +36,14 @@ table,td,th,tr {
 	border: none;
 	vertical-align: middle;
 	text-align: center;
-	padding: 0.5em;
-	padding-left: 2em;
-	padding-right: 2em;
+	padding-left:1em;
+	padding-right:1em;
 }
 
 table {
-	margin: auto;
-	width:100%;
-   	table-layout: fixed;
    	overflow-wrap: break-word;
-  	max-width: 100%; 
+	display: table;
+	border: 2px solid gray;
 }
 
 
