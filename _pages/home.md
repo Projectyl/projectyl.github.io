@@ -17,6 +17,6 @@ tags:
 ---
 
 # [Recent Posts](/all/)
-<hr style="height:0.2em;background-color:#000;width:80%;">
+<hr class="thick-line">
 
 {% include feature_row_posts type="left" %}

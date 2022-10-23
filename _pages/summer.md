@@ -16,6 +16,7 @@ tags:
 Following is a list of physics summer internship programs in India. *Note that the institute names in the left columns are hyperlinks to the respective webpages*. It is available for download as a [pdf](/_pages/summer.pdf).
 
 {% assign path = site.data.summer.all %}
+
 <table class="sortable">
 <tr>
 {% for pair in path[0] %}

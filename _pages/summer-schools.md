@@ -24,7 +24,7 @@ Various institutes organise summer schools and workshops to help students get ex
 <h3><a href="{{ link }}">{{ forloop.index }}.  {{ name }}</a></h3>
 
 <div style="float:left;"><b>Institute</b>: {{ row["Institute"] }}</div>
-<div style="float:right;margin-right:25%;"><b>Time</b>: {{ row["Time"] }}</div>
+<div style="float:right"><b>Time</b>: {{ row["Time"] }}</div>
 
 <br>
 

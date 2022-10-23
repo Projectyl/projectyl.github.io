@@ -1,14 +1,12 @@
 main:
-  - title: "Notifications"
+  - title: "Updates"
     url: /notifs/
-  - title: "Summer Internships"
+  - title: "About"
+    url: /about/
+  - title: "Internships"
     url: /summer/
   - title: "Summer Schools"
     url: /schools/
-  - title: "Winter Schools"
-    url: /winter-schools/
-  - title: "How to Apply"
-    url: /drafting/
   - title: "Other Stuff"
     url: /all/
 categories:

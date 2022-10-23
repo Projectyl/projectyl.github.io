@@ -12,12 +12,6 @@ header:
 
 ---
 
-{% if page.excerpt %}
-<span class="excerpt">{{ page.excerpt }}</span>
-
-<hr style="height:0.2em;background-color:#000;width:80%;">
-{% endif %}
-
 Here are some upcoming winter schools and workshops within India. Some have upcoming deadlines, check them out soon. Some have already passed their deadlines; if interested in such programs, make sure to nevertheless approach the organisers - they often admit late registrations.
 
 ## Refresher & Preparative Winter School - IISER-TVM

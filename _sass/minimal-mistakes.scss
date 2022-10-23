@@ -21,9 +21,9 @@
 @import "minimal-mistakes/tables";
 @import "minimal-mistakes/animations";
 
+
 /* Components */
 @import "minimal-mistakes/buttons";
-@import "minimal-mistakes/items";
 @import "minimal-mistakes/notices";
 @import "minimal-mistakes/masthead";
 @import "minimal-mistakes/navigation";
@@ -40,32 +40,6 @@
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
 
-.page__content {
-  text-align: justify;
-}
+/* Custom CSS */
+@import "custom";
 
-.page {
-
-  @include breakpoint($large) {
-    float: left;
-    width: span(7 of 12);
-    margin-left: span(1 of 12);
-  }
-}
-
-details > summary {
-    list-style-type: "Click to reveal";
-}
-
-details[open] > summary {
-    list-style-type: "Click to hide";
-}
-
-details {
-    padding: 0.5rem;
-}
-
-a {
-text-decoration: none; 
-font-weight: bold;
-}
