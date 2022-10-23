@@ -1,8 +1,16 @@
 ---
 title: Contact Details<br>
+excerpt: Send us your feedback. Get in touch.
 permalink: /contact/
 header:
-  image: /assets/images/general/contact.svg
+  overlay_image: /assets/images/general/layered-steps-haikei.svg
+  actions:
+    - label: "Email"
+      url: mailto:projectylindia@gmail.com
+    - label: "Facebook"
+      url: https://www.facebook.com/projectyl.in
+    - label: "Direct"
+      url: "/contact/#direct-feedback"
 tags:
     - housekeeping
 
@@ -27,17 +35,20 @@ feature_row4:
     excerpt: '<b>Suvranil Ghosh</b><br>Graduate Trainee,<br>NCBS-TIFR, Bangalore'
 
 ---
+## Facebook Page
+We can be contacted at our  [Facebook page](https://www.facebook.com/projectyl.in) . Feel free to message us with your queries, suggestions or requests. We post regular notifications and updates about our work there.
 
-### Facebook Page <i class="fa-brands fa-facebook-square"></i>
+## Emails
+You can also reach out to us by sending emails to [projectylindia@gmail.com](mailto:projectylindia@gmail.com) .
 
-We can be contacted at our  [Facebook page](https://www.facebook.com/projectyl.in). Feel free to message us with your queries, suggestions or requests. We post regular notifications and updates about our work there.
+## Send feedback directly
+{: id="direct-feedback"}
+You can also send us your feedback, requests or messages by submitting the form below. While you do not need to provide an email id in general, keep in mind that we will need it if we want to get back to you.
 
-### Emails <i class="fa-solid fa-at"></i>
-You can also reach out to us by sending emails to [projectylindia@gmail.com](mailto:projectylindia@gmail.com).
+{% include feedback-form.html %}
 
 ## The Team
 
 <p>{% include feature_row type="center" %}{% include feature_row id="feature_row2" type="center" %}</p>
 
 <p>{% include feature_row id="feature_row3" type="center" %}{% include feature_row id="feature_row4" type="center" %}</p>
-
