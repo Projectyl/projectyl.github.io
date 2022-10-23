@@ -1,5 +1,5 @@
 ---
-title: <big>Winter schools & workshops at IISER-TVM, ICTS, IIST</big>
+title: Winter schools & workshops at IISER-TVM, ICTS, IIST
 excerpt: Topics include nano-engineered materials and astrophysics
 permalink: /post21/
 categories:
@@ -8,8 +8,8 @@ tags:
   - winter schools
   - workshops
 header:
-  image: /assets/images/post-21/iiser-tvm.svg
-
+  overlay_image: /assets/images/post-21/iiser-tvm.svg
+  overlay_filter: rgba(10, 10, 10, 0.6)
 ---
 
 Here are some upcoming winter schools and workshops within India. Some have upcoming deadlines, check them out soon. Some have already passed their deadlines; if interested in such programs, make sure to nevertheless approach the organisers - they often admit late registrations.

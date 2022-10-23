@@ -1,8 +1,11 @@
 ---
-title: <big>Notifications</big>
+title: Notification Posts
+excerpt: All updates regarding upcoming or past programs, within or outside India
 permalink: /notifs/
 tags:
     - housekeeping
+header:
+  overlay_image: /assets/images/general/layered-steps-haikei.svg
 
 ---
 

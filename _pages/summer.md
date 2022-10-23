@@ -1,13 +1,15 @@
 ---
 permalink: /summer/
-title: <big>Summer Internships in India</big>
-excerpt: A comprehensive list of summer programs<br>at IITs, IISERs and other institutes
+title: Summer Internship Programs for Physics Students in India
+excerpt: A comprehensive list of summer programs at IITs, IISERs and other institutes
 tags:
  - summer
  - internships
  - content
 header:
-  overlay_image: /assets/images/general/layered-waves-haikei.svg
+  overlay_image: /assets/images/general/summer-internships.svg
+  overlay_filter: rgba(10, 10, 10, 0.6)
+  caption: "[Source](https://www.valpo.edu/physics-astronomy/apply/scholarships/)"
 
 ---
 
@@ -31,3 +33,5 @@ Following is a list of physics summer internship programs in India. *Note that t
 </tr>
 {% endfor %}
 </table>
+
+

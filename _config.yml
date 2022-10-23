@@ -38,7 +38,6 @@ include:
 # Plugins (previously gems:)
 plugins:
   - jekyll-include-cache
-
 defaults:
   - scope:
       path: ""
