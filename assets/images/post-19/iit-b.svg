@@ -3,8 +3,8 @@
 
 <svg
    width="369.50354mm"
-   height="142.43922mm"
-   viewBox="0 0 369.50353 142.43922"
+   height="115.96487mm"
+   viewBox="0 0 369.50353 115.96486"
    version="1.1"
    id="svg5"
    xml:space="preserve"
@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.57187726"
-     inkscape:cx="589.28729"
-     inkscape:cy="272.78581"
+     inkscape:zoom="0.48949726"
+     inkscape:cx="635.34574"
+     inkscape:cy="335.03763"
      inkscape:window-width="1916"
      inkscape:window-height="1048"
      inkscape:window-x="0"
@@ -53,11 +53,27 @@
          width="264.62515"
          height="101.99384"
          x="-37.314114"
-         y="125.54256" /></clipPath></defs><g
+         y="125.54256" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath360"><rect
+         style="fill:none;stroke:#202020;stroke-width:0.845542"
+         id="rect362"
+         width="722.30872"
+         height="193.71519"
+         x="-221.65044"
+         y="75.220047" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath655"><rect
+         style="fill:none;stroke:#202020;stroke-width:0.735056"
+         id="rect657"
+         width="264.58362"
+         height="83.036835"
+         x="-37.314114"
+         y="129.71057" /></clipPath></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(70.623864,-1.6377387)"><image
+     transform="translate(70.623864,-7.4585681)"><image
        width="264.58362"
        height="128.28296"
        preserveAspectRatio="none"
@@ -65,5 +81,5 @@
        id="image200"
        x="-37.314114"
        y="104.95715"
-       clip-path="url(#clipPath778)"
+       clip-path="url(#clipPath655)"
        transform="matrix(1.3965473,0,0,1.3965473,-18.512939,-173.68838)" /></g></svg>

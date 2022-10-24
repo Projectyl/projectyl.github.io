@@ -1,9 +1,10 @@
 ---
 permalink: /post-msc/
-title: <big>Opportunities After MSc</big>
-excerpt: Long-term projects after completing your masters
+title: Research Opportunities between an MSc and a PhD
+excerpt: Some avenues for participating in long-term projects (6 months - 1 year) after completing your masters
 header:
-  image: /assets/images/post-msc/post-msc.svg
+  overlay_image: /assets/images/post-msc/post-msc.svg
+  overlay_filter: rgba(10, 10, 10, 0.4)
 categories:
   - Program Notification
 tags:
@@ -12,10 +13,6 @@ tags:
   - content
 
 ---
-
-<span class="excerpt">{{ page.excerpt }}</span>
-
-<br>
 
 Often, between completing their Masters degree and joining a PhD program, people look for _interim research positions_ to sharpen their research interests, gain more exposure, enhance their profile, and better understand whether a career in academia suits them. Below we list some institutions that offer such _funded_ programs. Note that if you are okay with working without any fellowship, you can always email any faculty member at a research institute and request them for a position (in case you are not very confident about what to write in the email, feel free to check out [our related posts](/drafting/)). 
 

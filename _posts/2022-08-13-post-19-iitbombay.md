@@ -1,6 +1,6 @@
 ---
-title: <big>Internship at IIT-B, Chanakya Graduate Fellowship</big>
-excerpt: ""
+title: Internship at IIT-B, Chanakya Graduate Fellowship
+excerpt: Great opportunities for students
 permalink: /post19/
 categories:
   - Program Notification

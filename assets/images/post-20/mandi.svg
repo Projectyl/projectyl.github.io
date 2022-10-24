@@ -3,8 +3,8 @@
 
 <svg
    width="369.57001mm"
-   height="142.23999mm"
-   viewBox="0 0 369.57001 142.24"
+   height="120.31187mm"
+   viewBox="0 0 369.57001 120.31188"
    version="1.1"
    id="svg5"
    xml:space="preserve"
@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.66769275"
-     inkscape:cx="793.77828"
-     inkscape:cy="127.30406"
+     inkscape:zoom="0.43008064"
+     inkscape:cx="708.00676"
+     inkscape:cy="95.330959"
      inkscape:window-width="1916"
      inkscape:window-height="1048"
      inkscape:window-x="0"
@@ -61,11 +61,27 @@
          width="369.57001"
          height="142.23999"
          x="-26.175726"
-         y="-104.20952" /></clipPath></defs><g
+         y="-104.20952" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath360"><rect
+         style="fill:none;stroke:#202020;stroke-width:0.845542"
+         id="rect362"
+         width="722.30872"
+         height="193.71519"
+         x="-221.65044"
+         y="75.220047" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath475"><rect
+         style="fill:none;stroke:#202020;stroke-width:1"
+         id="rect477"
+         width="369.57001"
+         height="120.31187"
+         x="-26.175732"
+         y="-87.573067" /></clipPath></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(26.175726,104.20952)"><image
+     transform="translate(26.175732,87.573067)"><image
        width="370.41666"
        height="211.66667"
        preserveAspectRatio="none"
@@ -73,7 +89,7 @@
        id="image1088"
        x="-26.599049"
        y="-109.71953"
-       clip-path="url(#clipPath539)"
+       clip-path="url(#clipPath475)"
        inkscape:export-filename="./mandi.png"
        inkscape:export-xdpi="42"
        inkscape:export-ydpi="42" /></g></svg>

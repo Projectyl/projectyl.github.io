@@ -1,8 +1,8 @@
 main:
-  - title: "Updates"
-    url: /notifs/
   - title: "About"
     url: /about/
+  - title: "Updates"
+    url: /notifs/
   - title: "Internships"
     url: /summer/
   - title: "Summer Schools"
@@ -17,7 +17,7 @@ categories:
     - title: "International Internships"
       url: /inter/
     - title: "Year-Round Programs"
-      url: /year-round/
+      url: /year-wide/
     - title: "Opportunities after MSc"
       url: /post-msc/
     - title: "Downloadable list"

@@ -1,10 +1,13 @@
 ---
-title: "All Posts and Pages"
+title: All Posts and Pages
+excerpt: Single access point for all content on this website
 permalink: /all/
 sidebar:
   nav: categories
 tags:
     - housekeeping
+header:
+  overlay_image: /assets/images/general/stacked-steps-haikei.svg
 
 ---
 

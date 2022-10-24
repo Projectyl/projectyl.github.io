@@ -9,7 +9,7 @@ tags:
 header:
   overlay_image: /assets/images/general/summer-internships.svg
   overlay_filter: rgba(10, 10, 10, 0.6)
-  caption: "[Source](https://www.valpo.edu/physics-astronomy/apply/scholarships/)"
+  caption: "[Source](https://www.yorku.ca/science/physics-astronomy-program/)"
 
 ---
 
