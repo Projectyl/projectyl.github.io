@@ -18,7 +18,9 @@
         {% endif %}
 
         <div class="archive__item-body">
-	    {{ post.title }}
+	  <i>{{ post.title }}</i>
+	  <br>
+	  <br>
           {% if post.excerpt %}
             <div class="archive__item-excerpt">
               {{ post.excerpt | markdownify }}

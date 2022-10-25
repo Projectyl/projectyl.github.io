@@ -1,11 +1,11 @@
 ---
 permalink: /about/
-title: Who are we, and what is this website Projectyl for?
+title: Who are we, and what is this website - Projectyl - about?
 excerpt: Why did we start this? Why would you need this? What can you find here?
 tags:
     - housekeeping
 header:
-  overlay_image: /assets/images/general/blob-scene-haikei.svg
+  overlay_image: /assets/images/general/blob-haikei.svg
 ---
 
 Physics education in undergraduate institutes is often inadequate in preparing students for research. Lack of exposure to actual methods and cutting-edge topics makes it harder for the students to jump into doctoral work. Summer projects, summer schools, workshops, and online courses bridge this gap to a great extent, and this page intends to make this process easier by providing exhaustive information regarding these avenues.
