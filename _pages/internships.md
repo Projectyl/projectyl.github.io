@@ -15,8 +15,6 @@ header:
 
 Following is a list of physics summer internship programs in India. *Note that the institute names in the left columns are hyperlinks to the respective webpages*. It is available for download as a [pdf](/_pages/summer.pdf).
 
-{% assign path = site.data.summer.all | sort: "Institute" %}
-
 <table class="sortable">
 <tr>
 <th style="text-align:left;">Institute</th>
@@ -24,12 +22,12 @@ Following is a list of physics summer internship programs in India. *Note that t
 <th>Time-frame</th>
 <th style="text-align:right;">Stipend / month</th>
 </tr>
-{% for row in path offset: 1 %}
+{% for row in site.data.internships %}
 <tr>
-<td style="text-align:left;"><a href="{{ row["Website"] }}">{{ row["Institute"] }}</a></td>
-<td>{{ row["Deadline"] }}</td>
-<td>{{ row["Time-frame"] }}</td>
-<td style="text-align:right;">{{ row["Stipend"] }}</td>
+<td style="text-align:left;"><a href="{{ row[1]["url"] }}">{{ row[0] }}</a></td>
+<td>{{ row[1]["deadline"] }}</td>
+<td>{{ row[1]["time_frame"] }}</td>
+<td style="text-align:right;">{{ row[1]["stipend"] }}</td>
 </tr>
 {% endfor %}
 </table>
