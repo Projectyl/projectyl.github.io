@@ -25,7 +25,7 @@ Following is a list of physics summer internship programs in India. *Note that t
 {% for row in site.data.internships %}
 <tr>
 <td style="text-align:left;"><a href="{{ row[1]["link"] }}">{{ row[0] }}</a></td>
-<td>{{ row[1]["deadline"] }}</td>
+<td>{{ row[1]["deadline"] | date:"%b %d, %Y" }}</td>
 <td>{{ row[1]["time_frame"] }}</td>
 <td style="text-align:right;">{{ row[1]["stipend"] }}</td>
 </tr>
