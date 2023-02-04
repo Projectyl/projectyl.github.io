@@ -16,7 +16,7 @@ The following institutes have started accepting applications for research intern
 
 ## [SURGE-2023 (IIT Kanpur)](https://surge.iitk.ac.in/notification.html)
 
-- [**Webpage**](https://surge.iitk.ac.in/notification.html)
+- [**Link to website**](https://surge.iitk.ac.in/notification.html)
 - **Institute**: IIT Kanpur
 - **Application deadline**: February 15, 2023
 - **Time-frame**: May - July
@@ -24,7 +24,7 @@ The following institutes have started accepting applications for research intern
 
 ## [Visiting Students’ Research Programme (NCRA – TIFR)](https://www.tifr.res.in/~vsrp/VSRP2023_Info/vsrp2023info.htm)
  
-- [**Webpage**](https://www.tifr.res.in/~vsrp/VSRP2023_Info/vsrp2023info.htm), [**Poster**](http://vsrp.ncra.tifr.res.in/VSRP2023/Poster/VSRP.pdf)
+- [**Link to website**](https://www.tifr.res.in/~vsrp/VSRP2023_Info/vsrp2023info.htm), [**Link to poster**](http://vsrp.ncra.tifr.res.in/VSRP2023/Poster/VSRP.pdf)
 - **Institute**: NCRA – TIFR
 - **Application deadline**: February 15, 2023
 - **Time-frame**: May - July
@@ -32,7 +32,7 @@ The following institutes have started accepting applications for research intern
 
 ## [IISER Pune Summer Student Programme](http://www3.iiserpune.ac.in/~sspc/)
 
-- [**Webpage**](http://www3.iiserpune.ac.in/~sspc/)
+- [**Link to website**](http://www3.iiserpune.ac.in/~sspc/)
 - **Institute**: IISER Pune
 - **Application deadline**: registration will open in a few days
 - **Time-frame**: May - July
@@ -41,7 +41,7 @@ The following institutes have started accepting applications for research intern
 
 ## [Visiting Students Programme in Physics (HRI)](https://www.hri.res.in/academics/physics/phy-vsp/)
 
-- [**Webpage**](https://www.hri.res.in/academics/physics/phy-vsp/)
+- [**Link to website**](https://www.hri.res.in/academics/physics/phy-vsp/)
 - **Institute**: Harish-Chandra Research Institute, Allahabad
 - **Application deadline**: February 29, 2023
 - **Time-frame**: May - August
