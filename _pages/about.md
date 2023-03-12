@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/general/blob-haikei.svg
 ---
 
-Physics education in undergraduate institutes is often inadequate in preparing students for research. Lack of exposure to actual methods and cutting-edge topics makes it harder for the students to jump into doctoral work. Summer projects, summer schools, workshops, and online courses bridge this gap to a great extent, and this page intends to make this process easier by providing exhaustive information regarding these avenues.
+Projectyl is a website designed to help pre-PhD students ease into doctoral work by providing information that can help them get some previous exposure to research. Physics education in undergraduate institutes is often inadequate in preparing students for research, mostly due to the lack of exposure to actual methods and cutting-edge topics. Summer projects, summer schools, workshops, and online courses can, we believe, bridge this gap to some extent, and this website intends to make this process easier by providing exhaustive information regarding these avenues.
 
 # What can you find here?
 
