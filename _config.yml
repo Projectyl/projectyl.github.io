@@ -86,3 +86,7 @@ analytics:
   google:
     tracking_id: "G-MYJJD2WVS1"
     anonymize_ip: false # default
+
+# Social Sharing
+instagram:
+  username               : projectyl_india
