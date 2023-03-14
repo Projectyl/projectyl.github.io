@@ -1,5 +1,6 @@
 ---
 permalink: /summer/
+classes: wide
 title: Summer Internship Programs for Physics Students in India
 excerpt: A comprehensive list of summer programs at IITs, IISERs and other institutes
 tags:

@@ -1,10 +1,20 @@
 ---
 permalink: /dbpi/
-title: <big>Database for Physicists in India</big>
-excerpt: Category-wise list of Physicists in India
+title: Tabulated database for physicists working in India
+excerpt: A list of physicists in India, classified by institutions and research interests
 tags:
   - data
   - content
+header:
+  overlay_image: /assets/images/general//dbpi.png
+  overlay_filter: 0.6
+  actions:
+    - label: "Internships"
+      url: /summer/
+    - label: "Summer schools"
+      url: /schools/
+    - label: "International"
+      url: /inter/
 
 ---
 

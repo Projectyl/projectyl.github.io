@@ -1,6 +1,6 @@
 ---
 permalink: /winter-schools/
-title: <big>Winter Schools in Physics</big>
+title: Winter Schools in Physics
 excerpt: List of winter schools on various topics in physics held in India and abroad
 tags:
  - winter

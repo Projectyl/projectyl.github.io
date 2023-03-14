@@ -1,5 +1,5 @@
 ---
-title: Contact Details<br>
+title: Contact Details
 excerpt: Send us your feedback. Get in touch.
 permalink: /contact/
 header:

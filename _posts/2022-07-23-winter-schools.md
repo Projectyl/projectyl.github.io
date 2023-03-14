@@ -1,5 +1,5 @@
 ---
-title: <big>Upcoming International Winter Schools</big>
+title: Upcoming International Winter Schools
 excerpt: Particle Physics and Statistical Physics
 permalink: /post18/
 categories:

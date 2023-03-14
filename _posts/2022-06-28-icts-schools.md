@@ -1,5 +1,5 @@
 ---
-title: <big>Summer Schools at ICTS and KAAS</big>
+title: Summer Schools at ICTS and KAAS
 excerpt: Summer Programme at IIA
 permalink: /post17/
 categories:

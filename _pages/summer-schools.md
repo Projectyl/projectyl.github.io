@@ -1,7 +1,7 @@
 ---
 permalink: /schools/
-title: Annual Summer Schools and Workshops - Domestic and International
-excerpt: The perfect opportunity to boost your skills and gather some experience
+title: Summer Schools & Workshops
+excerpt: List of annual summer schools and workshops held in India and abroad - links and details
 classes: ""
 toc: true
 toc_sticky: true
@@ -12,6 +12,13 @@ header:
   overlay_image: /assets/images/schools/summer.svg
   overlay_filter: rgba(10, 10, 10, 0.6)
   caption: "[Source](https://www.aalto.fi/en/aaltosummer)"
+  actions:
+    - label: "Internships"
+      url: /summer/
+    - label: "International"
+      url: /inter/
+    - label: "Physicists database"
+      url: /dbpi/
 
 ---
 

@@ -1,36 +1,31 @@
 <div class="feature__wrapper">
 
-  {% for post in site.posts limit:3 %}
+  {% for post_ in site.posts limit:3 %}
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
-	<a href="{{ post.url | relative_url }}" style="text-decoration:none">
-        {% if post.header.image %}
+        {% if post_.header.image_path or post_.header.overlay_image %}
+	  {% assign img = post_.header.image_path | append: post_.header.overlay_image %}
           <div class="archive__item-teaser">
-		<img src="{{ post.header.image | replace: ".svg", ".png" | relative_url }}"
-                alt="{% if post.alt %}{{ post.alt }}{% endif %}">
-          </div>
-        {% endif %}
-        {% if post.header.overlay_image %}
-          <div class="archive__item-teaser">
-		<img src="{{ post.header.overlay_image | replace: ".svg", ".png" | relative_url }}"
-                alt="{% if post.alt %}{{ post.alt }}{% endif %}">
+            <a href="{{ post_.url | relative_url }}"><img src="{{ img | relative_url }}"
+                 alt="{% if post_.alt %}{{ post_.alt }}{% endif %}"></a>
+            {% if post_.image_caption %}
+              <span class="archive__item-caption">{{ post_.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            {% endif %}
           </div>
         {% endif %}
 
         <div class="archive__item-body">
-	  <i>{{ post.title }}</i>
-	  <br>
-	  <br>
-          {% if post.excerpt %}
+          {% if post_.title %}
+            <strong class="archive__item-title">{{ post_.title }}</strong>
+          {% endif %}
+
+          {% if post_.excerpt %}
             <div class="archive__item-excerpt">
-              {{ post.excerpt | markdownify }}
+              {{ post_.excerpt }}&nbsp;&nbsp;<a href="{{ post_.url | relative_url }}" class="btn btn--info">Learn More</a>
             </div>
           {% endif %}
-            <div class="archive__item-excerpt">
-              {{ post.date | markdownify | date: "%B %d, %Y" }}
-            </div>
+
         </div>
-	</a>
       </div>
     </div>
   {% endfor %}
