@@ -96,3 +96,13 @@ analytics:
 # Social Sharing
 instagram:
   username               : projectyl_india
+
+
+social:
+  type                   : Organization
+  name                   : Projectyl
+  links: # An array of links to social media profiles
+    - "https://twitter.com/Projectyl125295"
+    - "https://www.facebook.com/projectyl.in"
+    - "https://instagram.com/projectyl_india/"
+    - "https://www.linkedin.com/in/projectyl-india-52ab5a26a/"
