@@ -3,7 +3,8 @@
 ---
 
 @charset "utf-8";
-
+$instagram-color: #f56040;
+$linkedin-color: #38434f;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
@@ -54,3 +55,13 @@ table {
 .page__footer-follow {
 	display: none;
 }
+
+.btn--instagram,.btn--instagram:visited {
+	background-color: $instagram-color;
+	color: white;
+}
+
+.btn--linkedin,.btn--linkedin:visited {
+	background-color: $linkedin-color;
+}
+	
