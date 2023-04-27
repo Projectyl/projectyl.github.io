@@ -82,3 +82,8 @@ The aim of the annual National Science (Vijyoshi) Camps is to provide a forum fo
 ## [Vigyan Jyoti](https://www.vigyanjyoti.com/)
 
 The Department of Science & Technology started a unique program ‘Vigyan Jyoti’ for meritorious girls with the aim to address the under-representation of women in different fields of Science Technology Engineering and Mathematics (STEM) in the country. The Vigyan Jyoti envisaged hand-holding and interventions right from the school level i.e., Class IX and which will continue till the PhD level to encourage girls to pursue a career in underrepresented areas of STEM. Various activities such as science camps, special lectures/ classes, counselling of students and parents, interaction with role models, tinkering activities, visit to Knowledge Partners/ Research Labs/ Industries/ NGOs are being conducted in the programme in order to motivate girls.
+
+
+## [IISER Bhopal Summer outreach camp](https://outreach.iiserb.ac.in/)
+
+The camp aims to enable the participants to understand the central role of science in society. This camp will introduce participants to fascinating topics in natural and engineering sciences through lectures and hands-on laboratory exercises. This exposure will be supplemented with critical perspectives from the Humanities and Social Sciences. Additionally, there will be fun activities through which the participants can interact with the senior students.
