@@ -1,4 +1,4 @@
-- Name: ICTS Summer School on Gravitational-Wave Astronomy
+- Name: Summer School on Gravitational-Wave Astronomy
   Link: https://www.icts.res.in/program/gws2022
   Institute: ICTS, Bangalore
   Time: May - June
@@ -9,7 +9,7 @@
     - The school is primarily meant for graduate students and postdocs in GW astrophysics and related fields.
     - A small number of highly motivated senior undergraduates can also be considered
 
-- Name: ICTS School on Statistical Physics
+- Name: School on Statistical Physics
   Link: https://www.icts.res.in/program/bssp2022
   Institute: ICTS, Bangalore
   Time: June - July
@@ -23,7 +23,7 @@
   Target Audience: 
     - Ph.D. students, post-doctoral fellows and interested faculty members
 
-- Name: IUCAA Introductory Summer School in Astronomy and Astrophysics
+- Name: Introductory Summer School in Astronomy and Astrophysics
   Link: http://www.iucaa.in/Stu-Prog-ISSIA.html
   Institute: IUCAA, Pune
   Time: May - June
@@ -35,7 +35,7 @@
     - Students in third year and onwards of B.Tech./B.E. (any branch)/Integrated M.Sc. (Physics/Applied Mathematics/Astronomy/Electronics)
     - Students pursuing M.Sc. (Physics/Applied Mathematics/Astronomy/Electronics)
 
-- Name: ICTS Summer School for Women in Mathematics and Statistics
+- Name: Summer School for Women in Mathematics and Statistics
   Link: https://www.icts.res.in/program/swms2022
   Institute: ICTS, Bangalore
   Time: May
@@ -47,7 +47,7 @@
   Target Audience: 
     - Women students studying in first year B.A/B.Sc./B.E./B.Tech. or equivalent degree and having Mathematics as one of the major subjects/courses
 
-- Name: ICTS ACM India Summer Schools
+- Name: ACM India Summer Schools
   Link: https://india.acm.org/education/acm-india-summer-schools-2022
   Institute: ICTS, Bangalore
   Time: July
@@ -57,7 +57,7 @@
   Target Audience: 
     - students in the pre-final year of Bachelor's program or higher
 
-- Name: TIFR Vigyan Vidushi
+- Name: Vigyan Vidushi
   Link: https://vv.hbcse.tifr.res.in/
   Institute: HBCSE/TIFR, Mumbai
   Time: July - August
@@ -67,7 +67,7 @@
     - women students in the first year of their two-year M.Sc. degree in physics
     - fourth year of their Integrated B.Sc.-M.Sc. degree in physics
 
-- Name: IISER Kolkata Summer school on Quantum information and Quantum Technology
+- Name: Summer school on Quantum information and Quantum Technology
   Link: https://www.iiserkol.ac.in/~qiqt19/
   Institute: IISER Kolkata
   Time: June - July
@@ -77,7 +77,7 @@
     - Symmetries & Quantum Theory
     - Quantum Chemistry & Applications to Condensed Matter Physics
 
-- Name: NCRA-TIFR Radio Astronomy School
+- Name: Radio Astronomy School
   Link: http://www.ncra.tifr.res.in/ncra/students/external-students/ras-2015
   Institute: NCRA-TIFR
   Time: August/September
@@ -89,19 +89,16 @@
     - doctoral students, post-doctoral researchers and faculty members in astronomy or related subjects
     - applications from Master's level students with sufficient background in radio astronomy will usually also be considered
 
-- Name: IIT Mandi JTG/IEEE ITSoc Summer School
-  Link: http://www.ncra.tifr.res.in/ncra/students/external-students/ras-2015
-  Institute: IIT Mandi
-  Time: August/September
+- Name: JTG Summer School
+  Link: https://ece.iisc.ac.in/~jtg/2023/index.html
+  Institute: IISc (2023)
+  Time: June
   Topics: 
-    - techniques and excitement of radio astronomy, especially in the context of the Giant Metrewave Radio Telescope (GMRT)
-    - radio interferometry theory and techniques, with an emphasis on their application at low radio frequencies
-    - analysis of GMRT data using standard software packages
+    - contemporary research topics in signal processing, telecommunication, and networking
   Target Audience: 
-    - doctoral students, post-doctoral researchers and faculty members in astronomy or related subjects
-    - applications from Master's level students with sufficient background in radio astronomy will usually also be considered
+    - students and young researchers
 
-- Name: ARIES Training School in Observational Astronomy
+- Name: Training School in Observational Astronomy
   Link: https://www.aries.res.in/atsoa2022/
   Institute: ARIES Nainital
   Time: May
@@ -114,7 +111,7 @@
     - students who have passed M. Sc. (Physics/Astrophysics), or
     - are appearing for M. Sc. final year exam with an interest and motivation to work in observational astronomy
 
-- Name: NCBS Physics of Life - Annual Monsoon School
+- Name: Physics of Life - Annual Monsoon School
   Link: https://www.ncbs.res.in/events/monsoon-school-0
   Institute: NCBS Bangalore
   Time: June
@@ -147,7 +144,7 @@
     - Astronomical Instrumentation Cosmology
   Target Audience:
     - students who are in the pre-final year of their M.Sc/Integrated M.Sc./Integrated BS-MS (in Physics/Astronomy)/B.E/B.Tech
-- Name: ICTS Nonperturbative and numerical approaches to quantum gravity, string theory and holography
+- Name: Nonperturbative and numerical approaches to quantum gravity, string theory and holography
   Link: https://www.icts.res.in/program/numstrings2022
   Institute: ICTS
   Time: August-September
@@ -158,7 +155,8 @@
     - Formal Developments on the Lattice
   Target Audience:
     - students and postdocs
-- Name: NASA Heliophysics Summer School
+
+- Name: Heliophysics Summer School
   Link: https://cpaess.ucar.edu/heliophysics/summer-school
   Institute: NASA
   Time: August
@@ -171,20 +169,7 @@
     - Major in physics with an emphasis on astrophysics, geophysics, plasma physics, and space physics, or experienced in at least one of these areas.
     - Pursuing a career in heliophysics or astrophysics
 
-- Name: NASA Heliophysics Summer School
-  Link: https://cpaess.ucar.edu/heliophysics/summer-school
-  Institute: NASA
-  Time: August
-  Topics: 
-    - physics of core processes that describe the domains of the heliosphere
-    - solar interior and corona, solar wind, magnetospheres, ionospheres, and the heliosphere boundary
-    - unifying concepts between these domains
-  Target Audience:
-    - graduate student in any phase of training, or first or second year postdoctoral fellow
-    - Major in physics with an emphasis on astrophysics, geophysics, plasma physics, and space physics, or experienced in at least one of these areas.
-    - Pursuing a career in heliophysics or astrophysics
-
-- Name: Princeton Plasma Physics Laboratory Graduate Summer School
+- Name: Plasma Physics Laboratory Graduate Summer School
   Link: https://gss.pppl.gov/2021/
   Institute: Princeton
   Time: August
@@ -272,15 +257,15 @@
   Target Audience:
     - graduate students, postdoctoral fellows, and professionals
 
-- Name: Joint ICTP-SAIFR/MITP Summer School on Particle Physics
-  Link: https://www.ictp-saifr.org/bsmp2022/
-  Institute: Campus of IFT-UNESP - São Paulo
-  Time: September
+- Name: ICTP Summer School on Particle Physics
+  Link: https://indico.ictp.it/event/10182
+  Institute: ICTP, Trieste, Italy
+  Time: June
   Topics: 
-    - advanced topics in theoretical particle physics
-    - important areas where recent progress has been made in the field
+    - detailed overview of particle physics from the basics of Standard Model phenomenology to the most important areas where significant progress has been achieved recently.
   Target Audience:
-    - advanced graduate students
+    - qualified MSc students
+    - PhD students
 
 - Name: International School of Physics Enrico Fermi
   Link: https://www.sif.it/corsi
@@ -290,16 +275,6 @@
     - cultural impact
     - the up-to-date scientific content
     - a fair distribution and promotion among the different fields of physics.
-  Target Audience:
-    - PhD students and young post-docs
-
-- Name: AAPM Summer School
-  Link: https://www.sif.it/corsi
-  Institute: Villa Monastero at Varenna
-  Time: June - July
-  Topics: 
-    - rationale and physics behind small field dosimetry
-    - treatment planning, image guidance, quality assurance, radiobiology and clinical considerations
   Target Audience:
     - PhD students and young post-docs
 
@@ -315,3 +290,149 @@
     - national and international young scientists and graduates (BSc or MSc or PhD students)
     - require a degree in Physics, Medical Physics, Radiation Therapy or similar
     - BSc students should be at the end of their studies
+- Name: Winter Workshop and School on Astroparticle Physics
+  Link: http://www.jcbose.ac.in/wapp
+  Institute: Bose Institute, Kolkata & TIFR Mumbai
+  Time: December
+  Topics:
+    - New developments in the field of solar physics, cosmic rays, astrophysics, gamma-ray astronomy, neutrino physics, dark matter and energy
+    - recent results from direct and indirect measurements from experimental programs in these areas will be discussed in the workshop
+  Target Audience:
+    - unclear
+
+- Name: "Statistical Biological Physics: From Single Molecule to Cell"
+  Link: https://www.icts.res.in/program/SBP2022
+  Institute: ICTS, Bangalore
+  Time: October
+  Topics:
+    - fluctuations-and-noise' in stochastic biological processes
+    - common conceptual themes and theoretical techniques (both mathematical and computational)
+    - their applications to subcellular and cellular phenomena
+  Target Audience: 
+    - Ph.D. students
+    - post-doctoral fellows
+- Name: Frustrated Metals and Insulators
+  Link: https://www.icts.res.in/program/frumi2022
+  Institute: ICTS, Bangalore
+  Time: September
+  Topics:
+    - synergetic foundation of frustration phenomena in metals as well as insulators
+    - the development of analytical and numerical methods to address aspects of frustration in electronic systems, and to intensify the dialogue between theoretical conceptualization and experimental realization
+    - frustrated magnetism, superconductivity and topological states of matter
+  Target Audience: 
+    - graduate students
+    - postdocs
+    - faculties with overlapping research interests
+- Name: Tipping Points in Complex Systems
+  Link: https://www.icts.res.in/program/tipc2022
+  Institute: ICTS, Bangalore
+  Time: September
+  Topics:
+    - all the three major types of tipping; B-tipping, N-tipping and R-tipping
+    - recent advances on tipping point research including the application of machine learning
+  Target Audience: 
+    - currently registered PhD students, postdocs, and faculty
+    - exceptionally qualified MSc students
+- Name: Kavli Asian Winter School on Strings, Particles and Cosmology
+  Link: https://www.icts.res.in/program/kaws2022
+  Institute: ICTS, Bangalore
+  Time: January
+  Topics:
+    - Black hole information paradox, Conformal and S-matrix Bootstrap
+    - QFT/CFT in condensed matter physics, The Gravitational S-Matrix 
+    - Machine Learning, Holography, CFT, entanglement 
+    - Tensionless AdS/CFT, Dark matter, search for new physics
+  Target Audience: 
+    - advanced graduate students
+    - postdoctoral fellows
+    - active researchers
+- Name: Second Preparatory School on Population Genetics and Evolution
+  Link: https://www.icts.res.in/program/popgen2023
+  Institute: ICTS, Bangalore
+  Time: February
+  Topics:
+    - basic evolutionary forces, neutral theory of molecular evolution, probability
+    - stochastic models of evolution, basic genetics, genome structure
+    - introduction to sequencing technology, and designing experimental evolution studies
+  Target Audience: 
+    - Students from diverse backgrounds who are interested in population genetics or evolution
+    - preferably in their final year of a Master’s degree or 1st or 2nd year Ph.D. students
+- Name: Bangalore School on Population Genetics and Evolution
+  Link: https://www.icts.res.in/program/popgen2022
+  Institute: ICTS, Bangalore
+  Time: January
+  Topics:
+    - evolutionary rescue, mechanisms and dynamics of molecular evolution
+    - microbial range expansions and the use of pedigrees in population genetics
+  Target Audience: 
+    - advanced PhD students and postdocs
+    - we may also accept PhD students and MSc students at an earlier stage
+- Name: International Winter SChool on Frontiers in Material Science
+  Link: https://www.jncasr.ac.in/winterschool/
+  Institute: JNCASR, Bangalore
+  Time: December
+  Topics:
+    - frontier areas of research in material science
+  Target Audience: 
+    - graduate students, young researchers, and scientists with background in physics, chemistry and engineering
+- Name: Radio Astronomy Winter School for College and University Students
+  Link: https://www.icts.res.in/program/popgen2022
+  Institute: ICTS, Bangalore
+  Time: December
+  Topics:
+    - experimental work and lectures on radio astronomy
+  Target Audience: 
+    - second and third year of BSc/BS/int. MSc/int. MS/BE/Btech
+- Name: ACM India Online Winter School
+  Link: https://india.acm.org/education/about-acm-india-summer-winter-schools
+  Institute: virtual
+  Time: January 
+  Topics:
+    - in-depth knowledge and exposure to research in advanced technology areas
+    - academic and applied research
+  Target Audience: 
+    - students in the pre-final year of Bachelor's program or higher,
+- Name: Nordic Winter School on Particle Physics and Cosmology
+  Link: https://indico.nbi.ku.dk/event/1324/
+  Institute: Thon Hotel Skeikampen, Norway
+  Time: February
+  Topics:
+    - current exciting topics in particle physics and cosmology
+  Target Audience: 
+    - phd students, but also at junior postdocs and outstanding master's students
+- Name: Wolfram Physics Project Winter School
+  Link: https://education.wolfram.com/winter-school/
+  Institute: Wolfram Project
+  Time: January
+  Topics:
+    - cutting-edge contributions to our understanding of general relativity, quantum field theory and mathematical physics
+  Target Audience: 
+    - advanced, research-oriented students in mathematics and physics
+    - those with a strong background in algorithmic programming
+- Name: CHIPP Winter School of Particle Physics
+  Link: https://indico.cern.ch/event/1077376/
+  Institute: Swiss Institute for Particle Physics (CHIPP)
+  Time: January
+  Topics:
+    - recent advances in elementary-particle physics
+    - accelerator and non-accelerator particle physics (detectors, LHC physics, neutrinos, astrophysics, flavor physics)
+  Target Audience: 
+    - 
+- Name: ITAMP/B2 Winter School
+  Link: https://lweb.cfa.harvard.edu/itamp-events/winterschool
+  Institute: Institute for Theoretical Atomic Molecular and Optical Physics
+  Time: Januray/February
+  Topics:
+    - Cold molecules and their interactions
+  Target Audience: 
+    - 
+- Name: KIAS-APCTP Winter School on Statistical Physics
+  Link: http://events.kias.re.kr/h/statphys.winterschool/?pageNo=4526
+  Institute: Korea Institute for Advanced Study (KIAS)
+  Time: Januray
+  Topics:
+    - Fundamentals of Phase Transitions and Critical Phenomena (HP) 
+    - Renormalization Group 101 (JDN)
+    - Numerical Methods to Study Critical Phenomena (DHK)
+  Target Audience: 
+    - graduate students and early-career scientists 
