@@ -21,7 +21,7 @@ description: "An internship with the correct scientist can be of immense help in
 url: "https://projectyl.github.io/"
 search: true
 logo: "/assets/images/general/logo.svg"
-minimal_mistakes_skin: "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 github: [metadata]
 
