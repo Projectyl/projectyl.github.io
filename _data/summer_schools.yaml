@@ -1,6 +1,6 @@
 - Name: Summer School on Gravitational-Wave Astronomy
   Link: https://www.icts.res.in/program/gws2022
-  Institute: ICTS, Bangalore
+  Venue: International Center for Theoretical Sciences, Bangalore
   Time: May - June
   Topics:
     - Stellar structure, evolution, collapse and supernovae
@@ -9,23 +9,19 @@
     - The school is primarily meant for graduate students and postdocs in GW astrophysics and related fields.
     - A small number of highly motivated senior undergraduates can also be considered
 
-- Name: School on Statistical Physics
-  Link: https://www.icts.res.in/program/bssp2022
-  Institute: ICTS, Bangalore
+- Name: Summer school on Quantum information and Quantum Technology
+  Link: https://www.iiserkol.ac.in/~qiqt19/
+  Venue: IISER Kolkata
   Time: June - July
-  Topics:
-    - Statistical physics of Turbulence
-    - Spin glasses
-    - Stochastic chemical reaction networks
-    - Pattern formation in Biology
-    - Stochastic Gradient Descent and Machine Learning
-    - Statistical physics of long-range systems
-  Target Audience: 
-    - Ph.D. students, post-doctoral fellows and interested faculty members
+  Topics: 
+    - Quantum Foundation, Information, and Applications
+    - Quantum optics & Quantum Metrology
+    - Symmetries & Quantum Theory
+    - Quantum Chemistry & Applications to Condensed Matter Physics
 
 - Name: Introductory Summer School in Astronomy and Astrophysics
   Link: http://www.iucaa.in/Stu-Prog-ISSIA.html
-  Institute: IUCAA, Pune
+  Venue: IUCAA, Pune
   Time: May - June
   Topics: 
     - Fundamentals of Astronomy and Astrophysics
@@ -37,7 +33,7 @@
 
 - Name: Summer School for Women in Mathematics and Statistics
   Link: https://www.icts.res.in/program/swms2022
-  Institute: ICTS, Bangalore
+  Venue: International Center for Theoretical Sciences, Bangalore
   Time: May
   Topics: 
     - Advanced Calculus
@@ -49,7 +45,7 @@
 
 - Name: ACM India Summer Schools
   Link: https://india.acm.org/education/acm-india-summer-schools-2022
-  Institute: ICTS, Bangalore
+  Venue: International Center for Theoretical Sciences, Bangalore
   Time: July
   Topics: 
     - Data Science
@@ -59,7 +55,7 @@
 
 - Name: Vigyan Vidushi
   Link: https://vv.hbcse.tifr.res.in/
-  Institute: HBCSE/TIFR, Mumbai
+  Venue: HBCSE/TIFR, Mumbai
   Time: July - August
   Topics: 
     - advanced physics topics and research opportunities
@@ -67,19 +63,23 @@
     - women students in the first year of their two-year M.Sc. degree in physics
     - fourth year of their Integrated B.Sc.-M.Sc. degree in physics
 
-- Name: Summer school on Quantum information and Quantum Technology
-  Link: https://www.iiserkol.ac.in/~qiqt19/
-  Institute: IISER Kolkata
+- Name: School on Statistical Physics
+  Link: https://www.icts.res.in/program/bssp2022
+  Venue: International Center for Theoretical Sciences, Bangalore
   Time: June - July
-  Topics: 
-    - Quantum Foundation, Information, and Applications
-    - Quantum optics & Quantum Metrology
-    - Symmetries & Quantum Theory
-    - Quantum Chemistry & Applications to Condensed Matter Physics
+  Topics:
+    - Statistical physics of Turbulence
+    - Spin glasses
+    - Stochastic chemical reaction networks
+    - Pattern formation in Biology
+    - Stochastic Gradient Descent and Machine Learning
+    - Statistical physics of long-range systems
+  Target Audience: 
+    - Ph.D. students, post-doctoral fellows and interested faculty members
 
 - Name: Radio Astronomy School
   Link: http://www.ncra.tifr.res.in/ncra/students/external-students/ras-2015
-  Institute: NCRA-TIFR
+  Venue: NCRA-TIFR
   Time: August/September
   Topics: 
     - techniques and excitement of radio astronomy, especially in the context of the Giant Metrewave Radio Telescope (GMRT)
@@ -91,7 +91,7 @@
 
 - Name: JTG Summer School
   Link: https://ece.iisc.ac.in/~jtg/2023/index.html
-  Institute: IISc (2023)
+  Venue: IISc (2023)
   Time: June
   Topics: 
     - contemporary research topics in signal processing, telecommunication, and networking
@@ -100,7 +100,7 @@
 
 - Name: Training School in Observational Astronomy
   Link: https://www.aries.res.in/atsoa2022/
-  Institute: ARIES Nainital
+  Venue: ARIES Nainital
   Time: May
   Topics: 
     - telescopes
@@ -113,7 +113,7 @@
 
 - Name: Physics of Life - Annual Monsoon School
   Link: https://www.ncbs.res.in/events/monsoon-school-0
-  Institute: NCBS Bangalore
+  Venue: NCBS Bangalore
   Time: June
   Topics:
     - "exciting problems in biology: the structure and function of biomolecules; the organization of cells; the development of organisms from embryos to adults; the structure and function of the brain; populations and ecosystems; and aspects of evolution."
@@ -123,7 +123,7 @@
     - Must not have participated in any of the previous Monsoon Schools.
 - Name: KAAS Summer School in Theoretical Physics 
   Link:  https://pdpu.ac.in/downloads/SSTP_June2022.pdf
-  Institute:  Kshama Ahmedabad Academy of Sciences (KAAS)
+  Venue:  Kshama Ahmedabad Academy of Sciences (KAAS)
   Time: June
   Topics:
     - Classical Physics; Quantum Physics; Mathematical and Statistical Methods with Python
@@ -135,7 +135,7 @@
     - and 1st and 2nd year MSc (Physics) students
 - Name: IIA Summer programme
   Link: https://www.iiap.res.in/summer_school/?q=HOME
-  Institute: Indian Institute of Astrophysics (IIA)
+  Venue: Indian Institute of Astrophysics, Bangalore
   Time: July
   Topics:
     - Exoplanets, Solar Physics
@@ -146,7 +146,7 @@
     - students who are in the pre-final year of their M.Sc/Integrated M.Sc./Integrated BS-MS (in Physics/Astronomy)/B.E/B.Tech
 - Name: Nonperturbative and numerical approaches to quantum gravity, string theory and holography
   Link: https://www.icts.res.in/program/numstrings2022
-  Institute: ICTS
+  Venue: International Center for Theoretical Sciences, Bangalore
   Time: August-September
   Topics:
     - Lattice Supersymmetric Field Theories
@@ -158,7 +158,7 @@
 
 - Name: Heliophysics Summer School
   Link: https://cpaess.ucar.edu/heliophysics/summer-school
-  Institute: NASA
+  Venue: NASA
   Time: August
   Topics: 
     - physics of core processes that describe the domains of the heliosphere
@@ -171,7 +171,7 @@
 
 - Name: Plasma Physics Laboratory Graduate Summer School
   Link: https://gss.pppl.gov/2021/
-  Institute: Princeton
+  Venue: Princeton
   Time: August
   Topics: 
     - Computational Methods in Plasma Physics
@@ -182,7 +182,7 @@
 
 - Name: Wolfram Summer School
   Link: https://education.wolfram.com/summer-school
-  Institute: Champaign, Illinois (Wolfram Headquarters)
+  Venue: Champaign, Illinois (Wolfram Headquarters)
   Time: July
   Topics: 
     - Wolfram models—a new class of discrete models for the fundamental structure of spacetime
@@ -193,7 +193,7 @@
 
 - Name: Boulder School in Condensed Matter and Materials Physics
   Link: https://boulderschool.yale.edu/
-  Institute: University of Colorado
+  Venue: University of Colorado
   Time: July
   Topics: 
     - condensed matter physics
@@ -205,7 +205,7 @@
 
 - Name: NSF/DOE Quantum Science Summer School
   Link: https://qs3.mit.edu/index.php/summer-school-program
-  Institute: University of California
+  Venue: University of California
   Time: July
   Topics: 
     - condensed matter physics
@@ -216,7 +216,7 @@
 
 - Name: Tri-Institute Summer School on Elementary Particles
   Link: https://www.trisep.ca/
-  Institute: TRIUMF, Vancouver
+  Venue: TRIUMF, Vancouver
   Time: July
   Topics: 
     - Standard model
@@ -234,7 +234,7 @@
 
 - Name: Canadian Astroparticle Physics Summer School
   Link: https://mcdonaldinstitute.ca/capss/capss-info/
-  Institute: Queen’s University
+  Venue: Queen’s University
   Time: July
   Topics: 
     - Astrophysical evidence for dark Matter
@@ -248,7 +248,7 @@
 
 - Name: Complex Systems Summer School
   Link: https://www.santafe.edu/engage/learn/programs/sfi-complex-systems-summer-school
-  Institute:  Santa Fe Institute
+  Venue:  Santa Fe Institute
   Time: June - July
   Topics: 
     - theory and methods used to describe and predict the behavior of complex systems.
@@ -259,7 +259,7 @@
 
 - Name: ICTP Summer School on Particle Physics
   Link: https://indico.ictp.it/event/10182
-  Institute: ICTP, Trieste, Italy
+  Venue: ICTP, Trieste, Italy
   Time: June
   Topics: 
     - detailed overview of particle physics from the basics of Standard Model phenomenology to the most important areas where significant progress has been achieved recently.
@@ -269,7 +269,7 @@
 
 - Name: International School of Physics Enrico Fermi
   Link: https://www.sif.it/corsi
-  Institute: Villa Monastero at Varenna
+  Venue: Villa Monastero at Varenna
   Time: June - July
   Topics: 
     - cultural impact
@@ -280,7 +280,7 @@
 
 - Name: Summer School in Medical Physics
   Link: https://www.dkfz.de/en/medphys/education_and_training/summer_school2022.html
-  Institute: German Cancer Research Center
+  Venue: German Cancer Research Center
   Time: September
   Topics:
     - the biological background, biological modelling and the dose-volume effects 
@@ -290,52 +290,10 @@
     - national and international young scientists and graduates (BSc or MSc or PhD students)
     - require a degree in Physics, Medical Physics, Radiation Therapy or similar
     - BSc students should be at the end of their studies
-- Name: Winter Workshop and School on Astroparticle Physics
-  Link: http://www.jcbose.ac.in/wapp
-  Institute: Bose Institute, Kolkata & TIFR Mumbai
-  Time: December
-  Topics:
-    - New developments in the field of solar physics, cosmic rays, astrophysics, gamma-ray astronomy, neutrino physics, dark matter and energy
-    - recent results from direct and indirect measurements from experimental programs in these areas will be discussed in the workshop
-  Target Audience:
-    - unclear
 
-- Name: "Statistical Biological Physics: From Single Molecule to Cell"
-  Link: https://www.icts.res.in/program/SBP2022
-  Institute: ICTS, Bangalore
-  Time: October
-  Topics:
-    - fluctuations-and-noise' in stochastic biological processes
-    - common conceptual themes and theoretical techniques (both mathematical and computational)
-    - their applications to subcellular and cellular phenomena
-  Target Audience: 
-    - Ph.D. students
-    - post-doctoral fellows
-- Name: Frustrated Metals and Insulators
-  Link: https://www.icts.res.in/program/frumi2022
-  Institute: ICTS, Bangalore
-  Time: September
-  Topics:
-    - synergetic foundation of frustration phenomena in metals as well as insulators
-    - the development of analytical and numerical methods to address aspects of frustration in electronic systems, and to intensify the dialogue between theoretical conceptualization and experimental realization
-    - frustrated magnetism, superconductivity and topological states of matter
-  Target Audience: 
-    - graduate students
-    - postdocs
-    - faculties with overlapping research interests
-- Name: Tipping Points in Complex Systems
-  Link: https://www.icts.res.in/program/tipc2022
-  Institute: ICTS, Bangalore
-  Time: September
-  Topics:
-    - all the three major types of tipping; B-tipping, N-tipping and R-tipping
-    - recent advances on tipping point research including the application of machine learning
-  Target Audience: 
-    - currently registered PhD students, postdocs, and faculty
-    - exceptionally qualified MSc students
 - Name: Kavli Asian Winter School on Strings, Particles and Cosmology
   Link: https://www.icts.res.in/program/kaws2022
-  Institute: ICTS, Bangalore
+  Venue: International Center for Theoretical Sciences, Bangalore
   Time: January
   Topics:
     - Black hole information paradox, Conformal and S-matrix Bootstrap
@@ -346,72 +304,39 @@
     - advanced graduate students
     - postdoctoral fellows
     - active researchers
-- Name: Second Preparatory School on Population Genetics and Evolution
-  Link: https://www.icts.res.in/program/popgen2023
-  Institute: ICTS, Bangalore
-  Time: February
-  Topics:
-    - basic evolutionary forces, neutral theory of molecular evolution, probability
-    - stochastic models of evolution, basic genetics, genome structure
-    - introduction to sequencing technology, and designing experimental evolution studies
-  Target Audience: 
-    - Students from diverse backgrounds who are interested in population genetics or evolution
-    - preferably in their final year of a Master’s degree or 1st or 2nd year Ph.D. students
-- Name: Bangalore School on Population Genetics and Evolution
-  Link: https://www.icts.res.in/program/popgen2022
-  Institute: ICTS, Bangalore
-  Time: January
-  Topics:
-    - evolutionary rescue, mechanisms and dynamics of molecular evolution
-    - microbial range expansions and the use of pedigrees in population genetics
-  Target Audience: 
-    - advanced PhD students and postdocs
-    - we may also accept PhD students and MSc students at an earlier stage
-- Name: International Winter SChool on Frontiers in Material Science
-  Link: https://www.jncasr.ac.in/winterschool/
-  Institute: JNCASR, Bangalore
-  Time: December
-  Topics:
-    - frontier areas of research in material science
-  Target Audience: 
-    - graduate students, young researchers, and scientists with background in physics, chemistry and engineering
-- Name: Radio Astronomy Winter School for College and University Students
-  Link: https://www.icts.res.in/program/popgen2022
-  Institute: ICTS, Bangalore
-  Time: December
-  Topics:
-    - experimental work and lectures on radio astronomy
-  Target Audience: 
-    - second and third year of BSc/BS/int. MSc/int. MS/BE/Btech
+
 - Name: ACM India Online Winter School
   Link: https://india.acm.org/education/about-acm-india-summer-winter-schools
-  Institute: virtual
+  Venue: virtual
   Time: January 
   Topics:
     - in-depth knowledge and exposure to research in advanced technology areas
     - academic and applied research
   Target Audience: 
     - students in the pre-final year of Bachelor's program or higher,
+
 - Name: Nordic Winter School on Particle Physics and Cosmology
   Link: https://indico.nbi.ku.dk/event/1324/
-  Institute: Thon Hotel Skeikampen, Norway
+  Venue: Thon Hotel Skeikampen, Norway
   Time: February
   Topics:
     - current exciting topics in particle physics and cosmology
   Target Audience: 
     - phd students, but also at junior postdocs and outstanding master's students
+
 - Name: Wolfram Physics Project Winter School
   Link: https://education.wolfram.com/winter-school/
-  Institute: Wolfram Project
+  Venue: Wolfram Project
   Time: January
   Topics:
     - cutting-edge contributions to our understanding of general relativity, quantum field theory and mathematical physics
   Target Audience: 
     - advanced, research-oriented students in mathematics and physics
     - those with a strong background in algorithmic programming
+
 - Name: CHIPP Winter School of Particle Physics
   Link: https://indico.cern.ch/event/1077376/
-  Institute: Swiss Institute for Particle Physics (CHIPP)
+  Venue: Swiss Institute for Particle Physics (CHIPP)
   Time: January
   Topics:
     - recent advances in elementary-particle physics
@@ -420,15 +345,16 @@
     - 
 - Name: ITAMP/B2 Winter School
   Link: https://lweb.cfa.harvard.edu/itamp-events/winterschool
-  Institute: Institute for Theoretical Atomic Molecular and Optical Physics
+  Venue: Institute for Theoretical Atomic Molecular and Optical Physics
   Time: Januray/February
   Topics:
     - Cold molecules and their interactions
   Target Audience: 
     - 
+
 - Name: KIAS-APCTP Winter School on Statistical Physics
   Link: http://events.kias.re.kr/h/statphys.winterschool/?pageNo=4526
-  Institute: Korea Institute for Advanced Study (KIAS)
+  Venue: Korea Institute for Advanced Study (KIAS)
   Time: Januray
   Topics:
     - Fundamentals of Phase Transitions and Critical Phenomena (HP) 
@@ -436,3 +362,60 @@
     - Numerical Methods to Study Critical Phenomena (DHK)
   Target Audience: 
     - graduate students and early-career scientists 
+
+- Name: Quantum Matter International Conference
+  Link: https://www.quantumconf.eu/
+  Venue: Espacio Pablo VI, Spain
+  Time: May
+  Topics:
+    - quantum technologies
+    - emerging quantum materials and novel generations of quantum communication protocols
+    - quantum sensing and quantum simulation
+  Target Audience: 
+    - 
+
+- Name: National Conference on Condensed Matter Physics and Applications
+  Link: https://conference.manipal.edu/cmpa/
+  Venue: Manipal Institute of Technology
+  Time: December
+  Topics:
+    - Materials for environmental sustainability
+    - Semiconductor devices, Photonic materials, Thin films and nanotechnology
+    - Radiation – matter interaction, Materials characterization
+    - Superconductivity, Crystal growth and characterization
+    - Polymers, glasses, and ceramics, Bio-materials, thermoelectric materials
+    - Spintronics materials
+  Target Audience: 
+    - academicians, teachers, and young researchers 
+
+- Name: Frontier Symposium Physics
+  Link: https://conference.iisertvm.ac.in/frontiersphysics/
+  Venue: IISER Thiruvananthapuram
+  Time: February
+  Topics:
+    - current and emerging research in Physics and interdisciplinary areas
+  Target Audience: 
+    - 
+
+- Name: International Conference on Medical Physics
+  Link: https://www.icmp2023.org/index.html
+  Venue: DAE Convention Centre, Anushaktinagar, Mumbai
+  Time: December
+  Topics:
+    - medical physics, radiation technology
+    - radiation oncology, medical imaging
+    - associated radiation safety
+  Target Audience: 
+    - 
+
+- Name: Kodaikanal Winter School on Solar Physics
+  Link: https://www.icmp2023.org/index.html
+  Venue: Indian Institute of Astrophysics, Bangalore
+  Time: January
+  Topics:
+    - Introduction to the subject of solar astronomy
+    - An overview of current research topics
+    - Unsolved problems in solar physics.
+  Target Audience: 
+    - students who are currently pursuing their M.Sc./M.Tech/B.Tech. degree and will be completing by June in the disciplines of Astronomy/Physics/Mathematics/Engineering
+    - students who have successfully completed their M.Sc./M.Tech/B.Tech. degree during the previous year in the disciplines of Astronomy/Physics/Mathematics/Engineering

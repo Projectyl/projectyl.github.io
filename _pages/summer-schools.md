@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /schools/
-title: Summer & winter physics schools and conferences
+title: Summer & Winter Schools and Conferences in Physics
 excerpt: List of annual summer & winter schools and conferences held in India and abroad
 classes: wide
 toc_sticky: true
@@ -24,19 +24,18 @@ header:
 
 {% assign data = site.data.summer_schools %}
 {% assign length = data | size %}
-{% assign half_length = length | divided_by:2 | minus:1 %}
+{% assign half_length = length | divided_by:2 %}
 {% for i in  (0..half_length)  %}
-{% assign index = i | times:2 | minus:1 %}
+{% assign index = i | times:2 %}
 <div markdown=1 class="horizontal__block">
  {% for in in (1..2) %}
- {% assign index = index | plus:1 %}
  <div markdown=1 class="vertical__block">
   {% if index >= length %}{% continue %}{% endif %}
   {% assign row = data[index] %}
-  <h3>{{ index | plus:1 }}. {{ row["Name"] }}</h3>
-  {{ row["Institute"] }}&nbsp;&nbsp;&nbsp;[Webpage]({{ row["Link"] }}){: .btn .btn--info}<br>
-  **Timeframe**: {{ row["Time"] }}
-  <div class="btn btn--danger details__hider" onclick="hide__details()">Show details</div>
+  <h3>{{ row["Name"] | upcase }} </h3>
+  {{ row["Venue"] }}<br>
+  **Timeframe**: {{ row["Time"] }}<br>
+  [Webpage]({{ row["Link"] }}){: .btn .btn--info}&nbsp;&nbsp;&nbsp;<span class="btn btn--danger details__hider" onclick="hide__details()">Show details</span>
   <div markdown=1 class="schools__details">
   **Topics:**
   {%- for t in row["Topics"] %}
@@ -49,22 +48,16 @@ header:
   - {{ t }}
   {%- endfor %}
   </div>
-  <hr class="thick__line only_when_small">
  </div>
+ {% assign index = index | plus:1 %}
  {% endfor %}
 </div>
-<hr class="thick__line only_when_large">
+{% if index < length %}<hr class="thick__line">{% endif %}
 {% endfor %}
 
 <script>
 function hide__details() {
-    if (event.target.textContent == "Show details") {
-        event.target.textContent = "Hide details";
-        event.target.nextSibling.nextSibling.style.display = "block";
-    } 
-    else {
-        event.target.textContent = "Show details";
-        event.target.nextSibling.nextSibling.style.display = "none";
-    }
+    event.target.textContent = event.target.textContent == "Show details" ? "Hide details" : "Show details";
+    event.target.nextSibling.nextSibling.style.display = event.target.textContent == "Show details" ? "none": "block";
 }
 </script>
