@@ -24,86 +24,36 @@ header:
 
 {% assign data = site.data.summer_schools %}
 {% assign length = data | size %}
-{% assign half_length = length | divided_by:2 | plus:1 %}
+{% assign half_length = length | divided_by:2 | minus:1 %}
 {% for i in  (0..half_length)  %}
-{% assign index1 = i | times:2 %}
-{% assign index2 = index1 | plus:1 %}
+{% assign index = i | times:2 | minus:1 %}
 <div markdown=1 class="horizontal__block">
-<div markdown=1 class="vertical__block">
-{% if index1 >= length %}
-{% continue %}
-{% endif %}
-{% assign row = data[index1] %}
-{% assign name = row["Name"] %}
-{% if name == blank %}
-{% continue %}
-{% endif %}
-{% assign link = row["Link"] %}
-
-### {{ name }}
-
-**Institute**: {{ row["Institute"] }}
-<br>
-**Webpage**: [**Link**]({{ link }})
-<br>
-**Time-frame**: {{ row["Time"] }}
-
-<div class="btn btn--danger details__hider"  onclick="hide__details()">Show details</div>
-
-<div markdown=1 class="schools__details">
-**Topics:**
-{%- for t in row["Topics"] %}
-- {{ t }}
-<br>
-{%- endfor %}
-
-**Target Audience:**
-<br>
-{%- for t in row["Target Audience"] %}
-- {{ t }}
-{%- endfor %}
+ {% for in in (1..2) %}
+ {% assign index = index | plus:1 %}
+ <div markdown=1 class="vertical__block">
+  {% if index >= length %}{% continue %}{% endif %}
+  {% assign row = data[index] %}
+  <h3>{{ index | plus:1 }}. {{ row["Name"] }}</h3>
+  {{ row["Institute"] }}&nbsp;&nbsp;&nbsp;[Webpage]({{ row["Link"] }}){: .btn .btn--info}<br>
+  **Timeframe**: {{ row["Time"] }}
+  <div class="btn btn--danger details__hider" onclick="hide__details()">Show details</div>
+  <div markdown=1 class="schools__details">
+  **Topics:**
+  {%- for t in row["Topics"] %}
+  - {{ t }}
+  <br>
+  {%- endfor %}
+  **Target Audience:**
+  <br>
+  {%- for t in row["Target Audience"] %}
+  - {{ t }}
+  {%- endfor %}
+  </div>
+  <hr class="thick__line only_when_small">
+ </div>
+ {% endfor %}
 </div>
-
-<hr class="thick__line only_when_small">
-
-</div>
-<div markdown=1 class="vertical__block">
-{% if index2 >= length %}
-{% continue %}
-{% endif %}
-{% assign row = data[index2] %}
-
-{% assign name = row["Name"] %}
-{% assign link = row["Link"] %}
-
-### {{ name }}
-
-**Institute**: {{ row["Institute"] }}
-<br>
-**Webpage**: [**Link**]({{ link }})
-<br>
-**Time-frame**: {{ row["Time"] }}
-
-<div class="btn btn--danger details__hider"  onclick="hide__details()">Show details</div>
-
-<div markdown=1 class="schools__details">
-**Topics:**
-{%- for t in row["Topics"] %}
-- {{ t }}
-<br>
-{%- endfor %}
-
-**Target Audience:**
-<br>
-{%- for t in row["Target Audience"] %}
-- {{ t }}
-{%- endfor %}
-</div>
-</div>
-</div>
-
-<hr class="thick__line">
-
+<hr class="thick__line only_when_large">
 {% endfor %}
 
 <script>

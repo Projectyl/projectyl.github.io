@@ -80,18 +80,28 @@ table {
 	width: 100%;
 	@include breakpoint($medium) {
 		float: left;
-		width: 46%;
+		width: 48%;
 	}
 }
 
 .vertical__block + .vertical__block {
 	@include breakpoint($medium) {
-		margin-left: 8%;
+		margin-left: 4%;
 	}
 }
 
 hr.thick__line {
-	border-top: 0.2em #666 solid;
+	border-top: 0.2em #888 dotted;
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+hr.only_when_large {
+	display: none;
+	@include breakpoint($medium) {
+		display: block;
+	}
 }
 
 hr.only_when_small {
